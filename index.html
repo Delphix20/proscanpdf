@@ -163,6 +163,26 @@
             transform: scale(1.05);
         }
 
+        .secondary-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 14px 32px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px solid var(--cyan);
+            border-radius: 25px;
+            color: var(--cyan);
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .secondary-button:hover {
+            background: var(--cyan);
+            color: var(--bg-dark);
+            transform: scale(1.05);
+        }
+
         /* Feature Sections */
         .section {
             padding: 120px 40px;
@@ -487,6 +507,7 @@
 
     <!-- Hero Section -->
     <section class="hero">
+        <img src="appicon.png" alt="ProScan PDF Icon" style="width: 120px; height: 120px; border-radius: 26px; margin-bottom: 30px; box-shadow: 0 20px 60px rgba(7, 240, 255, 0.3);">
         <h1>ProScan PDF</h1>
         <div class="subtitle">Scan smarter. Work faster.</div>
         <p>AI-powered scanner built for work and personal use. OCR, secure signing, and pro features in one easy-to-use app. No ads. No watermarks. Ever.</p>
@@ -690,6 +711,8 @@
         <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731">
             <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1280620800" alt="Download on the App Store" class="app-store-badge">
         </a>
+        <br>
+        <a href="https://paulcrp.com" class="secondary-button">Explore Our Other Apps →</a>
     </section>
 
     <!-- Footer -->
