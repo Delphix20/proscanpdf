@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProScan PDF - AI-Powered Scanner & Editor</title>
     <link rel="icon" type="image/png" href="appicon.png">
-    
+
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3NM8S5S7K0"></script>
     <script>
@@ -13,8 +13,7 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-3NM8S5S7K0');
-        
-        // Helper function for tracking button clicks
+
         function trackAppStoreClick(location) {
             gtag('event', 'click', {
                 'event_category': 'App Store Download',
@@ -22,729 +21,1003 @@
             });
         }
     </script>
-    
+
+    <!-- SF-ish rounded look (keep Nunito as fallback) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        :root {
+        :root{
             --cyan: #07F0FF;
-            --bg-dark: #0A1E3F;
-            --text-light: #FFFFFF;
-            --text-gray: #A0A0A0;
+            --bg0: #05070B;      /* deep black */
+            --bg1: #060A12;      /* subtle lifted black */
+            --ink: #FFFFFF;
+            --muted: rgba(255,255,255,0.70);
+            --muted2: rgba(255,255,255,0.55);
+
+            /* glass surfaces */
+            --glass: rgba(255,255,255,0.06);
+            --glass2: rgba(255,255,255,0.08);
+            --stroke: rgba(255,255,255,0.12);
+            --stroke2: rgba(255,255,255,0.18);
+            --cyanStroke: rgba(7,240,255,0.35);
+            --cyanStrokeStrong: rgba(7,240,255,0.60);
+
+            --radius-xl: 28px;
+            --radius-lg: 22px;
+            --radius-md: 16px;
+            --radius-sm: 12px;
+
+            --shadow-soft: 0 18px 60px rgba(0,0,0,0.55);
+            --shadow-cyan: 0 18px 60px rgba(7,240,255,0.12);
         }
 
-        body {
-            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background-color: var(--bg-dark);
-            color: var(--text-light);
+        html, body { height: 100%; }
+
+        body{
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
+                         "Segoe UI", Roboto, "Helvetica Neue", Arial, "Nunito", sans-serif;
+            background: var(--bg0);
+            color: var(--ink);
             overflow-x: hidden;
         }
 
-        /* Navigation */
-        nav {
+        /* Glossy background (similar vibe to GlossyBackground()) */
+        body::before{
+            content:"";
             position: fixed;
-            top: 0;
-            width: 100%;
-            background: rgba(10, 30, 63, 0.8);
-            backdrop-filter: blur(20px);
-            z-index: 1000;
-            padding: 20px 0;
-            transition: all 0.3s ease;
+            inset: -200px;
+            z-index: -2;
+            background:
+                radial-gradient(900px 700px at 20% 10%, rgba(7,240,255,0.18), transparent 55%),
+                radial-gradient(800px 600px at 85% 20%, rgba(255,255,255,0.10), transparent 55%),
+                radial-gradient(900px 700px at 65% 85%, rgba(7,240,255,0.10), transparent 60%),
+                linear-gradient(180deg, #05070B 0%, #070A12 60%, #05070B 100%);
+            filter: saturate(120%);
         }
 
-        nav.scrolled {
-            background: rgba(10, 30, 63, 0.95);
-            padding: 15px 0;
+        /* subtle noise */
+        body::after{
+            content:"";
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.20'/%3E%3C/svg%3E");
+            opacity: 0.07;
+            mix-blend-mode: overlay;
         }
 
-        .nav-container {
+        /* Shared */
+        a { color: inherit; }
+        .container{
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 40px;
-            display: flex;
+            padding: 0 24px;
+        }
+
+        .glass{
+            background: linear-gradient(180deg, rgba(255,255,255,0.075) 0%, rgba(255,255,255,0.05) 100%);
+            border: 1px solid var(--stroke);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+        }
+
+        .chip{
+            display:inline-flex;
+            align-items:center;
+            gap:10px;
+            padding: 10px 14px;
+            border-radius: 999px;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.12);
+            color: rgba(255,255,255,0.85);
+            font-weight: 700;
+            font-size: 12px;
+            letter-spacing: 0.2px;
+        }
+
+        .cyan{
+            color: var(--cyan);
+        }
+
+        /* Navigation (matches app’s dark top bar) */
+        nav{
+            position: fixed;
+            top:0;
+            width:100%;
+            z-index: 1000;
+            padding: 14px 0;
+            transition: all .25s ease;
+        }
+
+        nav .nav-bar{
+            border-radius: 999px;
+            padding: 10px 14px;
+            background: rgba(0,0,0,0.55);
+            border: 1px solid rgba(255,255,255,0.10);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            transition: all .25s ease;
+        }
+
+        nav.scrolled{
+            padding: 10px 0;
+        }
+        nav.scrolled .nav-bar{
+            background: rgba(0,0,0,0.72);
+            border-color: rgba(255,255,255,0.12);
+        }
+
+        .nav-container{
+            display:flex;
+            align-items:center;
             justify-content: space-between;
-            align-items: center;
+            gap: 16px;
         }
 
-        .logo {
-            font-size: 18px;
-            font-weight: 800;
-            color: var(--cyan);
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .logo img {
-            width: 32px;
-            height: 32px;
-            border-radius: 8px;
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 40px;
-            list-style: none;
-        }
-
-        .nav-links a {
-            color: var(--text-light);
-            text-decoration: none;
-            font-weight: 600;
+        .logo{
+            display:flex;
+            align-items:center;
+            gap:10px;
+            text-decoration:none;
+            font-weight: 900;
+            letter-spacing: .2px;
             font-size: 14px;
-            transition: color 0.3s ease;
         }
-
-        .nav-links a:hover {
+        .logo img{
+            width: 30px;
+            height: 30px;
+            border-radius: 10px;
+            box-shadow: 0 12px 30px rgba(7,240,255,0.10);
+            border: 1px solid rgba(255,255,255,0.14);
+        }
+        .logo span{
+            color: rgba(255,255,255,0.92);
+        }
+        .logo .brand{
             color: var(--cyan);
         }
 
-        .cta-button {
-            background: var(--cyan);
-            color: var(--bg-dark);
-            padding: 8px 20px;
-            border-radius: 25px;
-            text-decoration: none;
+        .nav-links{
+            display:flex;
+            gap: 18px;
+            list-style:none;
+            align-items:center;
+        }
+        .nav-links a{
+            text-decoration:none;
             font-weight: 800;
             font-size: 12px;
-            transition: all 0.3s ease;
-            display: inline-block;
+            color: rgba(255,255,255,0.75);
+            padding: 10px 12px;
+            border-radius: 999px;
+            transition: all .2s ease;
+        }
+        .nav-links a:hover{
+            color: rgba(255,255,255,0.95);
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.10);
         }
 
-        .cta-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 8px 30px rgba(7, 240, 255, 0.4);
-        }
-
-        /* Hero Section */
-        .hero {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            padding: 120px 40px 80px;
-            background: linear-gradient(180deg, var(--bg-dark) 0%, #061428 100%);
-        }
-
-        .hero h1 {
-            font-size: 72px;
+        /* App-style primary button (cyan pill) */
+        .btn{
+            display:inline-flex;
+            align-items:center;
+            justify-content:center;
+            gap: 10px;
+            padding: 12px 18px;
+            border-radius: 999px;
             font-weight: 900;
-            margin-bottom: 20px;
-            background: linear-gradient(135deg, var(--cyan) 0%, #05A8B5 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: fadeInUp 1s ease;
+            font-size: 12px;
+            text-decoration:none;
+            transition: transform .15s ease, box-shadow .2s ease, opacity .2s ease, background .2s ease;
+            user-select:none;
+            -webkit-tap-highlight-color: transparent;
         }
+        .btn:active{ transform: scale(0.96); opacity: 0.85; }
 
-        .hero .subtitle {
-            font-size: 32px;
-            font-weight: 700;
-            color: var(--text-light);
-            margin-bottom: 20px;
-            animation: fadeInUp 1s ease 0.2s both;
-        }
-
-        .hero p {
-            font-size: 18px;
-            color: var(--text-gray);
-            max-width: 700px;
-            margin: 0 auto 40px;
-            line-height: 1.6;
-            animation: fadeInUp 1s ease 0.4s both;
-        }
-
-        .hero-buttons {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
-            animation: fadeInUp 1s ease 0.6s both;
-        }
-
-        .app-store-badge {
-            height: 60px;
-            transition: transform 0.3s ease;
-        }
-
-        .app-store-badge:hover {
-            transform: scale(1.05);
-        }
-
-        .secondary-button {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 14px 32px;
-            background: rgba(255, 255, 255, 0.1);
-            border: 2px solid var(--cyan);
-            border-radius: 25px;
-            color: var(--cyan);
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 16px;
-            transition: all 0.3s ease;
-        }
-
-        .secondary-button:hover {
+        .btn-primary{
             background: var(--cyan);
-            color: var(--bg-dark);
-            transform: scale(1.05);
+            color: #041018;
+            box-shadow: 0 14px 45px rgba(7,240,255,0.18);
+        }
+        .btn-primary:hover{
+            box-shadow: 0 18px 60px rgba(7,240,255,0.24);
+            transform: translateY(-1px);
         }
 
-        /* Feature Sections */
-        .section {
-            padding: 120px 40px;
-            max-width: 1400px;
-            margin: 0 auto;
+        /* Glass / ghost button like app */
+        .btn-glass{
+            background: rgba(255,255,255,0.07);
+            border: 1px solid rgba(255,255,255,0.14);
+            color: var(--cyan);
+        }
+        .btn-glass:hover{
+            border-color: var(--cyanStroke);
+            box-shadow: var(--shadow-cyan);
         }
 
-        .section-header {
-            text-align: center;
-            margin-bottom: 80px;
+        /* Hero */
+        .hero{
+            min-height: 100vh;
+            display:flex;
+            align-items:center;
+            padding: 120px 0 70px;
         }
 
-        .section-header h2 {
-            font-size: 56px;
+        .hero-grid{
+            display:grid;
+            grid-template-columns: 1.15fr 0.85fr;
+            gap: 46px;
+            align-items:center;
+        }
+
+        .hero-card{
+            border-radius: var(--radius-xl);
+            padding: 26px;
+            box-shadow: var(--shadow-soft);
+        }
+
+        .hero-top{
+            display:flex;
+            align-items:center;
+            justify-content: space-between;
+            gap: 14px;
+            margin-bottom: 20px;
+        }
+
+        .appicon{
+            display:flex;
+            align-items:center;
+            gap: 14px;
+        }
+
+        .appicon img{
+            width: 64px;
+            height: 64px;
+            border-radius: 18px;
+            border: 1px solid rgba(255,255,255,0.14);
+            box-shadow: 0 18px 55px rgba(7,240,255,0.14);
+        }
+
+        .appicon .name{
+            line-height: 1.1;
+        }
+        .appicon .name h1{
+            font-size: 34px;
             font-weight: 900;
-            margin-bottom: 20px;
-            background: linear-gradient(135deg, var(--cyan) 0%, #FFFFFF 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            letter-spacing: -0.6px;
         }
-
-        .section-header p {
-            font-size: 24px;
-            color: var(--text-gray);
-            max-width: 800px;
-            margin: 0 auto;
-        }
-
-        /* Features Grid */
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 40px;
-            margin-top: 60px;
-        }
-
-        .feature-card {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(7, 240, 255, 0.1);
-            border-radius: 20px;
-            padding: 40px;
-            transition: all 0.3s ease;
-        }
-
-        .feature-card:hover {
-            transform: translateY(-10px);
-            border-color: var(--cyan);
-            box-shadow: 0 20px 40px rgba(7, 240, 255, 0.1);
-        }
-
-        .feature-icon {
-            width: 60px;
-            height: 60px;
-            background: linear-gradient(135deg, var(--cyan) 0%, #05A8B5 100%);
-            border-radius: 15px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 30px;
-            margin-bottom: 20px;
-            color: var(--bg-dark);
-        }
-
-        .feature-card h3 {
-            font-size: 24px;
+        .appicon .name .tag{
+            margin-top: 6px;
+            font-size: 13px;
             font-weight: 800;
-            margin-bottom: 15px;
-            color: var(--text-light);
+            color: rgba(255,255,255,0.72);
         }
 
-        .feature-card p {
-            font-size: 16px;
-            color: var(--text-gray);
-            line-height: 1.6;
-        }
-
-        /* Large Feature Showcase */
-        .showcase {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 80px;
-            align-items: center;
-            margin: 100px 0;
-        }
-
-        .showcase.reverse {
-            direction: rtl;
-        }
-
-        .showcase.reverse > * {
-            direction: ltr;
-        }
-
-        .showcase-content h3 {
+        .hero-title{
+            margin-top: 6px;
             font-size: 48px;
             font-weight: 900;
-            margin-bottom: 20px;
-            color: var(--cyan);
+            letter-spacing: -1px;
+            line-height: 1.05;
         }
 
-        .showcase-content p {
-            font-size: 20px;
-            color: var(--text-gray);
-            line-height: 1.7;
-            margin-bottom: 30px;
+        .hero-title .grad{
+            background: linear-gradient(135deg, var(--cyan) 0%, rgba(255,255,255,0.92) 45%, rgba(7,240,255,0.70) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip:text;
         }
 
-        .showcase-image {
-            background: linear-gradient(135deg, rgba(7, 240, 255, 0.1) 0%, rgba(7, 240, 255, 0.05) 100%);
-            border-radius: 30px;
-            height: 500px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border: 2px solid rgba(7, 240, 255, 0.2);
-            overflow: hidden;
+        .hero-sub{
+            margin-top: 14px;
+            max-width: 650px;
+            color: var(--muted);
+            font-size: 16px;
+            line-height: 1.65;
         }
 
-        .showcase-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 28px;
+        .hero-actions{
+            margin-top: 22px;
+            display:flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items:center;
         }
 
-        /* Pricing Section */
-        .pricing-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-            gap: 20px;
-            margin-top: 60px;
-            max-width: 1200px;
-            margin-left: auto;
-            margin-right: auto;
+        .app-store-badge{
+            height: 56px;
+            transition: transform .2s ease, opacity .2s ease;
+            border-radius: 12px;
+        }
+        .app-store-badge:hover{ transform: translateY(-1px) scale(1.02); }
+
+        /* iPhone mock area */
+        .phone-shell{
+            border-radius: 42px;
+            padding: 18px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.10);
+            box-shadow: var(--shadow-soft);
         }
 
-        .pricing-card {
-            background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.02) 100%);
-            border: 2px solid rgba(7, 240, 255, 0.2);
-            border-radius: 20px;
-            padding: 35px 28px;
-            text-align: center;
-            transition: all 0.3s ease;
+        .phone-screen{
+            height: 540px;
+            border-radius: 34px;
+            overflow:hidden;
             position: relative;
+            background: linear-gradient(180deg, rgba(7,240,255,0.10) 0%, rgba(255,255,255,0.04) 40%, rgba(0,0,0,0.15) 100%);
+            border: 1px solid rgba(255,255,255,0.10);
         }
 
-        .pricing-card.featured {
-            border-color: var(--cyan);
-            background: linear-gradient(180deg, rgba(7, 240, 255, 0.1) 0%, rgba(7, 240, 255, 0.05) 100%);
-            transform: scale(1.03);
+        .phone-screen img{
+            width:100%;
+            height:100%;
+            object-fit: cover;
+            opacity: 0.95;
         }
 
-        .pricing-card:hover {
-            transform: translateY(-10px) scale(1.03);
-            box-shadow: 0 30px 60px rgba(7, 240, 255, 0.2);
+        .phone-overlay{
+            position:absolute;
+            inset:0;
+            background:
+                radial-gradient(400px 260px at 20% 20%, rgba(7,240,255,0.16), transparent 60%),
+                radial-gradient(500px 380px at 70% 70%, rgba(255,255,255,0.10), transparent 60%);
+            pointer-events:none;
+            mix-blend-mode: screen;
         }
 
-        .pricing-card.featured:hover {
-            transform: translateY(-10px) scale(1.03);
+        /* Sections */
+        .section{
+            padding: 90px 0;
         }
 
-        .pricing-badge {
-            position: absolute;
-            top: -15px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: var(--cyan);
-            color: var(--bg-dark);
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-weight: 800;
-            font-size: 12px;
+        .section-head{
+            text-align:center;
+            margin-bottom: 44px;
         }
 
-        .pricing-card h4 {
-            font-size: 24px;
-            font-weight: 800;
-            margin-bottom: 12px;
-            color: var(--text-light);
+        .section-head h2{
+            font-size: 40px;
+            font-weight: 900;
+            letter-spacing: -0.7px;
+            line-height: 1.15;
         }
 
-        .pricing-card .price {
-            font-size: 42px;
+        .section-head h2 .grad{
+            background: linear-gradient(135deg, var(--cyan) 0%, rgba(255,255,255,0.92) 70%);
+            -webkit-background-clip:text;
+            -webkit-text-fill-color: transparent;
+            background-clip:text;
+        }
+
+        .section-head p{
+            margin: 14px auto 0;
+            max-width: 820px;
+            font-size: 16px;
+            color: var(--muted);
+            line-height: 1.65;
+        }
+
+        /* Feature grid (glass cards like the app rows/tiles) */
+        .features-grid{
+            display:grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 16px;
+        }
+
+        .feature-card{
+            border-radius: var(--radius-lg);
+            padding: 22px;
+            transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+        }
+
+        .feature-card:hover{
+            transform: translateY(-4px);
+            border-color: var(--cyanStroke);
+            box-shadow: var(--shadow-cyan);
+        }
+
+        .feature-icon{
+            width: 52px;
+            height: 52px;
+            border-radius: 16px;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            background: rgba(255,255,255,0.07);
+            border: 1px solid rgba(255,255,255,0.12);
+            color: var(--cyan);
+            margin-bottom: 14px;
+        }
+
+        .feature-card h3{
+            font-size: 18px;
+            font-weight: 900;
+            margin-bottom: 10px;
+            letter-spacing: -0.3px;
+        }
+
+        .feature-card p{
+            font-size: 14px;
+            color: var(--muted2);
+            line-height: 1.6;
+        }
+
+        /* Showcase blocks (glass + cyan strokes) */
+        .showcase{
+            display:grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 26px;
+            align-items:center;
+            margin-top: 20px;
+        }
+        .showcase + .showcase{ margin-top: 18px; }
+
+        .showcase.reverse{ direction: rtl; }
+        .showcase.reverse > *{ direction:ltr; }
+
+        .showcase-content{
+            border-radius: var(--radius-xl);
+            padding: 24px;
+        }
+
+        .showcase-content h3{
+            font-size: 28px;
             font-weight: 900;
             color: var(--cyan);
-            margin: 15px 0;
+            letter-spacing: -0.4px;
+            margin-bottom: 10px;
         }
 
-        .pricing-card .period {
-            font-size: 14px;
-            color: var(--text-gray);
-            margin-bottom: 25px;
+        .showcase-content p{
+            font-size: 15px;
+            color: var(--muted);
+            line-height: 1.65;
+            margin-bottom: 16px;
         }
 
-        .pricing-features {
-            list-style: none;
-            margin: 25px 0;
-            text-align: left;
+        .showcase-image{
+            border-radius: var(--radius-xl);
+            overflow:hidden;
+            border: 1px solid rgba(255,255,255,0.12);
+            background: rgba(255,255,255,0.04);
+            box-shadow: var(--shadow-soft);
+            height: 420px;
+            position: relative;
+        }
+        .showcase-image img{
+            width:100%;
+            height:100%;
+            object-fit: cover;
+            opacity: 0.98;
+        }
+        .showcase-image::after{
+            content:"";
+            position:absolute;
+            inset:0;
+            border-radius: inherit;
+            border: 2px solid rgba(7,240,255,0.10);
+            pointer-events:none;
         }
 
-        .pricing-features li {
-            padding: 10px 0;
-            color: var(--text-gray);
-            font-size: 14px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        /* Pricing */
+        .pricing-container{
+            display:grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 16px;
+            margin-top: 18px;
         }
 
-        .pricing-features li:before {
-            content: "✓";
+        .pricing-card{
+            border-radius: var(--radius-lg);
+            padding: 22px;
+            text-align:left;
+            position: relative;
+            transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+        }
+
+        .pricing-card:hover{
+            transform: translateY(-4px);
+            border-color: var(--cyanStroke);
+            box-shadow: var(--shadow-cyan);
+        }
+
+        .pricing-card.featured{
+            border-color: var(--cyanStrokeStrong);
+            box-shadow: var(--shadow-cyan);
+            transform: translateY(-2px);
+        }
+        .pricing-card.featured:hover{
+            transform: translateY(-6px);
+        }
+
+        .pricing-badge{
+            position:absolute;
+            top: 16px;
+            right: 16px;
+            background: rgba(7,240,255,0.16);
             color: var(--cyan);
-            font-weight: bold;
-            margin-right: 10px;
+            border: 1px solid rgba(7,240,255,0.30);
+            padding: 8px 12px;
+            border-radius: 999px;
+            font-weight: 900;
+            font-size: 11px;
+            letter-spacing: .3px;
+        }
+
+        .pricing-card h4{
+            font-size: 16px;
+            font-weight: 900;
+            margin-bottom: 8px;
+            color: rgba(255,255,255,0.92);
+        }
+
+        .price-row{
+            display:flex;
+            align-items: baseline;
+            gap: 10px;
+            margin: 12px 0 6px;
+        }
+
+        .pricing-card .price{
+            font-size: 32px;
+            font-weight: 900;
+            color: var(--cyan);
+            letter-spacing: -0.8px;
+        }
+
+        .pricing-card .period{
+            font-size: 12px;
+            color: var(--muted2);
+        }
+
+        .pricing-features{
+            list-style:none;
+            margin-top: 14px;
+            padding-top: 14px;
+            border-top: 1px solid rgba(255,255,255,0.10);
+        }
+
+        .pricing-features li{
+            display:flex;
+            gap: 10px;
+            padding: 9px 0;
+            color: rgba(255,255,255,0.72);
+            font-size: 13px;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .pricing-features li:last-child{ border-bottom: none; }
+
+        .pricing-features li::before{
+            content:"✓";
+            color: var(--cyan);
+            font-weight: 900;
+        }
+
+        .pricing-cta{
+            margin-top: 16px;
+            display:flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        /* Download section (single big glass card like a sheet) */
+        .download-card{
+            border-radius: var(--radius-xl);
+            padding: 26px;
+            text-align:center;
+            box-shadow: var(--shadow-soft);
         }
 
         /* Footer */
-        footer {
-            background: rgba(0, 0, 0, 0.3);
-            padding: 60px 40px 30px;
-            text-align: center;
+        footer{
+            padding: 44px 0 26px;
         }
 
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
+        .footer-card{
+            border-radius: var(--radius-xl);
+            padding: 22px;
+            display:flex;
+            flex-direction: column;
+            gap: 14px;
+            text-align:center;
         }
 
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            gap: 40px;
-            margin-bottom: 30px;
+        .footer-links{
+            display:flex;
+            justify-content:center;
+            gap: 14px;
             flex-wrap: wrap;
         }
 
-        .footer-links a {
-            color: var(--text-gray);
-            text-decoration: none;
-            font-size: 14px;
-            transition: color 0.3s ease;
+        .footer-links a{
+            text-decoration:none;
+            color: rgba(255,255,255,0.60);
+            font-weight: 800;
+            font-size: 12px;
+            padding: 10px 12px;
+            border-radius: 999px;
+            transition: all .2s ease;
+            border: 1px solid transparent;
+        }
+        .footer-links a:hover{
+            color: rgba(255,255,255,0.92);
+            background: rgba(255,255,255,0.06);
+            border-color: rgba(255,255,255,0.10);
         }
 
-        .footer-links a:hover {
-            color: var(--cyan);
+        .copyright{
+            color: rgba(255,255,255,0.55);
+            font-size: 12px;
+            line-height: 1.6;
         }
 
-        .copyright {
-            color: var(--text-gray);
-            font-size: 14px;
-            margin-top: 30px;
-        }
-
-        /* Animations */
+        /* Animations (subtle, app-like) */
         @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(18px); }
+            to   { opacity: 1; transform: translateY(0); }
         }
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 48px;
-            }
+        .reveal{
+            animation: fadeInUp .8s ease both;
+        }
 
-            .hero .subtitle {
-                font-size: 24px;
-            }
+        /* Responsive */
+        @media (max-width: 980px){
+            .hero-grid{ grid-template-columns: 1fr; }
+            .phone-shell{ max-width: 520px; margin: 0 auto; }
+        }
 
-            .section-header h2 {
-                font-size: 36px;
-            }
-
-            .showcase {
-                grid-template-columns: 1fr;
-                gap: 40px;
-            }
-
-            .showcase-content h3 {
-                font-size: 32px;
-            }
-
-            .nav-links {
-                display: none;
-            }
-
-            .pricing-card.featured {
-                transform: scale(1);
-            }
-
-            .pricing-container {
-                grid-template-columns: 1fr;
-            }
-
-            .features-grid {
-                grid-template-columns: 1fr;
-            }
+        @media (max-width: 768px){
+            .nav-links{ display:none; }
+            .hero{ padding: 110px 0 60px; }
+            .hero-title{ font-size: 40px; }
+            .section-head h2{ font-size: 32px; }
+            .showcase{ grid-template-columns: 1fr; }
+            .showcase-image{ height: 320px; }
         }
     </style>
 </head>
+
 <body>
     <!-- Navigation -->
     <nav id="navbar">
-        <div class="nav-container">
-            <a href="#" class="logo">
-                <img src="appicon.png" alt="ProScan PDF">
-                ProScan PDF
-            </a>
-            <ul class="nav-links">
-                <li><a href="#features">Features</a></li>
-                <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#download">Download</a></li>
-            </ul>
-            <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" class="cta-button" onclick="trackAppStoreClick('Navigation Bar')">Download Now</a>
+        <div class="container">
+            <div class="nav-bar">
+                <div class="nav-container">
+                    <a href="#" class="logo" aria-label="ProScan PDF Home">
+                        <img src="appicon.png" alt="ProScan PDF">
+                        <span class="brand">ProScan</span><span>PDF</span>
+                    </a>
+
+                    <ul class="nav-links" aria-label="Primary">
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#pricing">Pricing</a></li>
+                        <li><a href="#download">Download</a></li>
+                    </ul>
+
+                    <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                       class="btn btn-primary"
+                       onclick="trackAppStoreClick('Navigation Bar')">
+                        Download
+                    </a>
+                </div>
+            </div>
         </div>
     </nav>
 
-    <!-- Hero Section -->
+    <!-- Hero -->
     <section class="hero">
-        <img src="appicon.png" alt="ProScan PDF Icon" style="width: 120px; height: 120px; border-radius: 26px; margin-bottom: 30px; box-shadow: 0 20px 60px rgba(7, 240, 255, 0.3);">
-        <h1>ProScan PDF</h1>
-        <div class="subtitle">Scan smarter. Work faster.</div>
-        <p>AI-powered scanner built for work and personal use. OCR, secure signing, and pro features in one easy-to-use app. No ads. No watermarks. Ever.</p>
-        <div class="hero-buttons">
-            <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" onclick="trackAppStoreClick('Hero Section')">
-                <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1280620800" alt="Download on the App Store" class="app-store-badge">
-            </a>
+        <div class="container">
+            <div class="hero-grid">
+                <div class="hero-card glass reveal">
+                    <div class="hero-top">
+                        <div class="appicon">
+                            <img src="appicon.png" alt="ProScan PDF Icon">
+                            <div class="name">
+                                <h1>ProScan PDF</h1>
+                                <div class="tag">Scan • Sign • OCR • Protect</div>
+                            </div>
+                        </div>
+                        <span class="chip"><span class="cyan">●</span> No ads. No watermarks.</span>
+                    </div>
+
+                    <div class="hero-title">
+                        <span class="grad">Scan smarter.</span><br>
+                        Work faster.
+                    </div>
+
+                    <p class="hero-sub">
+                        A premium scanner built for real workflows. OCR, secure signing, page tools, and
+                        password protection — all in one clean, fast app.
+                    </p>
+
+                    <div class="hero-actions">
+                        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                           onclick="trackAppStoreClick('Hero Section')">
+                            <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1280620800"
+                                 alt="Download on the App Store" class="app-store-badge">
+                        </a>
+
+                        <a class="btn btn-glass" href="#features">See features</a>
+                        <a class="btn btn-glass" href="#pricing">Pricing</a>
+                    </div>
+                </div>
+
+                <div class="phone-shell reveal" style="animation-delay:.12s;">
+                    <div class="phone-screen">
+                        <!-- Use an app screenshot here if you have it; fallback uses scan-demo.png -->
+                        <img src="scan-demo.png" alt="ProScan PDF interface preview">
+                        <div class="phone-overlay"></div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- Features Section -->
+    <!-- Features -->
     <section class="section" id="features">
-        <div class="section-header">
-            <h2>Built for real people.<br>Real workflows.</h2>
-            <p>Everything you need to scan, edit, and organize documents in one powerful app.</p>
-        </div>
-
-        <div class="features-grid">
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                        <path d="M2 17l10 5 10-5"/>
-                        <path d="M2 12l10 5 10-5"/>
-                    </svg>
-                </div>
-                <h3>AI-Powered OCR</h3>
-                <p>Extract text instantly with advanced OCR technology. Scan receipts, contracts, and even handwritten notes with impressive accuracy.</p>
+        <div class="container">
+            <div class="section-head reveal">
+                <h2><span class="grad">Built for real workflows.</span></h2>
+                <p>Glass-like UI. Fast actions. Everything you need to scan, edit, and organize PDFs with a premium feel.</p>
             </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M17 3a2.83 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/>
-                    </svg>
+            <div class="features-grid">
+                <div class="feature-card glass reveal" style="animation-delay:.05s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                            <path d="M2 17l10 5 10-5"/>
+                            <path d="M2 12l10 5 10-5"/>
+                        </svg>
+                    </div>
+                    <h3>AI-Powered OCR</h3>
+                    <p>Extract text instantly with high accuracy. Great for receipts, contracts, and scanned pages.</p>
                 </div>
-                <h3>Sign & Annotate</h3>
-                <p>Add signatures, page numbers, and timestamps to your documents. Everything you need for professional document handling.</p>
-            </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-                        <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-                    </svg>
+                <div class="feature-card glass reveal" style="animation-delay:.08s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M17 3a2.83 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/>
+                        </svg>
+                    </div>
+                    <h3>Sign & Annotate</h3>
+                    <p>Sign, markup, add timestamps, and handle documents like a pro — right from your phone.</p>
                 </div>
-                <h3>Privacy First</h3>
-                <p>Your documents stay on your device. All processing happens locally. When you use iCloud sync, it's between you and Apple.</p>
-            </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/>
-                    </svg>
+                <div class="feature-card glass reveal" style="animation-delay:.11s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+                        </svg>
+                    </div>
+                    <h3>Privacy First</h3>
+                    <p>Your files stay on-device. If you enable iCloud sync, it stays between you and Apple.</p>
                 </div>
-                <h3>iCloud Sync</h3>
-                <p>Automatic iCloud sync keeps your documents up to date across all your devices. Access your files anywhere, anytime.</p>
-            </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
-                        <polyline points="14 2 14 8 20 8"/>
-                        <line x1="16" y1="13" x2="8" y2="13"/>
-                        <line x1="16" y1="17" x2="8" y2="17"/>
-                        <polyline points="10 9 9 9 8 9"/>
-                    </svg>
+                <div class="feature-card glass reveal" style="animation-delay:.14s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/>
+                        </svg>
+                    </div>
+                    <h3>iCloud Sync</h3>
+                    <p>Automatic syncing across iPhone, iPad, and Mac — access your documents anywhere.</p>
                 </div>
-                <h3>Multiple Formats</h3>
-                <p>Create PDFs in standard sizes including A4, Letter, and Legal. Perfect for any professional or personal need.</p>
-            </div>
 
-            <div class="feature-card">
-                <div class="feature-icon">
-                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="12" cy="12" r="10"/>
-                        <line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/>
-                    </svg>
+                <div class="feature-card glass reveal" style="animation-delay:.17s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                            <polyline points="14 2 14 8 20 8"/>
+                            <line x1="16" y1="13" x2="8" y2="13"/>
+                            <line x1="16" y1="17" x2="8" y2="17"/>
+                            <polyline points="10 9 9 9 8 9"/>
+                        </svg>
+                    </div>
+                    <h3>Pro Page Tools</h3>
+                    <p>Organize pages, merge PDFs, export, and keep everything clean and easy to find.</p>
                 </div>
-                <h3>No Ads. Ever.</h3>
-                <p>Productivity apps should help you focus, not distract you. That's why ProScan PDF is completely ad-free and watermark-free.</p>
+
+                <div class="feature-card glass reveal" style="animation-delay:.20s;">
+                    <div class="feature-icon">
+                        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"/>
+                            <line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/>
+                        </svg>
+                    </div>
+                    <h3>No Ads. Ever.</h3>
+                    <p>Zero distractions. No watermarks. Just a premium tool that respects your focus.</p>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Showcase Sections -->
+    <!-- Showcase -->
     <section class="section">
-        <div class="showcase">
-            <div class="showcase-content">
-                <h3>Scan anything.</h3>
-                <p>Documents, receipts, IDs, whiteboards, photos, and more. ProScan PDF handles it all with edge detection and automatic enhancement. Just point and scan.</p>
-                <a href="#download" class="cta-button">Get Started</a>
+        <div class="container">
+            <div class="showcase reveal">
+                <div class="showcase-content glass">
+                    <h3>Scan anything.</h3>
+                    <p>Documents, receipts, IDs, whiteboards — with edge detection and clean enhancement. Point and scan.</p>
+                    <a href="#download" class="btn btn-primary">Get started</a>
+                </div>
+                <div class="showcase-image">
+                    <img src="scan-demo.png" alt="ProScan PDF scanning interface">
+                </div>
             </div>
-            <div class="showcase-image">
-                <img src="scan-demo.png" alt="ProScan PDF scanning interface">
-            </div>
-        </div>
 
-        <div class="showcase reverse">
-            <div class="showcase-content">
-                <h3>OCR that works.</h3>
-                <p>The AI-powered text recognition actually works. Extract editable text in seconds from receipts, contracts, or even handwritten notes.</p>
-                <a href="#download" class="cta-button">Try It Free</a>
+            <div class="showcase reverse reveal">
+                <div class="showcase-content glass">
+                    <h3>OCR that works.</h3>
+                    <p>Extract editable text in seconds — ideal for receipts, contracts, and scanned pages.</p>
+                    <a href="#download" class="btn btn-primary">Try it free</a>
+                </div>
+                <div class="showcase-image">
+                    <img src="ocr-demo.png" alt="ProScan PDF OCR feature">
+                </div>
             </div>
-            <div class="showcase-image">
-                <img src="ocr-demo.png" alt="ProScan PDF OCR feature">
-            </div>
-        </div>
 
-        <div class="showcase">
-            <div class="showcase-content">
-                <h3>Professional tools.</h3>
-                <p>Add signatures, organize pages, password-protect sensitive documents. Everything you need for professional document management.</p>
-                <a href="#download" class="cta-button">Learn More</a>
-            </div>
-            <div class="showcase-image">
-                <img src="tools-demo.png" alt="ProScan PDF professional tools">
+            <div class="showcase reveal">
+                <div class="showcase-content glass">
+                    <h3>Professional tools.</h3>
+                    <p>Sign, organize pages, and password-protect sensitive files — all in a clean, fast workflow.</p>
+                    <a href="#download" class="btn btn-primary">Learn more</a>
+                </div>
+                <div class="showcase-image">
+                    <img src="tools-demo.png" alt="ProScan PDF professional tools">
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Pricing Section -->
+    <!-- Pricing -->
     <section class="section" id="pricing">
-        <div class="section-header">
-            <h2>Simple pricing.<br>Powerful features.</h2>
-            <p>3 free scans daily. Upgrade to Pro for unlimited access.</p>
-        </div>
-
-        <div class="pricing-container">
-            <div class="pricing-card">
-                <h4>Free</h4>
-                <div class="price">$0</div>
-                <div class="period">Always Free</div>
-                <ul class="pricing-features">
-                    <li>3 scans per day</li>
-                    <li>Basic OCR</li>
-                    <li>No ads or watermarks</li>
-                    <li>iCloud sync</li>
-                    <li>Standard formats</li>
-                </ul>
-                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" class="cta-button" onclick="trackAppStoreClick('Pricing - Free Plan')">Download Free</a>
+        <div class="container">
+            <div class="section-head reveal">
+                <h2><span class="grad">Simple pricing.</span> Powerful features.</h2>
+                <p>3 free scans daily. Upgrade to Pro for unlimited access.</p>
             </div>
 
-            <div class="pricing-card">
-                <h4>Pro Monthly</h4>
-                <div class="price">$1.99</div>
-                <div class="period">per month</div>
-                <ul class="pricing-features">
-                    <li>Unlimited scans</li>
-                    <li>Advanced OCR</li>
-                    <li>Document signing</li>
-                    <li>Password protection</li>
-                    <li>All formats</li>
-                    <li>Cancel anytime</li>
-                </ul>
-                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" class="cta-button" onclick="trackAppStoreClick('Pricing - Monthly Plan')">Try Free</a>
-            </div>
+            <div class="pricing-container">
+                <div class="pricing-card glass reveal" style="animation-delay:.05s;">
+                    <h4>Free</h4>
+                    <div class="price-row">
+                        <div class="price">$0</div>
+                        <div class="period">Always free</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>3 scans per day</li>
+                        <li>Basic OCR</li>
+                        <li>No ads or watermarks</li>
+                        <li>iCloud sync</li>
+                        <li>Standard formats</li>
+                    </ul>
+                    <div class="pricing-cta">
+                        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                           class="btn btn-primary"
+                           onclick="trackAppStoreClick('Pricing - Free Plan')">Download</a>
+                    </div>
+                </div>
 
-            <div class="pricing-card featured">
-                <div class="pricing-badge">BEST VALUE</div>
-                <h4>Pro Yearly</h4>
-                <div class="price">$9.99</div>
-                <div class="period">per year</div>
-                <ul class="pricing-features">
-                    <li>Unlimited scans</li>
-                    <li>Advanced OCR</li>
-                    <li>Document signing</li>
-                    <li>Password protection</li>
-                    <li>All formats</li>
-                    <li>Save 58% vs monthly</li>
-                </ul>
-                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" class="cta-button" onclick="trackAppStoreClick('Pricing - Yearly Plan')">Start Free Trial</a>
-            </div>
+                <div class="pricing-card glass reveal" style="animation-delay:.08s;">
+                    <h4>Pro Monthly</h4>
+                    <div class="price-row">
+                        <div class="price">$1.99</div>
+                        <div class="period">per month</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>Unlimited scans</li>
+                        <li>Advanced OCR</li>
+                        <li>Document signing</li>
+                        <li>Password protection</li>
+                        <li>All formats</li>
+                        <li>Cancel anytime</li>
+                    </ul>
+                    <div class="pricing-cta">
+                        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                           class="btn btn-primary"
+                           onclick="trackAppStoreClick('Pricing - Monthly Plan')">Try free</a>
+                    </div>
+                </div>
 
-            <div class="pricing-card">
-                <h4>Pro Lifetime</h4>
-                <div class="price">$29.99</div>
-                <div class="period">one-time purchase</div>
-                <ul class="pricing-features">
-                    <li>Unlimited scans forever</li>
-                    <li>Advanced OCR</li>
-                    <li>Document signing</li>
-                    <li>Password protection</li>
-                    <li>All formats</li>
-                    <li>Lifetime updates</li>
-                </ul>
-                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" class="cta-button" onclick="trackAppStoreClick('Pricing - Lifetime Plan')">Buy Once</a>
+                <div class="pricing-card glass featured reveal" style="animation-delay:.11s;">
+                    <div class="pricing-badge">BEST VALUE</div>
+                    <h4>Pro Yearly</h4>
+                    <div class="price-row">
+                        <div class="price">$9.99</div>
+                        <div class="period">per year</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>Unlimited scans</li>
+                        <li>Advanced OCR</li>
+                        <li>Document signing</li>
+                        <li>Password protection</li>
+                        <li>All formats</li>
+                        <li>Save 58% vs monthly</li>
+                    </ul>
+                    <div class="pricing-cta">
+                        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                           class="btn btn-primary"
+                           onclick="trackAppStoreClick('Pricing - Yearly Plan')">Start trial</a>
+                    </div>
+                </div>
+
+                <div class="pricing-card glass reveal" style="animation-delay:.14s;">
+                    <h4>Pro Lifetime</h4>
+                    <div class="price-row">
+                        <div class="price">$29.99</div>
+                        <div class="period">one-time</div>
+                    </div>
+                    <ul class="pricing-features">
+                        <li>Unlimited scans forever</li>
+                        <li>Advanced OCR</li>
+                        <li>Document signing</li>
+                        <li>Password protection</li>
+                        <li>All formats</li>
+                        <li>Lifetime updates</li>
+                    </ul>
+                    <div class="pricing-cta">
+                        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                           class="btn btn-primary"
+                           onclick="trackAppStoreClick('Pricing - Lifetime Plan')">Buy once</a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Download Section -->
-    <section class="section" id="download" style="text-align: center;">
-        <div class="section-header">
-            <h2>Ready to scan smarter?</h2>
-            <p>Join thousands of users who've switched to a cleaner, faster way to handle documents.</p>
+    <!-- Download -->
+    <section class="section" id="download">
+        <div class="container">
+            <div class="download-card glass reveal">
+                <div class="section-head" style="margin-bottom: 18px;">
+                    <h2><span class="grad">Ready to scan smarter?</span></h2>
+                    <p>Join users who switched to a cleaner, faster way to handle documents.</p>
+                </div>
+
+                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                   onclick="trackAppStoreClick('Download Section')">
+                    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1280620800"
+                         alt="Download on the App Store" class="app-store-badge">
+                </a>
+
+                <div style="margin-top: 14px;">
+                    <a href="https://paulcrp.com"
+                       class="btn btn-glass"
+                       onclick="gtag('event', 'click', {'event_category': 'External Link', 'event_label': 'Other Apps Button'})">
+                        Explore other apps →
+                    </a>
+                </div>
+            </div>
         </div>
-        <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" onclick="trackAppStoreClick('Download Section')">
-            <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1280620800" alt="Download on the App Store" class="app-store-badge">
-        </a>
-        <br>
-        <a href="https://paulcrp.com" class="secondary-button" onclick="gtag('event', 'click', {'event_category': 'External Link', 'event_label': 'Other Apps Button'})">Explore Our Other Apps →</a>
     </section>
 
     <!-- Footer -->
     <footer>
-        <div class="footer-content">
-            <div class="footer-links">
-                <a href="mailto:info@proscanpdf.com">Contact</a>
-                <a href="https://paulcrp.com/proscanpdf_privacypolicy.html">Privacy Policy</a>
-                <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Service</a>
-                <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731" onclick="trackAppStoreClick('Footer')">App Store</a>
-            </div>
-            <div class="copyright">
-                © 2025 ProScan PDF. All rights reserved.<br>
-                iPhone, iPad, and Mac are trademarks of Apple Inc.
+        <div class="container">
+            <div class="footer-card glass">
+                <div class="footer-links">
+                    <a href="mailto:info@proscanpdf.com">Contact</a>
+                    <a href="https://paulcrp.com/proscanpdf_privacypolicy.html">Privacy Policy</a>
+                    <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Service</a>
+                    <a href="https://apps.apple.com/ro/app/proscan-pdf-scan-sign-ocr/id6752308731"
+                       onclick="trackAppStoreClick('Footer')">App Store</a>
+                </div>
+
+                <div class="copyright">
+                    © 2025 ProScan PDF. All rights reserved.<br>
+                    iPhone, iPad, and Mac are trademarks of Apple Inc.
+                </div>
             </div>
         </div>
     </footer>
@@ -753,11 +1026,8 @@
         // Navbar scroll effect
         const navbar = document.getElementById('navbar');
         window.addEventListener('scroll', () => {
-            if (window.scrollY > 50) {
-                navbar.classList.add('scrolled');
-            } else {
-                navbar.classList.remove('scrolled');
-            }
+            if (window.scrollY > 50) navbar.classList.add('scrolled');
+            else navbar.classList.remove('scrolled');
         });
 
         // Smooth scrolling for anchor links
@@ -766,10 +1036,7 @@
                 e.preventDefault();
                 const target = document.querySelector(this.getAttribute('href'));
                 if (target) {
-                    target.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }
             });
         });
