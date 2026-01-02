@@ -52,16 +52,24 @@
 
             --shadow-soft: 0 18px 60px rgba(0,0,0,0.35);
             --shadow-cyan: 0 20px 60px rgba(7,240,255,0.14);
+
+            /* ✅ Single full-page background gradient (top → bottom) */
+            --bg-grad-top: #0A1E3F;
+            --bg-grad-mid: #071A36;
+            --bg-grad-bot: #061428;
         }
 
         body {
             font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background-color: var(--bg-dark);
             color: var(--text-light);
             overflow-x: hidden;
+
+            /* ✅ one continuous background for the whole site */
+            background: linear-gradient(180deg, var(--bg-grad-top) 0%, var(--bg-grad-mid) 45%, var(--bg-grad-bot) 100%);
+            background-attachment: fixed;
         }
 
-        /* Subtle glossy background vibes (light touch) */
+        /* Keep subtle glossy vibe, but it sits on top of the single gradient */
         body::before {
             content: "";
             position: fixed;
@@ -85,13 +93,17 @@
             z-index: 1000;
             padding: 18px 0;
             transition: all 0.3s ease;
-            border-bottom: 1px solid rgba(255,255,255,0.08);
+
+            /* ✅ remove bottom line */
+            border-bottom: none;
         }
 
         nav.scrolled {
             background: rgba(0, 0, 0, 0.50);
             padding: 14px 0;
-            border-bottom-color: rgba(255,255,255,0.10);
+
+            /* ✅ still no bottom line */
+            border-bottom: none;
         }
 
         .nav-container {
@@ -143,7 +155,7 @@
             border: 1px solid rgba(255,255,255,0.10);
         }
 
-        /* ✅ Download button: NO glow */
+        /* Download button: NO glow */
         .cta-button {
             background: var(--cyan);
             color: #061428;
@@ -176,7 +188,9 @@
             align-items: center;
             text-align: center;
             padding: 120px 40px 80px;
-            background: linear-gradient(180deg, var(--bg-dark) 0%, #061428 100%);
+
+            /* ✅ remove section-specific background so the whole page shares one background */
+            background: transparent;
         }
 
         .hero h1 {
@@ -256,6 +270,9 @@
             padding: 120px 40px;
             max-width: 1400px;
             margin: 0 auto;
+
+            /* ✅ keep transparent so background is continuous */
+            background: transparent;
         }
 
         .section-header {
@@ -280,7 +297,7 @@
             margin: 0 auto;
         }
 
-        /* ✅ Features Grid: force 3 per row on desktop */
+        /* Features Grid: 3 per row on desktop */
         .features-grid {
             display: grid;
             grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -288,7 +305,7 @@
             margin-top: 60px;
         }
 
-        /* ✅ Feature cards: darker like app cards */
+        /* Feature cards: darker like app cards */
         .feature-card {
             background: rgba(0, 0, 0, 0.28);
             border: 1px solid rgba(255,255,255,0.10);
@@ -539,50 +556,28 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* ✅ Responsive Design */
+        /* Responsive Design */
         @media (max-width: 1024px) {
-            .features-grid {
-                grid-template-columns: repeat(2, minmax(0, 1fr));
-            }
+            .features-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         }
 
         @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 48px;
-            }
-
-            .hero .subtitle {
-                font-size: 24px;
-            }
-
-            .section-header h2 {
-                font-size: 36px;
-            }
+            .hero h1 { font-size: 48px; }
+            .hero .subtitle { font-size: 24px; }
+            .section-header h2 { font-size: 36px; }
 
             .showcase {
                 grid-template-columns: 1fr;
                 gap: 40px;
             }
 
-            .showcase-content h3 {
-                font-size: 32px;
-            }
+            .showcase-content h3 { font-size: 32px; }
 
-            .nav-links {
-                display: none;
-            }
+            .nav-links { display: none; }
 
-            .pricing-card.featured {
-                transform: scale(1);
-            }
-
-            .pricing-container {
-                grid-template-columns: 1fr;
-            }
-
-            .features-grid {
-                grid-template-columns: 1fr;
-            }
+            .pricing-card.featured { transform: scale(1); }
+            .pricing-container { grid-template-columns: 1fr; }
+            .features-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
