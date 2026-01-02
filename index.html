@@ -79,16 +79,12 @@
             position: fixed;
             top: 0;
             width: 100%;
-
-            /* darker, more app-like */
             background: rgba(0, 0, 0, 0.35);
             backdrop-filter: blur(18px);
             -webkit-backdrop-filter: blur(18px);
-
             z-index: 1000;
             padding: 18px 0;
             transition: all 0.3s ease;
-
             border-bottom: 1px solid rgba(255,255,255,0.08);
         }
 
@@ -137,7 +133,6 @@
             font-weight: 700;
             font-size: 14px;
             transition: all 0.25s ease;
-
             padding: 10px 14px;
             border-radius: 999px;
         }
@@ -148,7 +143,7 @@
             border: 1px solid rgba(255,255,255,0.10);
         }
 
-        /* App-like primary CTA (cyan pill) */
+        /* ✅ Download button: NO glow */
         .cta-button {
             background: var(--cyan);
             color: #061428;
@@ -157,14 +152,14 @@
             text-decoration: none;
             font-weight: 900;
             font-size: 12px;
-            transition: transform 0.18s ease, box-shadow 0.25s ease, opacity 0.2s ease;
             display: inline-block;
-            box-shadow: 0 18px 55px rgba(7, 240, 255, 0.18);
+            transition: transform 0.18s ease, opacity 0.2s ease, background 0.2s ease;
+            box-shadow: none;
         }
 
         .cta-button:hover {
             transform: translateY(-1px);
-            box-shadow: 0 22px 70px rgba(7, 240, 255, 0.22);
+            box-shadow: none;
         }
 
         .cta-button:active {
@@ -172,7 +167,7 @@
             opacity: 0.9;
         }
 
-        /* Hero Section (KEEP layout as-is; just match background tone) */
+        /* Hero Section */
         .hero {
             min-height: 100vh;
             display: flex;
@@ -181,8 +176,6 @@
             align-items: center;
             text-align: center;
             padding: 120px 40px 80px;
-
-            /* keep original style but tuned to app dark blue */
             background: linear-gradient(180deg, var(--bg-dark) 0%, #061428 100%);
         }
 
@@ -235,13 +228,10 @@
             display: inline-block;
             margin-top: 20px;
             padding: 14px 32px;
-
-            /* more app-like glass ghost */
             background: var(--glass-fill);
             border: 1px solid var(--glass-cyan-stroke);
             backdrop-filter: blur(14px);
             -webkit-backdrop-filter: blur(14px);
-
             border-radius: 999px;
             color: var(--cyan);
             text-decoration: none;
@@ -290,39 +280,37 @@
             margin: 0 auto;
         }
 
-        /* Features Grid (update card design only) */
+        /* ✅ Features Grid: force 3 per row on desktop */
         .features-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(3, minmax(0, 1fr));
             gap: 40px;
             margin-top: 60px;
         }
 
+        /* ✅ Feature cards: darker like app cards */
         .feature-card {
-            background: linear-gradient(180deg, var(--glass-fill-strong) 0%, var(--glass-fill) 100%);
-            border: 1px solid var(--glass-stroke);
+            background: rgba(0, 0, 0, 0.28);
+            border: 1px solid rgba(255,255,255,0.10);
             border-radius: 22px;
             padding: 40px;
             transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
-            box-shadow: 0 18px 55px rgba(0,0,0,0.18);
+            box-shadow: 0 18px 55px rgba(0,0,0,0.22);
         }
 
         .feature-card:hover {
             transform: translateY(-8px);
-            border-color: var(--glass-cyan-stroke);
-            box-shadow: var(--shadow-cyan);
+            border-color: rgba(7, 240, 255, 0.28);
+            box-shadow: 0 18px 55px rgba(0,0,0,0.26);
         }
 
         .feature-icon {
             width: 60px;
             height: 60px;
-
-            /* glass icon tile like app */
             background: rgba(255,255,255,0.07);
             border: 1px solid rgba(255,255,255,0.14);
-
             border-radius: 16px;
             display: flex;
             align-items: center;
@@ -345,7 +333,7 @@
             line-height: 1.6;
         }
 
-        /* Large Feature Showcase (keep layout; adjust card styling) */
+        /* Large Feature Showcase */
         .showcase {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -383,7 +371,6 @@
             display: flex;
             align-items: center;
             justify-content: center;
-
             border: 1px solid rgba(255,255,255,0.14);
             backdrop-filter: blur(18px);
             -webkit-backdrop-filter: blur(18px);
@@ -398,7 +385,7 @@
             border-radius: 28px;
         }
 
-        /* Pricing Section (keep layout; tune card style) */
+        /* Pricing Section */
         .pricing-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -494,12 +481,11 @@
             margin-right: 10px;
         }
 
-        /* Footer (app-like glass) */
+        /* Footer */
         footer {
             background: rgba(0, 0, 0, 0.22);
             backdrop-filter: blur(18px);
             -webkit-backdrop-filter: blur(18px);
-
             padding: 60px 40px 30px;
             text-align: center;
             border-top: 1px solid rgba(255,255,255,0.08);
@@ -508,8 +494,6 @@
         .footer-content {
             max-width: 1200px;
             margin: 0 auto;
-
-            /* glass container like a bottom sheet/card */
             background: linear-gradient(180deg, var(--glass-fill-strong) 0%, var(--glass-fill) 100%);
             border: 1px solid rgba(255,255,255,0.12);
             border-radius: 26px;
@@ -531,7 +515,6 @@
             font-size: 14px;
             font-weight: 700;
             transition: all 0.25s ease;
-
             padding: 10px 14px;
             border-radius: 999px;
             border: 1px solid transparent;
@@ -556,17 +539,50 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Responsive Design (unchanged layout rules) */
+        /* ✅ Responsive Design */
+        @media (max-width: 1024px) {
+            .features-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
         @media (max-width: 768px) {
-            .hero h1 { font-size: 48px; }
-            .hero .subtitle { font-size: 24px; }
-            .section-header h2 { font-size: 36px; }
-            .showcase { grid-template-columns: 1fr; gap: 40px; }
-            .showcase-content h3 { font-size: 32px; }
-            .nav-links { display: none; }
-            .pricing-card.featured { transform: scale(1); }
-            .pricing-container { grid-template-columns: 1fr; }
-            .features-grid { grid-template-columns: 1fr; }
+            .hero h1 {
+                font-size: 48px;
+            }
+
+            .hero .subtitle {
+                font-size: 24px;
+            }
+
+            .section-header h2 {
+                font-size: 36px;
+            }
+
+            .showcase {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            .showcase-content h3 {
+                font-size: 32px;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .pricing-card.featured {
+                transform: scale(1);
+            }
+
+            .pricing-container {
+                grid-template-columns: 1fr;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
