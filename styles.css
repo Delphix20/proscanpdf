@@ -295,6 +295,7 @@ p {
 
 .text-link span {
     display: grid;
+    flex: 0 0 32px;
     width: 32px;
     height: 32px;
     place-items: center;
@@ -302,6 +303,12 @@ p {
     border-radius: 50%;
     color: var(--teal-bright);
     transition: transform 0.25s ease, background 0.25s ease;
+}
+
+.text-link span svg {
+    width: 15px;
+    height: 15px;
+    stroke-width: 2.6;
 }
 
 .text-link:hover span {
