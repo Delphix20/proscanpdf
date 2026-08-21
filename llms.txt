@@ -1,0 +1,48 @@
+# ProScan PDF
+
+> ProScan PDF is a private document scanner and PDF toolkit for iPhone and iPad. Core document processing happens locally on the user's device. The app contains no ads and does not add watermarks.
+
+Official website: https://proscanpdf.com/
+App Store: https://apps.apple.com/app/id6752308731
+Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
+Developer: https://paulcrp.com/
+Support: devpaulcrp@gmail.com
+
+## Main capabilities
+
+- Scan documents, receipts, IDs, photos, forms, black-and-white text and whiteboards.
+- Choose from eight scanning modes: Document, Auto, Receipt, ID, Photo, Form, B&W Text and Whiteboard.
+- Configure A4, Letter, Legal and other page sizes, portrait or landscape orientation, page numbers and timestamps.
+- Capture text with Live OCR and extract editable text from scanned documents.
+- Create searchable PDF copies and search their text in the PDF viewer.
+- Convert PDFs to editable Word documents while preserving layout where possible.
+- Convert photos to PDF and export PDF pages as images.
+- Add colored text watermarks and compress scanned or image-based PDFs.
+- Create passport and ID photos in exact sizes and printable photo sheets.
+- Extract, reorder, insert or delete PDF pages and merge multiple PDFs.
+- Add signatures and text form boxes, password-protect PDFs and share files.
+
+## Privacy and storage
+
+- Core scanning, OCR and PDF processing run on the device and can work offline.
+- ProScan PDF does not upload user documents to its own servers.
+- Files are stored in the app's local library for fast access.
+- When iCloud is available, private backup copies can be stored in the user's iCloud account.
+- iCloud backup and online sharing require a network connection.
+
+## Availability
+
+- Platforms: iPhone and iPad.
+- Current documented version: 2.7.
+- Free use: three free scans every day.
+- Pro: optional plans unlock unlimited scanning and all Pro tools.
+- Appearance: seven themes with matching app icons.
+- Languages: English, German, Spanish, French, Italian, Dutch, Polish, Portuguese (Brazil and Portugal), Turkish, Simplified Chinese, Japanese, Korean and Hindi.
+
+## Important limitations
+
+- PDF to Word preserves layout where possible; complex documents may not convert perfectly.
+- Compression is optimized for scanned and image-based PDFs.
+- iCloud availability depends on the user's Apple account, settings and network connection.
+
+Last updated: 2026-08-21
