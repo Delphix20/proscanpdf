@@ -2,24 +2,42 @@
 
 > ProScan PDF is a private document scanner and PDF toolkit for iPhone and iPad. Core document processing happens locally on the user's device. The app contains no ads and does not add watermarks.
 
-Official website: https://proscanpdf.com/
-German website: https://proscanpdf.com/de/
-French website: https://proscanpdf.com/fr/
-Spanish website: https://proscanpdf.com/es/
-Italian website: https://proscanpdf.com/it/
-Dutch website: https://proscanpdf.com/nl/
-Brazilian Portuguese website: https://proscanpdf.com/pt-br/
-European Portuguese website: https://proscanpdf.com/pt-pt/
-Polish website: https://proscanpdf.com/pl/
-Turkish website: https://proscanpdf.com/tr/
-Simplified Chinese website: https://proscanpdf.com/zh-hans/
-Japanese website: https://proscanpdf.com/ja/
-Korean website: https://proscanpdf.com/ko/
-Hindi website: https://proscanpdf.com/hi/
-App Store: https://apps.apple.com/app/id6752308731
-Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
-Developer: https://paulcrp.com/
-Support: devpaulcrp@gmail.com
+Official website: [proscanpdf.com](https://proscanpdf.com/)
+German website: [Deutsch](https://proscanpdf.com/de/)
+French website: [Français](https://proscanpdf.com/fr/)
+Spanish website: [Español](https://proscanpdf.com/es/)
+Italian website: [Italiano](https://proscanpdf.com/it/)
+Dutch website: [Nederlands](https://proscanpdf.com/nl/)
+Brazilian Portuguese website: [Português do Brasil](https://proscanpdf.com/pt-br/)
+European Portuguese website: [Português de Portugal](https://proscanpdf.com/pt-pt/)
+Polish website: [Polski](https://proscanpdf.com/pl/)
+Turkish website: [Türkçe](https://proscanpdf.com/tr/)
+Simplified Chinese website: [简体中文](https://proscanpdf.com/zh-hans/)
+Japanese website: [日本語](https://proscanpdf.com/ja/)
+Korean website: [한국어](https://proscanpdf.com/ko/)
+Hindi website: [हिन्दी](https://proscanpdf.com/hi/)
+App Store: [Download ProScan PDF](https://apps.apple.com/app/id6752308731)
+Privacy policy: [ProScan PDF Privacy Policy](https://paulcrp.com/proscanpdf_privacypolicy.html)
+Developer: [Paul Crapatureanu](https://paulcrp.com/)
+Support: info@proscanpdf.com
+
+## Detailed feature guides
+
+- [Scan to PDF](https://proscanpdf.com/scan-to-pdf/)
+- [Photos to PDF](https://proscanpdf.com/photo-to-pdf/)
+- [Compress PDF](https://proscanpdf.com/pdf-compressor/)
+- [Sign and password-protect PDF](https://proscanpdf.com/sign-pdf/)
+- [PDF to Word](https://proscanpdf.com/pdf-to-word/)
+- [ID Photo Maker](https://proscanpdf.com/id-photo-maker/)
+- [OCR and searchable PDFs](https://proscanpdf.com/ocr-text-extraction/)
+- [Organize PDF pages](https://proscanpdf.com/organize-pdf-pages/)
+
+## Machine-readable references
+
+- [Full product reference](https://proscanpdf.com/llms-full.txt)
+- [Feature catalog](https://proscanpdf.com/docs/features.md)
+- [PDF tool reference](https://proscanpdf.com/docs/pdf-tools.md)
+- [Privacy and processing](https://proscanpdf.com/docs/privacy-and-processing.md)
 
 ## Main capabilities
 

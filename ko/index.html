@@ -26,7 +26,7 @@
     <link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/">
     <link rel="icon" type="image/svg+xml" href="../assets/proscan-mark.svg">
     <link rel="alternate icon" type="image/png" href="../appicon.png">
-    <link rel="preload" as="image" href="../assets/ko/screen-home.webp" type="image/webp">
+    <link rel="preload" as="image" href="../assets/ko/screen-home.webp" imagesrcset="../assets/ko/screen-home-360.webp 360w, ../assets/ko/screen-home-540.webp 540w, ../assets/ko/screen-home.webp 720w" imagesizes="(max-width: 700px) 76vw, 360px" type="image/webp">
 
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ko_KR">
@@ -47,26 +47,16 @@
     <meta property="og:title" content="ProScan PDF – 문서를 스캔하고 편집하고 보호하세요">
     <meta property="og:description" content="iPhone과 iPad를 위한 문서 스캐너와 완전한 PDF 도구 모음. 광고와 워터마크가 없습니다.">
     <meta property="og:url" content="https://proscanpdf.com/ko/">
-    <meta property="og:image" content="https://proscanpdf.com/appicon.png">
-    <meta property="og:image:alt" content="ProScan PDF 앱 아이콘">
-    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="https://proscanpdf.com/assets/proscan-social-card.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="ProScan PDF document scanner and PDF tools">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="ProScan PDF – 문서 스캐너">
     <meta name="twitter:description" content="iPhone과 iPad에서 PDF를 스캔, 편집, 서명, 압축, 변환하세요. 광고와 워터마크가 없습니다.">
-    <meta name="twitter:image" content="https://proscanpdf.com/appicon.png">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800;900&amp;family=Nunito:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../styles.css">
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6B1X79SYTC"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-6B1X79SYTC');
-    </script>
+    <meta name="twitter:image" content="https://proscanpdf.com/assets/proscan-social-card.webp">
+    <link rel="preload" href="/assets/fonts/nunito-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="../styles.min.css?v=seo-guides-2">
 
     <script type="application/ld+json">
     {
@@ -133,6 +123,37 @@
       ]
     }
     </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://proscanpdf.com/#organization",
+          "name": "ProScan PDF",
+          "url": "https://proscanpdf.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://proscanpdf.com/appicon.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "sameAs": [
+            "https://apps.apple.com/app/id6752308731",
+            "https://paulcrp.com/"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://proscanpdf.com/#website",
+          "url": "https://proscanpdf.com/",
+          "name": "ProScan PDF",
+          "publisher": {"@id": "https://proscanpdf.com/#organization"},
+          "inLanguage": ["en", "de", "es", "fr", "it", "nl", "pl", "pt-BR", "pt-PT", "tr", "zh-Hans", "ja", "ko", "hi"]
+        }
+      ]
+    }
+    </script>
 </head>
 <body>
     <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
@@ -183,7 +204,7 @@
             </div>
             <div class="header-actions">
                 <details class="language-selector" data-language-selector>
-                    <summary aria-label="언어 선택">
+                    <summary aria-label="한 — 언어 선택">
                         <svg aria-hidden="true"><use href="#icon-language"></use></svg>
                         <span>한</span>
                         <svg class="language-chevron" aria-hidden="true"><use href="#icon-chevron-down"></use></svg>
@@ -234,7 +255,7 @@
                 <div class="hero-visual hero-enter" aria-label="ProScan PDF 홈 화면 미리보기">
                     <div class="device device-hero">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-home.webp" width="720" height="1565" alt="8가지 스캔 모드가 있는 ProScan PDF Paper on Ink 홈 화면" fetchpriority="high">
+                        <img src="../assets/ko/screen-home.webp" srcset="../assets/ko/screen-home-360.webp 360w, ../assets/ko/screen-home-540.webp 540w, ../assets/ko/screen-home.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="8가지 스캔 모드가 있는 ProScan PDF Paper on Ink 홈 화면" fetchpriority="high">
                     </div>
                 </div>
             </div>
@@ -270,7 +291,7 @@
                     <div class="document-shadow" aria-hidden="true"></div>
                     <div class="device device-scan">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-scan.webp" width="720" height="1565" alt="ProScan PDF 스캐너에서 문서를 촬영하는 화면" loading="lazy" decoding="async">
+                        <img src="../assets/ko/screen-scan.webp" srcset="../assets/ko/screen-scan-360.webp 360w, ../assets/ko/screen-scan-540.webp 540w, ../assets/ko/screen-scan.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="ProScan PDF 스캐너에서 문서를 촬영하는 화면" loading="lazy" decoding="async">
                         <div class="scan-beam" aria-hidden="true"></div>
                     </div>
                     <div class="scanner-note scanner-note-top"><b>자동 가장자리 감지</b><span>적은 조작으로 선명하게</span></div>
@@ -289,7 +310,7 @@
                 <div class="tools-layout">
                     <div class="device tools-device reveal">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-tools.webp" width="720" height="1565" alt="ProScan PDF 도구 화면" loading="lazy" decoding="async">
+                        <img src="../assets/ko/screen-tools.webp" srcset="../assets/ko/screen-tools-360.webp 360w, ../assets/ko/screen-tools-540.webp 540w, ../assets/ko/screen-tools.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="ProScan PDF 도구 화면" loading="lazy" decoding="async">
                     </div>
                     <div class="tool-grid">
                         <article class="tool-card reveal"><div class="tool-icon"><svg><use href="#icon-images"></use></svg></div><div><h3>사진을 PDF로</h3><p>한 장 이상의 사진을 깔끔한 PDF로 만드세요.</p></div></article>
@@ -310,11 +331,11 @@
                 <div class="organize-visual reveal" aria-label="내 파일 및 페이지 정리 화면 미리보기">
                     <div class="device device-files">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-files.webp" width="720" height="1565" alt="ProScan PDF 내 파일 문서 보관함" loading="lazy" decoding="async">
+                        <img src="../assets/ko/screen-files.webp" srcset="../assets/ko/screen-files-360.webp 360w, ../assets/ko/screen-files-540.webp 540w, ../assets/ko/screen-files.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="ProScan PDF 내 파일 문서 보관함" loading="lazy" decoding="async">
                     </div>
                     <div class="device device-organize">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-organize.webp" width="720" height="1565" alt="페이지 미리보기가 표시된 페이지 정리 화면" loading="lazy" decoding="async">
+                        <img src="../assets/ko/screen-organize.webp" srcset="../assets/ko/screen-organize-360.webp 360w, ../assets/ko/screen-organize-540.webp 540w, ../assets/ko/screen-organize.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="페이지 미리보기가 표시된 페이지 정리 화면" loading="lazy" decoding="async">
                     </div>
                 </div>
                 <div class="section-copy reveal">
@@ -363,7 +384,7 @@
                 <div class="ocr-visual reveal">
                     <div class="device device-ocr">
                         <div class="device-sensor" aria-hidden="true"></div>
-                        <img src="../assets/ko/screen-ocr.webp" width="720" height="1565" alt="문서의 텍스트를 인식하는 실시간 OCR" loading="lazy" decoding="async">
+                        <img src="../assets/ko/screen-ocr.webp" srcset="../assets/ko/screen-ocr-360.webp 360w, ../assets/ko/screen-ocr-540.webp 540w, ../assets/ko/screen-ocr.webp 720w" sizes="(max-width: 700px) 78vw, (max-width: 900px) 360px, 350px" width="720" height="1566" alt="문서의 텍스트를 인식하는 실시간 OCR" loading="lazy" decoding="async">
                     </div>
                 </div>
             </div>
@@ -428,12 +449,12 @@
             <div class="footer-links">
                 <div><strong>제품</strong><a href="#scanner">스캐너</a><a href="#tools">PDF 도구</a><a href="#privacy">개인정보 보호</a><a href="#faq">FAQ</a></div>
                 <div><strong>법적 고지</strong><a href="https://paulcrp.com/proscanpdf_privacypolicy.html" rel="noopener">개인정보 처리방침</a><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" rel="noopener">이용 약관</a></div>
-                <div><strong>더 보기</strong><a href="https://apps.apple.com/app/id6752308731" data-app-store="footer" rel="noopener">App Store</a><a href="mailto:devpaulcrp@gmail.com">지원팀에 문의</a><a href="https://paulcrp.com" rel="noopener">다른 앱 살펴보기</a></div>
+                <div><strong>더 보기</strong><a href="https://apps.apple.com/app/id6752308731" data-app-store="footer" rel="noopener">App Store</a><a href="mailto:info@proscanpdf.com">지원팀에 문의</a><a href="https://paulcrp.com" rel="noopener">다른 앱 살펴보기</a></div>
             </div>
         </div>
         <div class="section-shell footer-bottom"><span>© <span data-year></span> ProScan PDF</span><span>집중하는 작업을 위해 만들었습니다.</span></div>
     </footer>
 
-    <script src="../script.js?v=language-routing-1" defer></script>
+    <script src="../script.min.js?v=seo-guides-2" defer></script>
 </body>
 </html>

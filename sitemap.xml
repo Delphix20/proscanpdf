@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://proscanpdf.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
@@ -21,6 +22,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/de/</loc>
@@ -42,6 +71,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/fr/</loc>
@@ -63,6 +120,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/fr/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/es/</loc>
@@ -84,6 +169,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/es/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/it/</loc>
@@ -105,6 +218,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/it/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/nl/</loc>
@@ -126,6 +267,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/nl/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/pt-br/</loc>
@@ -147,6 +316,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-br/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/pt-pt/</loc>
@@ -168,6 +365,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/pl/</loc>
@@ -189,6 +414,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pl/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/tr/</loc>
@@ -210,6 +463,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/tr/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/zh-hans/</loc>
@@ -231,6 +512,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/zh-hans/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/ja/</loc>
@@ -252,6 +561,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ja/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/ko/</loc>
@@ -273,6 +610,34 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/ko/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://proscanpdf.com/hi/</loc>
@@ -294,5 +659,113 @@
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-home.webp</image:loc>
+      <image:caption>ProScan PDF home screen and scanning modes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-scan.webp</image:loc>
+      <image:caption>Document scanning interface</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>PDF tools in ProScan PDF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-files.webp</image:loc>
+      <image:caption>My Files document library</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-organize.webp</image:loc>
+      <image:caption>Organize PDF pages</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-sign.webp</image:loc>
+      <image:caption>PDF signature and form tools</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-ocr.webp</image:loc>
+      <image:caption>Live OCR text recognition</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/scan-to-pdf/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-scan.webp</image:loc>
+      <image:caption>Scan documents to PDF on iPhone and iPad</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/photo-to-pdf/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-tools.webp</image:loc>
+      <image:caption>Convert one or more photos to PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pdf-compressor/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-tools.webp</image:loc>
+      <image:caption>Compress scanned and image-based PDF files</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/sign-pdf/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-sign.webp</image:loc>
+      <image:caption>Add signatures and text form boxes to PDF files</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pdf-to-word/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-tools.webp</image:loc>
+      <image:caption>Convert PDF files to editable Word documents</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/id-photo-maker/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-tools.webp</image:loc>
+      <image:caption>Create passport and ID photos</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/ocr-text-extraction/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-ocr.webp</image:loc>
+      <image:caption>Extract text and create searchable PDFs</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/organize-pdf-pages/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/screen-organize.webp</image:loc>
+      <image:caption>Extract, reorder, insert, delete and merge PDF pages</image:caption>
+    </image:image>
   </url>
 </urlset>

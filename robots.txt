@@ -1,57 +1,57 @@
 User-agent: OAI-SearchBot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: ChatGPT-User
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: GPTBot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Claude-SearchBot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Claude-User
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: ClaudeBot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: PerplexityBot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Perplexity-User
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Googlebot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Google-Extended
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Bingbot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Applebot
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: Applebot-Extended
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 User-agent: *
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=yes, use=full
 Allow: /
 
 Sitemap: https://proscanpdf.com/sitemap.xml

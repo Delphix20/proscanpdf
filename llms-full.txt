@@ -1,0 +1,84 @@
+# ProScan PDF complete product reference
+
+ProScan PDF is an iPhone and iPad document scanner and PDF toolkit. It is designed for local-first document processing, contains no advertising and does not add an automatic watermark.
+
+Official website: https://proscanpdf.com/
+App Store: https://apps.apple.com/app/id6752308731
+Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
+Developer: https://paulcrp.com/
+Support: info@proscanpdf.com
+
+## Core promise
+
+Users can scan paper, create PDFs, recognize text, convert files, organize pages, sign documents, apply password protection, compress image-heavy PDFs and prepare ID photos without uploading the document to a ProScan PDF server.
+
+## Scan to PDF
+
+The Home screen provides Document, Auto, Receipt, ID, Photo, Form, B&W Text and Whiteboard modes. Before scanning, the user can choose a standard PDF page size, portrait or landscape orientation, page numbering and timestamps. Capture uses Apple's native document scanner. The user taps Finish after the final page, and a confirmation appears when the PDF is saved.
+
+Guide: https://proscanpdf.com/scan-to-pdf/
+
+## Photos to PDF
+
+One photo or multiple selected images can be converted into a PDF. Source proportions are preserved rather than stretched. The resulting PDF appears in My Files and can be organized, compressed, watermarked, signed, locked or shared.
+
+Guide: https://proscanpdf.com/photo-to-pdf/
+
+## Compression
+
+Compression is optimized for scanned and image-based PDFs. The original is retained and a separate compressed copy is created. The result card reports original size, compressed size and percentage reduction. Vector-heavy PDFs may already be efficient and may not shrink substantially.
+
+Guide: https://proscanpdf.com/pdf-compressor/
+
+## Signing and protection
+
+Users can add a signature or text form box to a PDF, save the modified document, create a password-protected copy and share through the standard iOS share sheet. Passwords should be communicated through a separate channel for sensitive documents.
+
+Guide: https://proscanpdf.com/sign-pdf/
+
+## PDF to Word
+
+PDF to Word creates editable DOCX text and uses recognized text blocks and page geometry to preserve layout where possible. It is not an image-only Word export. Complex tables, fonts, handwriting, overlapping elements and multi-column layouts may require manual cleanup.
+
+Guide: https://proscanpdf.com/pdf-to-word/
+
+## ID Photo Maker
+
+Supported presets include 35 × 45, 40 × 50, 50 × 50, 50 × 60 and 50 × 70 millimeters and US 2 × 2 inches, plus custom dimensions. Users can take or import a portrait, use Auto Crop, adjust framing, review on-device quality checks and export JPEG, PNG or printable PDF sheets on A4, US Letter or 4 × 6 inch paper. The app does not guarantee acceptance by an issuing authority.
+
+Guide: https://proscanpdf.com/id-photo-maker/
+
+## OCR and searchable documents
+
+Live OCR captures visible text from the camera. Existing PDFs can be analyzed to extract editable text, create searchable PDF copies and create editable Word output. Searchable copies can be searched inside the app's PDF viewer. Accuracy depends on print quality, lighting, focus, page alignment and layout complexity.
+
+Guide: https://proscanpdf.com/ocr-text-extraction/
+
+## Organize PDF pages
+
+Users can extract selected pages into a new PDF, reorder pages, insert additional pages, delete pages and merge multiple PDF files. Modified and extracted saves show confirmation feedback.
+
+Guide: https://proscanpdf.com/organize-pdf-pages/
+
+## Storage
+
+Primary working copies are stored locally in the app's My Files library for fast access and preview loading. When available, iCloud can hold a private backup copy for recovery on another Apple device. iCloud depends on the user's account, configuration, storage and network.
+
+## Availability
+
+- Platforms: iPhone and iPad.
+- Documented app version: 2.7.
+- Free use: three free scans every day.
+- Pro: unlimited scanning and all Pro tools through optional subscriptions.
+- Themes: seven themes with matching app icons.
+- Languages: English, German, Spanish, French, Italian, Dutch, Polish, Portuguese for Brazil and Portugal, Turkish, Simplified Chinese, Japanese, Korean and Hindi.
+
+## Machine-readable references
+
+- Feature summary: https://proscanpdf.com/docs/features.md
+- PDF tool reference: https://proscanpdf.com/docs/pdf-tools.md
+- Privacy and processing: https://proscanpdf.com/docs/privacy-and-processing.md
+- Sitemap: https://proscanpdf.com/sitemap.xml
+- Crawler policy: https://proscanpdf.com/robots.txt
+
+Last updated: 2026-08-21
