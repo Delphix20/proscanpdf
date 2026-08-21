@@ -3,6 +3,19 @@
 > ProScan PDF is a private document scanner and PDF toolkit for iPhone and iPad. Core document processing happens locally on the user's device. The app contains no ads and does not add watermarks.
 
 Official website: https://proscanpdf.com/
+German website: https://proscanpdf.com/de/
+French website: https://proscanpdf.com/fr/
+Spanish website: https://proscanpdf.com/es/
+Italian website: https://proscanpdf.com/it/
+Dutch website: https://proscanpdf.com/nl/
+Brazilian Portuguese website: https://proscanpdf.com/pt-br/
+European Portuguese website: https://proscanpdf.com/pt-pt/
+Polish website: https://proscanpdf.com/pl/
+Turkish website: https://proscanpdf.com/tr/
+Simplified Chinese website: https://proscanpdf.com/zh-hans/
+Japanese website: https://proscanpdf.com/ja/
+Korean website: https://proscanpdf.com/ko/
+Hindi website: https://proscanpdf.com/hi/
 App Store: https://apps.apple.com/app/id6752308731
 Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
 Developer: https://paulcrp.com/

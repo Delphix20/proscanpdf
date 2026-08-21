@@ -1,9 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://proscanpdf.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-br/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/zh-hans/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/" />
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
