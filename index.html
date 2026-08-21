@@ -59,6 +59,56 @@
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 
+    <script>
+        (function () {
+            const preferenceKey = "proscanpdf-language-path";
+            const supportedPaths = new Set([
+                "/", "/de/", "/fr/", "/es/", "/it/", "/nl/", "/pt-br/",
+                "/pt-pt/", "/pl/", "/tr/", "/zh-hans/", "/ja/", "/ko/", "/hi/"
+            ]);
+            const currentPath = window.location.pathname.replace(/\/index\.html$/, "/");
+
+            if (currentPath !== "/") return;
+            if (/bot|crawler|spider|crawling|slurp|bingpreview|facebookexternalhit|telegrambot|twitterbot|linkedinbot/i.test(navigator.userAgent)) return;
+
+            try {
+                const savedPath = window.localStorage.getItem(preferenceKey);
+                if (savedPath && supportedPaths.has(savedPath)) {
+                    if (savedPath !== "/") window.location.replace(savedPath + window.location.search + window.location.hash);
+                    return;
+                }
+            } catch (_) {
+                // Language detection still works when browser storage is unavailable.
+            }
+
+            const directMatches = {
+                "pt-br": "/pt-br/",
+                "pt-pt": "/pt-pt/",
+                "zh-cn": "/zh-hans/",
+                "zh-sg": "/zh-hans/",
+                "zh-hans": "/zh-hans/"
+            };
+            const primaryMatches = {
+                de: "/de/", fr: "/fr/", es: "/es/", it: "/it/", nl: "/nl/",
+                pt: "/pt-pt/", pl: "/pl/", tr: "/tr/", ja: "/ja/", ko: "/ko/", hi: "/hi/"
+            };
+            const browserLanguages = [...(navigator.languages || []), navigator.language].filter(Boolean);
+            let targetPath = null;
+
+            for (const language of browserLanguages) {
+                const normalized = language.toLowerCase().replace(/_/g, "-");
+                targetPath = directMatches[normalized] || primaryMatches[normalized.split("-")[0]] || null;
+                if (targetPath) break;
+            }
+
+            if (!targetPath) return;
+            try {
+                window.localStorage.setItem(preferenceKey, targetPath);
+            } catch (_) {}
+            window.location.replace(targetPath + window.location.search + window.location.hash);
+        })();
+    </script>
+
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6B1X79SYTC"></script>
     <script>

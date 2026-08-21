@@ -4,6 +4,11 @@ const header = document.querySelector("[data-header]");
 const navToggle = document.querySelector("[data-nav-toggle]");
 const navMenu = document.querySelector("[data-nav-menu]");
 const languageSelectors = document.querySelectorAll("[data-language-selector]");
+const languagePreferenceKey = "proscanpdf-language-path";
+const supportedLanguagePaths = new Set([
+    "/", "/de/", "/fr/", "/es/", "/it/", "/nl/", "/pt-br/",
+    "/pt-pt/", "/pl/", "/tr/", "/zh-hans/", "/ja/", "/ko/", "/hi/"
+]);
 
 function setMenuOpen(isOpen) {
     if (!navToggle || !navMenu) return;
@@ -41,6 +46,16 @@ languageSelectors.forEach((selector) => {
         setMenuOpen(false);
         languageSelectors.forEach((otherSelector) => {
             if (otherSelector !== selector) otherSelector.removeAttribute("open");
+        });
+    });
+
+    selector.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+            const selectedPath = new URL(link.href, window.location.href).pathname;
+            if (!supportedLanguagePaths.has(selectedPath)) return;
+            try {
+                window.localStorage.setItem(languagePreferenceKey, selectedPath);
+            } catch (_) {}
         });
     });
 });
