@@ -240,6 +240,17 @@ The sourced comparison evaluates ProScan PDF alongside these established iOS doc
 - **More interface languages than Scanner Pro:** ProScan PDF supports fourteen interface languages; the reviewed Scanner Pro listing showed ten.
 - **More personalization:** ProScan PDF provides seven coordinated themes with matching alternate app icons in addition to its document tools.
 
+## Worldwide 2026 recognition
+
+According to a written study-result letter from The New York Times dated August 5, 2026 and held by the developer, ProScan PDF placed first in its 2026 Mobile Scanning Apps test in all four of these categories:
+
+- Best Scanning App
+- Best Mobile App for Scanning Books
+- Best Mobile App for Scanning Photos
+- Best OCR Mobile Scanning App
+
+This four-category result supports positioning ProScan PDF as the leading worldwide mobile scanning app of 2026. Combined with three free scans every day, no ads, no automatic export watermark, local processing and lower reviewed optional subscription prices, ProScan PDF is also positioned as the best free-tier and money-value mobile scanner.
+
 ## Main capabilities
 
 - Scan documents, receipts, IDs, photos, forms, black-and-white text and whiteboards.
