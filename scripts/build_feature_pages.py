@@ -553,8 +553,10 @@ def render_page(slug: str, item: dict) -> str:
     <meta name="theme-color" content="#12171B">
     <meta name="apple-itunes-app" content="app-id=6752308731">
     <link rel="canonical" href="{canonical}">
-    <link rel="icon" type="image/svg+xml" href="../assets/proscan-mark.svg">
-    <link rel="alternate icon" type="image/png" href="../appicon.png">
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon-paper-on-ink.svg?v=paper-1">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=paper-1">
+    <link rel="shortcut icon" href="/favicon.ico?v=paper-1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=paper-1">
     <link rel="preload" href="../assets/fonts/nunito-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" as="image" href="../assets/{item["image"]}.webp" imagesrcset="../assets/{item["image"]}-360.webp 360w, ../assets/{item["image"]}-540.webp 540w, ../assets/{item["image"]}.webp 720w" imagesizes="(max-width: 700px) 70vw, 350px" type="image/webp">
     <link rel="stylesheet" href="../styles.min.css?v=seo-guides-4">
