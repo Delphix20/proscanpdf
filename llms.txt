@@ -99,6 +99,19 @@ Support: info@proscanpdf.com
 - [Tekst extraheren en PDF doorzoekbaar maken](https://proscanpdf.com/nl/ocr-text-extraction/)
 - [PDF-pagina's ordenen](https://proscanpdf.com/nl/organize-pdf-pages/)
 
+## Szczegółowe poradniki po polsku
+
+- [Skanowanie dokumentów do PDF](https://proscanpdf.com/pl/scan-to-pdf/)
+- [Konwersja zdjęć do PDF](https://proscanpdf.com/pl/photo-to-pdf/)
+- [Konwersja PDF do obrazów JPG](https://proscanpdf.com/pl/pdf-to-images/)
+- [Dodawanie znaku wodnego do PDF](https://proscanpdf.com/pl/add-watermark/)
+- [Kompresowanie PDF](https://proscanpdf.com/pl/pdf-compressor/)
+- [Podpisywanie i zabezpieczanie PDF](https://proscanpdf.com/pl/sign-pdf/)
+- [Konwersja PDF do Worda](https://proscanpdf.com/pl/pdf-to-word/)
+- [Tworzenie zdjęć do dokumentów](https://proscanpdf.com/pl/id-photo-maker/)
+- [Wyodrębnianie tekstu i tworzenie PDF z wyszukiwaniem](https://proscanpdf.com/pl/ocr-text-extraction/)
+- [Organizowanie stron PDF](https://proscanpdf.com/pl/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
