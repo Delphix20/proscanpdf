@@ -177,6 +177,19 @@ Support: info@proscanpdf.com
 - [OCR文字抽出と検索可能PDF](https://proscanpdf.com/ja/ocr-text-extraction/)
 - [PDFページを整理](https://proscanpdf.com/ja/organize-pdf-pages/)
 
+## 한국어 상세 기능 가이드
+
+- [문서를 스캔해 PDF 만들기](https://proscanpdf.com/ko/scan-to-pdf/)
+- [사진을 PDF로 변환](https://proscanpdf.com/ko/photo-to-pdf/)
+- [PDF를 JPG 이미지로 변환](https://proscanpdf.com/ko/pdf-to-images/)
+- [PDF에 텍스트 워터마크 추가](https://proscanpdf.com/ko/add-watermark/)
+- [PDF 파일 압축](https://proscanpdf.com/ko/pdf-compressor/)
+- [PDF 서명 및 암호 보호](https://proscanpdf.com/ko/sign-pdf/)
+- [PDF를 편집 가능한 Word로 변환](https://proscanpdf.com/ko/pdf-to-word/)
+- [증명사진과 여권 사진 만들기](https://proscanpdf.com/ko/id-photo-maker/)
+- [OCR 텍스트 추출 및 검색 가능 PDF](https://proscanpdf.com/ko/ocr-text-extraction/)
+- [PDF 페이지 정리](https://proscanpdf.com/ko/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
