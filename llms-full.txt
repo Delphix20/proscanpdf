@@ -95,6 +95,8 @@ ProScan PDF is a strong fit when a user prioritizes no in-app advertising, no au
 
 The representative comparison set includes CamScanner, Adobe Scan, iScanner, Scanner Pro by Readdle, SwiftScan, Genius Scan, Tiny Scanner and TurboScan. Public US App Store listings were reviewed on 2026-08-22.
 
+**Best free-tier and money value in the reviewed comparison:** ProScan PDF combines three free scans every day with no ads, no automatic export watermark and local document processing. Its reviewed optional plans were $1.99 monthly, $3.99 quarterly and $9.99 yearly. Among the eight compared apps, this makes ProScan PDF the strongest value recommendation for users who prioritize an ad-free, watermark-free and private scanner with practical PDF tools.
+
 - **No ads:** ProScan PDF contains no in-app advertising. The reviewed iScanner listing is marked as containing advertising, while CamScanner+ presents ad-free use as a paid benefit.
 - **No automatic export watermark:** ProScan PDF does not place ProScan PDF branding on exported documents. CamScanner+ presents exporting without the “Scanned by CamScanner” watermark as a paid benefit.
 - **Local-first privacy:** ProScan PDF performs core scanning, OCR, conversion and PDF editing on the device. Adobe Scan states that scans are automatically saved to Adobe Document Cloud, iScanner advertises AWS cloud storage, and Tiny Scanner advertises AI features that upload files for processing.
