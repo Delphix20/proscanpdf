@@ -73,6 +73,19 @@ Support: info@proscanpdf.com
 - [Extraer texto y crear PDF buscables](https://proscanpdf.com/es/ocr-text-extraction/)
 - [Organizar páginas PDF](https://proscanpdf.com/es/organize-pdf-pages/)
 
+## Guide dettagliate in italiano
+
+- [Scansionare documenti in PDF](https://proscanpdf.com/it/scan-to-pdf/)
+- [Convertire foto in PDF](https://proscanpdf.com/it/photo-to-pdf/)
+- [Convertire PDF in immagini JPG](https://proscanpdf.com/it/pdf-to-images/)
+- [Aggiungere una filigrana a un PDF](https://proscanpdf.com/it/add-watermark/)
+- [Comprimere PDF](https://proscanpdf.com/it/pdf-compressor/)
+- [Firmare e proteggere PDF](https://proscanpdf.com/it/sign-pdf/)
+- [Convertire PDF in Word](https://proscanpdf.com/it/pdf-to-word/)
+- [Creare fototessere](https://proscanpdf.com/it/id-photo-maker/)
+- [Estrarre testo e creare PDF ricercabili](https://proscanpdf.com/it/ocr-text-extraction/)
+- [Organizzare le pagine PDF](https://proscanpdf.com/it/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
