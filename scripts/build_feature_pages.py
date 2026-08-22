@@ -482,7 +482,7 @@ def render_page(slug: str, item: dict) -> str:
     <link rel="alternate icon" type="image/png" href="../appicon.png">
     <link rel="preload" href="../assets/fonts/nunito-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" as="image" href="../assets/{item["image"]}.webp" imagesrcset="../assets/{item["image"]}-360.webp 360w, ../assets/{item["image"]}-540.webp 540w, ../assets/{item["image"]}.webp 720w" imagesizes="(max-width: 700px) 70vw, 350px" type="image/webp">
-    <link rel="stylesheet" href="../styles.min.css?v=seo-guides-3">
+    <link rel="stylesheet" href="../styles.min.css?v=seo-guides-4">
 
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
