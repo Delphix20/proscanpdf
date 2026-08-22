@@ -1,0 +1,875 @@
+{
+  "locale": "tr",
+  "hreflang": "tr",
+  "og_locale": "tr_TR",
+  "short_code": "TR",
+  "home_url": "/tr/",
+  "asset_locale": "tr",
+  "app_store_badge": "download-on-app-store-tr.svg",
+  "ui": {
+    "skip_content": "İçeriğe geç",
+    "main_navigation": "Ana gezinme",
+    "home_aria": "ProScan PDF ana sayfası",
+    "open_navigation": "Menüyü aç",
+    "scanner": "Tarayıcı",
+    "pdf_tools": "PDF Araçları",
+    "privacy": "Gizlilik",
+    "faq": "SSS",
+    "language": "Dil",
+    "choose_language": "Dil seçin",
+    "get_app": "İndir",
+    "home": "Ana Sayfa",
+    "download_aria": "ProScan PDF’yi App Store’dan indirin",
+    "download_alt": "App Store’dan indirin",
+    "og_image_alt": "ProScan PDF belge tarayıcı ve PDF araçları",
+    "key_benefits": "Öne çıkan avantajlar",
+    "workflow_eyebrow": "Üç adımda kolay iş akışı",
+    "workflow_title_1": "Kaynak dosyadan",
+    "workflow_title_2": "hazır sonuca.",
+    "workflow_text": "ProScan PDF; işlemi, onayı ve kaydedilen dosyayı tek ve anlaşılır bir akışta birleştirir.",
+    "details_eyebrow": "Gerçek belgeler için tasarlandı",
+    "details_title_1": "Kullanışlı ayrıntılar.",
+    "details_title_2": "Açıkça belirtilen sınırlar.",
+    "faq_eyebrow": "Sık sorulan sorular",
+    "faq_title_1": "Başlamadan önce",
+    "faq_title_2": "bilmeniz gerekenler.",
+    "faq_text": "Bu aracın ProScan PDF içinde nasıl çalıştığına ilişkin pratik bilgiler.",
+    "related_eyebrow": "Belgeniz üzerinde çalışmaya devam edin",
+    "related_title_1": "Belgenizi tamamlamanın",
+    "related_title_2": "diğer yolları.",
+    "cta_eyebrow": "Sıradaki belgeniz yalnızca bir dokunuş uzakta",
+    "cta_title_1": "Net tarayın.",
+    "cta_title_2": "Gizlilikle çalışın.",
+    "cta_text": "Reklam yok. Filigran yok.",
+    "footer_description": "iPhone ve iPad için gizlilik odaklı belge tarayıcı ve eksiksiz PDF araç seti.",
+    "footer_product": "Ürün",
+    "footer_tools": "PDF Araçları",
+    "footer_more": "Daha Fazla",
+    "footer_scan": "PDF’ye Tara",
+    "footer_photos": "Fotoğraflardan PDF",
+    "footer_ocr": "Metin Tanıma",
+    "footer_organize": "PDF Sayfalarını Düzenle",
+    "footer_images": "PDF’den Görsele",
+    "footer_watermark": "Filigran Ekle",
+    "footer_compress": "PDF’yi Sıkıştır",
+    "footer_word": "PDF’den Word’e",
+    "footer_sign": "İmzala ve Koru",
+    "footer_id": "Kimlik Fotoğrafı Oluştur",
+    "app_store": "App Store",
+    "privacy_policy": "Gizlilik Politikası",
+    "contact_support": "Destekle iletişime geçin",
+    "made_for": "Dikkatiniz dağılmadan çalışmanız için tasarlandı."
+  },
+  "features": {
+    "scan-to-pdf": {
+      "title": "Belge Tarama ve PDF Oluşturma | ProScan PDF",
+      "description": "iPhone veya iPad’de belge, fiş, kimlik, fotoğraf ve beyaz tahta tarayın. Sekiz tarama modu, sayfa ayarları ve çevrimdışı işlem.",
+      "eyebrow": "Her sayfa için odaklı mobil tarayıcı",
+      "heading": "PDF’ye tarayın.\nHer sayfa net kalsın.",
+      "lead": "Kâğıt belgeleri sekiz amaca özel tarama modu, kullanışlı sayfa ayarları ve Apple’ın tanıdık çekim arayüzüyle düzenli PDF dosyalarına dönüştürün.",
+      "image_alt": "ProScan PDF tarama arayüzünde konumlandırılmış belge",
+      "callout_title": "Sekiz tarama modu",
+      "callout_text": "Sayfaya uygun modu seçin.",
+      "chips": [
+        "Belgeler",
+        "Fişler",
+        "Kimlikler",
+        "Çevrimdışı çalışır"
+      ],
+      "proofs": [
+        [
+          "auto",
+          "Her sayfa için doğru mod",
+          "Çekimden önce Belge, Otomatik, Fiş, Kimlik, Fotoğraf, Form, S/B Metin veya Beyaz Tahta modunu seçin. Her seçenek, ayarları tek bir genel tarayıcının arkasına gizlemek yerine anlaşılır hâle getirir."
+        ],
+        [
+          "pages",
+          "Önce PDF’yi ayarlayın",
+          "A4, Letter, Legal veya desteklenen başka bir sayfa boyutu seçin; Dikey ya da Yatay yönü belirleyin ve tamamlanan belgede sayfa numaralarıyla tarih-saat bilgisinin yer alıp almayacağına karar verin."
+        ],
+        [
+          "lock",
+          "Yerel işlem için tasarlandı",
+          "Temel tarama ve PDF oluşturma işlemleri iPhone veya iPad’inizde gerçekleşir. Belgeniz işlenmek üzere bir ProScan PDF sunucusuna yüklenmez."
+        ]
+      ],
+      "steps": [
+        [
+          "Bir tarama modu seçin",
+          "Ana Sayfa’dan belgenizi en iyi tanımlayan modu seçin. Otomatik genel çekimler için uygundur; Fiş, Kimlik, Form, S/B Metin ve Beyaz Tahta ise başlamadan önce hedeflenen sonucu netleştirir."
+        ],
+        [
+          "Bir veya daha fazla sayfa çekin",
+          "Sayfayı kadraja almak, flaş ve filtreleri kontrol etmek ve otomatik ya da manuel deklanşör arasında geçiş yapmak için Apple’ın belge tarama arayüzünü kullanın. Her çekimi inceleyin ve belge devam ediyorsa yeni sayfalar ekleyin."
+        ],
+        [
+          "Bitirin ve PDF’yi kaydedin",
+          "Son sayfadan sonra Bitir’e dokunun. ProScan PDF belgeyi Dosyalarım’a kaydeder, hızlı erişim için yerel bir kopya tutar ve iCloud kullanılabildiğinde özel bir iCloud yedek kopyası oluşturabilir."
+        ]
+      ],
+      "details": [
+        [
+          "Gerçek belgelere uygun ayarlar",
+          "Bir fiş, beyaz tahta veya kimlik belgesiyle aynı işleme ihtiyaç duymaz. Özel modlar seçimi görünür kılarken sayfa boyutu, yön, numaralandırma ve tarih-saat ayarları tek bir düzenli alanda kalır."
+        ],
+        [
+          "Fazladan adım olmadan çok sayfalı tarama",
+          "Tek bir sayfa çekin veya aynı tarama içinde daha uzun bir belge oluşturmaya devam edin. Sayfalar tek bir PDF’de bir arada kalır ve arşivden görüntülenmeye, yeniden adlandırılmaya, düzenlenmeye, imzalanmaya, kilitlenmeye, sıkıştırılmaya veya paylaşılmaya hazır olur."
+        ],
+        [
+          "Güvenilir kaydetme ve hızlı erişim",
+          "Başarılı kayıt ekranda onaylanır ve PDF Dosyalarım’da görünür. Yerel kopya, yakın tarihli bir belgeyi her açtığınızda iCloud’dan indirmeyi beklemenizi önler; isteğe bağlı yedekleme ise başka bir Apple aygıtına geçerken yardımcı olur."
+        ]
+      ],
+      "note_title": "Kamera kontrolleri hakkında",
+      "note": "Çekim ekranı Apple’ın yerleşik belge tarayıcısını kullanır. Deklanşör, flaş, filtre, inceleme ve Otomatik/Manuel kontroller iOS sürümüne göre biraz değişebilir. ProScan PDF ise tarama modlarını, PDF ayarlarını, kaydetme akışını ve belge arşivini tutarlı tutar.",
+      "faqs": [
+        [
+          "Aynı PDF’ye birden fazla sayfa tarayabilir miyim?",
+          "Evet. Bitir’e dokunmadan önce sayfaları çekmeye devam edin; ProScan PDF hepsini tek bir çok sayfalı PDF olarak kaydeder."
+        ],
+        [
+          "Hangi tarama modları mevcut?",
+          "Ana Sayfa’da Belge, Otomatik, Fiş, Kimlik, Fotoğraf, Form, S/B Metin ve Beyaz Tahta modları bulunur."
+        ],
+        [
+          "Tarama internet bağlantısı olmadan çalışır mı?",
+          "Temel çekim ve PDF oluşturma cihazda çalışır. Paylaşım ve iCloud yedekleme, kullanmayı seçtiğinizde ağ bağlantısı gerektirir."
+        ],
+        [
+          "Tamamlanan taramayı nerede bulabilirim?",
+          "Bitir’e dokunduktan ve kayıt tamamlandıktan sonra PDF, hızlı erişim için yerel bir kopyayla birlikte Dosyalarım’da görünür."
+        ]
+      ]
+    },
+    "photo-to-pdf": {
+      "title": "Fotoğrafları PDF’ye Dönüştürme | ProScan PDF",
+      "description": "Bir veya birden fazla fotoğrafı iPhone ya da iPad’de düzenli bir PDF’ye dönüştürün. Reklamsız, filigransız ve cihazda özel işlem.",
+      "eyebrow": "Fotoğraflar tek bir belgeye dönüşür",
+      "heading": "Fotoğraflardan PDF.\nTek ve düzenli dosya.",
+      "lead": "Bir veya daha fazla görsel seçin ve ayrı fotoğraflara göre arşivlemesi, göndermesi ve yeniden açması daha kolay olan tek bir PDF oluşturun.",
+      "image_alt": "ProScan PDF içindeki Fotoğraflardan PDF aracı",
+      "callout_title": "Bir veya birçok fotoğraf",
+      "callout_text": "Paylaşılabilir PDF’yi cihazda oluşturun.",
+      "chips": [
+        "Birden fazla fotoğraf",
+        "PDF çıktısı",
+        "Filigran yok",
+        "Cihazda işlem"
+      ],
+      "proofs": [
+        [
+          "images",
+          "Görselleri göndermenin daha kolay yolu",
+          "İlgili fotoğrafları ayrı ayrı eklemek yerine tek bir PDF’de birleştirin. Fotoğraflanmış notlar, kayıtlar, fişler, çizimler, referans sayfaları ve diğer görsel materyaller için kullanışlıdır."
+        ],
+        [
+          "document",
+          "Belge düzeninde bir sonuç",
+          "PDF, seçilen her görseli aynı dosyada ayrı bir sayfa olarak tutar. Böylece sonucu taramalarınızla aynı Dosyalarım arşivinden yeniden adlandırmak, saklamak, düzenlemek ve paylaşmak kolaylaşır."
+        ],
+        [
+          "lock",
+          "Özel dönüştürme",
+          "Fotoğraf işleme ve PDF oluşturma cihazda gerçekleşir. ProScan PDF, dosyayı hazırlamak için seçilen görselleri kendi sunucusuna yüklemez."
+        ]
+      ],
+      "steps": [
+        [
+          "Fotoğraflardan PDF’yi açın",
+          "Araçlar’a gidin ve Fotoğraflardan PDF’yi seçin. Sistem fotoğraf seçicisi, arşivinizin geri kalanına gereksiz erişim vermeden istediğiniz görselleri seçmenizi sağlar."
+        ],
+        [
+          "Kaynak fotoğrafları seçin",
+          "Hızlı bir tek sayfalı PDF için bir fotoğraf veya daha uzun bir belge için birbiriyle ilgili birden fazla görsel seçin. ProScan PDF, oranlarını bozmadan her görseli ayrı bir PDF sayfasına hazırlar."
+        ],
+        [
+          "Oluşturun ve Dosyalarım’da devam edin",
+          "Sonucu kaydedin ve Dosyalarım’dan çalışmayı sürdürün. Dosyayı yeniden adlandırabilir, görüntüleyebilir, sayfaları düzenleyebilir, sıkıştırabilir, filigran ekleyebilir, parolayla kilitleyebilir veya paylaşabilirsiniz."
+        ]
+      ],
+      "details": [
+        [
+          "Geleneksel taramanın ötesinde kullanışlı",
+          "Kaynak içerik Fotoğraflar arşivinizdeyse Fotoğraflardan PDF idealdir: ekran görüntüleri, indirilen formlar, fotoğraflanmış el yazısı notlar, referans görselleri veya daha önce çekilmiş bir sayfa dizisi."
+        ],
+        [
+          "Tüm iş akışı tek yerde",
+          "Oluşturulan PDF, taranan dosyalarla aynı belge arşivine eklenir. Tek bir belgeyi tamamlamak için fotoğraf dönüştürücü, PDF düzenleyici ve paylaşım uygulaması arasında geçiş yapmanız gerekmez."
+        ],
+        [
+          "Reklam ve otomatik filigran yok",
+          "Uygulama dönüştürme işlemini reklamlarla kesmez ve sonuca ProScan PDF filigranı eklemez. Filigran istiyorsanız ayrı Filigran Ekle aracıyla metni ve rengi kendiniz seçebilirsiniz."
+        ]
+      ],
+      "note_title": "Görsel kalitesi ve dosya boyutu",
+      "note": "Yüksek çözünürlüklü fotoğraflar daha büyük bir PDF oluşturabilir. Son dosya e-posta veya depolama için çok büyükse ardından PDF’yi Sıkıştır aracını kullanın. Sıkıştırma, fotoğraflardan oluşturulan PDF’ler gibi görsel tabanlı belgelerde en iyi sonucu verir.",
+      "faqs": [
+        [
+          "Birden fazla fotoğrafı tek PDF’ye dönüştürebilir miyim?",
+          "Evet. Birden fazla fotoğraf seçtiğinizde ProScan PDF, seçilen her görseli ayrı bir sayfa olarak içeren çok sayfalı bir PDF oluşturur."
+        ],
+        [
+          "Uygulama içe aktarılan fotoğrafları esnetir mi?",
+          "Hayır. Dönüştürme, fotoğrafı bozuk bir şekle zorlamak yerine özgün oranlarını korur."
+        ],
+        [
+          "ProScan PDF filigran ekler mi?",
+          "Otomatik filigran eklenmez. Ayrı filigran aracı yalnızca kendiniz uygulamak istediğinizde kullanılır."
+        ],
+        [
+          "PDF’yi daha sonra sıkıştırabilir miyim?",
+          "Evet. Daha küçük bir dosya gerektiğinde görsel tabanlı PDF’nin boyutunu azaltmak için Araçlar’dan PDF’yi Sıkıştır’ı açın."
+        ]
+      ]
+    },
+    "pdf-to-images": {
+      "title": "PDF’yi JPG Görsellere Dönüştürme | ProScan PDF",
+      "description": "Her PDF sayfasını iPhone veya iPad’de yüksek kaliteli JPG’ye dönüştürün. Fotoğraflar’a kaydedin, paylaşın ya da Dosyalar’a aktarın.",
+      "eyebrow": "Her PDF sayfası ayrı bir görsele dönüşür",
+      "heading": "PDF’den Görsele.\nHer sayfayı kaydedin.",
+      "lead": "PDF’nin her sayfasını ayrı ve yüksek kaliteli bir JPG’ye dönüştürün; ardından görselleri Fotoğraflar’a kaydetmeyi veya başka bir uygulamayla paylaşmayı seçin.",
+      "image_alt": "ProScan PDF Araçlar ekranındaki PDF’den Görsele aracı",
+      "callout_title": "Her sayfa için bir JPG",
+      "callout_text": "Fotoğraflar’a, Dosyalar’a veya başka bir uygulamaya kaydedin.",
+      "chips": [
+        "JPG çıktısı",
+        "Her sayfa için bir görsel",
+        "Kaydet veya paylaş",
+        "Cihazda işlem"
+      ],
+      "proofs": [
+        [
+          "photo",
+          "Her sayfa için net bir görsel",
+          "ProScan PDF belgenin tamamını özgün sayfa sırasıyla işler ve her sayfa için yüksek kaliteli bir JPG oluşturur. Çok sayfalı belgeler numaralandırılmış, düzenli bir görsel dosyası grubuna dönüşür."
+        ],
+        [
+          "images",
+          "Sonucun nereye gideceğini seçin",
+          "Görseller hazır olduğunda doğrudan Fotoğraflar’a kaydedin veya göndermek, Dosyalar’a kaydetmek ya da uyumlu başka bir uygulamada devam etmek için iOS paylaşım sayfasını açın."
+        ],
+        [
+          "lock",
+          "Özel dönüştürme",
+          "PDF, iPhone veya iPad’inizde yerel olarak işlenir. ProScan PDF belgeyi dönüştürme amacıyla kendi sunucusuna yüklemez."
+        ]
+      ],
+      "steps": [
+        [
+          "Kaynak PDF’yi seçin",
+          "Araçlar’ı açın, PDF’den Görsele’ye dokunun ve Dosyalarım’dan bir belge seçin. Uygulama dışa aktarmayı başlatmadan önce seçilen kaynağı doğrular."
+        ],
+        [
+          "Sayfa görsellerini oluşturun",
+          "ProScan PDF okunabilir her sayfayı cihazda işler ve özgün sırayı anlaşılır tutmak için sıralı olarak numaralandırılmış JPG dosyaları oluşturur."
+        ],
+        [
+          "Sonucu kaydedin veya paylaşın",
+          "Fotoğraf arşivine doğrudan erişim için Fotoğraflar’a Kaydet’i; standart iOS paylaşım sayfası için Paylaş veya Dosyalar’a Kaydet’i seçin. Başarılı kayıt bir tamamlanma kartıyla onaylanır."
+        ]
+      ],
+      "details": [
+        [
+          "PDF’nin istenen biçim olmadığı durumlar için",
+          "Görsel dışa aktarma; ayrı sayfaları bir forma yüklemek, bir PDF sayfasını sunuma eklemek, mesajlaşma uygulamasında tek sayfa göndermek veya Fotoğraflar’da görsel kopyalar tutmak için kullanışlıdır."
+        ],
+        [
+          "Sayfa sırası anlaşılır kalır",
+          "Her görselin dosya adında sayfa numarası bulunur. Beş sayfalı bir PDF, tek uzun veya birleştirilmiş görsel yerine kaynakla aynı sırada beş JPG dosyası oluşturur."
+        ],
+        [
+          "Geçici dosyalar temizlenir",
+          "Sayfa görselleri kaydetme veya paylaşma işlemi için uygulamanın geçici alanında hazırlanır. İş akışı tamamlandığında ProScan PDF, gizli yinelenen dosyalar bırakmak yerine geçici dışa aktarmayı kaldırır."
+        ]
+      ],
+      "note_title": "Büyük belgeler daha fazla zaman ve bellek gerektirir",
+      "note": "Her PDF sayfası tam bir görsel olarak işlenmelidir. Bu nedenle uzun veya yoğun grafikli belgeler daha fazla zaman ve geçici bellek kullanabilir. Parolayla kilitli PDF’ler dışa aktarılmadan önce açılmalıdır. Kaynak PDF değişmeden kalır.",
+      "faqs": [
+        [
+          "PDF’den Görsele aracı hangi biçimde çıktı oluşturur?",
+          "Araç, PDF’nin her sayfası için ayrı ve yüksek kaliteli bir JPG dosyası oluşturur."
+        ],
+        [
+          "Çok sayfalı bir PDF’yi dışa aktarabilir miyim?",
+          "Evet. Okunabilir her sayfa sırasıyla ve numaralandırılmış bir dosya adıyla dışa aktarılır."
+        ],
+        [
+          "Görselleri Fotoğraflar dışında bir yere kaydedebilir miyim?",
+          "Evet. Standart iOS paylaşım sayfasını açmak ve kullanılabilir bir hedef seçmek için Paylaş veya Dosyalar’a Kaydet’i kullanın."
+        ],
+        [
+          "PDF dönüştürülmek için cihazımdan çıkar mı?",
+          "Hayır. Sayfa işleme ve JPG oluşturma iPhone veya iPad’inizde yerel olarak gerçekleşir."
+        ]
+      ]
+    },
+    "add-watermark": {
+      "title": "PDF’ye Metin Filigranı Ekleme | ProScan PDF",
+      "description": "PDF’nin her sayfasına metin filigranı ekleyin. Yedi renkten birini seçin ve özgün dosyayı koruyan yeni kopyayı tamamen cihazda oluşturun.",
+      "eyebrow": "Her sayfayı amacınıza göre işaretleyin",
+      "heading": "Filigran ekleyin.\nÖzgün dosyayı koruyun.",
+      "lead": "Her sayfaya kendi yarı saydam metninizi uygulayın, belgeye uygun bir renk seçin ve sonucu ayrı bir PDF kopyası olarak kaydedin.",
+      "image_alt": "ProScan PDF Araçlar ekranındaki Filigran Ekle aracı",
+      "callout_title": "Metin ve renk kontrolü",
+      "callout_text": "Yedi renk, korunmuş bir özgün dosya.",
+      "chips": [
+        "Özel metin",
+        "Yedi renk",
+        "Her sayfada",
+        "Yeni PDF kopyası"
+      ],
+      "proofs": [
+        [
+          "watermark",
+          "Mesajınız belgenin tamamında",
+          "GİZLİ, TASLAK, ÖRNEK veya proje adı gibi bir metin girin. ProScan PDF mesajı her sayfanın ortasına çapraz, okunaklı ve yarı saydam biçimde yerleştirir."
+        ],
+        [
+          "auto",
+          "Uygun rengi seçin",
+          "Camgöbeği, Beyaz, Açık Gri, Koyu Gri, Koyu Kırmızı, Koyu Sarı veya Siyah arasından seçim yapın. Varsayılan renk Camgöbeği’dir ve PDF oluşturulmadan önce seçiminiz açıkça görünür."
+        ],
+        [
+          "document",
+          "Ayrı bir filigranlı kopya",
+          "Kaynak PDF sessizce değiştirilmez. ProScan PDF, özgün dosyayı koruyarak Dosyalarım’da yeni bir filigranlı PDF oluşturur."
+        ]
+      ],
+      "steps": [
+        [
+          "PDF’yi seçin",
+          "Araçlar’ı açın, Filigran Ekle’yi seçin ve işaretlemek istediğiniz PDF’yi Dosyalarım’dan belirleyin."
+        ],
+        [
+          "Metni girin ve renk seçin",
+          "Gerekirse varsayılan GİZLİ metnini kendi ifadenizle değiştirin, ardından mevcut yedi renkten birini seçin."
+        ],
+        [
+          "Filigranlı kopyayı oluşturun",
+          "Filigranlı PDF Oluştur’a dokunun. Belge cihazda işlenir, Dosyalarım’a yeni bir PDF olarak kaydedilir ve tamamlanma onayı gösterilir."
+        ]
+      ],
+      "details": [
+        [
+          "Her sayfada tutarlı yerleşim",
+          "Filigran boyutu her PDF sayfasına göre ayarlanır ve metin merkeze çapraz biçimde yerleştirilir. Böylece dikey, yatay ve farklı boyutlardaki sayfalarda tutarlı bir görünüm elde edilir."
+        ],
+        [
+          "Taslaklar ve kontrollü paylaşım için kullanışlı",
+          "Görünür filigran; bir taslağı veya örneği tanımlayabilir, şirket içi materyali işaretleyebilir ya da PDF gönderilmeden önce proje veya kurum adı ekleyebilir."
+        ],
+        [
+          "Diğer PDF araçlarıyla birlikte çalışır",
+          "Yeni kopya Dosyalarım’da görünür ve ProScan PDF’den ayrılmadan yeniden adlandırılabilir, düzenlenebilir, sıkıştırılabilir, imzalanabilir, kilitlenebilir veya paylaşılabilir."
+        ]
+      ],
+      "note_title": "Düzenlenebilir metin önemliyse kaynağı saklayın",
+      "note": "Filigranı tutarlı biçimde yerleştirmek için araç PDF’yi sayfa sayfa yeniden oluşturur. Seçilebilir metnin, notların veya vektör içeriğin korunması gerektiğinde özgün dosyayı arşiv için saklayın. Ayrı kopya iş akışı bunu kolaylaştırır.",
+      "faqs": [
+        [
+          "Filigran her sayfaya eklenir mi?",
+          "Evet. Seçtiğiniz metin ve renk yeni PDF kopyasının her sayfasına uygulanır."
+        ],
+        [
+          "Hangi filigran renkleri mevcut?",
+          "Camgöbeği, Beyaz, Açık Gri, Koyu Gri, Koyu Kırmızı, Koyu Sarı ve Siyah seçenekleri bulunur. Varsayılan renk Camgöbeği’dir."
+        ],
+        [
+          "Araç özgün PDF’min yerine geçer mi?",
+          "Hayır. ProScan PDF, Dosyalarım’a ayrı bir filigranlı kopya kaydeder."
+        ],
+        [
+          "PDF filigran eklemek için yüklenir mi?",
+          "Hayır. Filigran iPhone veya iPad’inizde yerel olarak uygulanır."
+        ]
+      ]
+    },
+    "pdf-compressor": {
+      "title": "iPhone ve iPad’de PDF Sıkıştırma | ProScan PDF",
+      "description": "Taranmış ve görsel tabanlı PDF’leri cihazınızda sıkıştırın. Devam etmeden önce özgün boyutu, yeni boyutu ve azalma oranını görün.",
+      "eyebrow": "Daha küçük dosyalar, açık sonuçlar",
+      "heading": "PDF’yi sıkıştırın.\nNeyin değiştiğini görün.",
+      "lead": "Taranmış veya yoğun görselli PDF’lerin boyutunu cihazınızda azaltın ve yeni dosya hazır olduğunda önce-sonra karşılaştırmasını açıkça görün.",
+      "image_alt": "ProScan PDF Araçlar ekranındaki PDF’yi Sıkıştır seçeneği",
+      "callout_title": "Önce ve sonra",
+      "callout_text": "Özgün boyut, sonuç ve azalma oranı.",
+      "chips": [
+        "Taranmış PDF’ler",
+        "Görsel PDF’ler",
+        "Yerel işlem",
+        "Açık sonuç"
+      ],
+      "proofs": [
+        [
+          "compress",
+          "Taranmış belgeler için tasarlandı",
+          "Sıkıştırıcı, taranmış ve görsel tabanlı sayfaları daha verimli bir görsel yapıyla yeniden oluşturur. Kamera taramaları, fotoğraflanmış evraklar ve fotoğraflardan oluşturulan PDF’ler için özellikle kullanışlıdır."
+        ],
+        [
+          "document",
+          "Ayrı bir sıkıştırılmış kopya",
+          "Özgün belge sessizce değiştirilmez. ProScan PDF, sonucu karşılaştırabilmeniz ve gerektiğinde kaynak dosyayı saklayabilmeniz için yeni bir sıkıştırılmış PDF oluşturur."
+        ],
+        [
+          "check",
+          "Anlaşılır bir sonuç",
+          "Tamamlanma kartı yalnızca kaydı onaylamak yerine özgün dosya boyutunu, sıkıştırılmış boyutu ve azalma yüzdesini gösterir."
+        ]
+      ],
+      "steps": [
+        [
+          "Bir PDF seçin",
+          "Araçlar’ı açın, PDF’yi Sıkıştır’a dokunun ve arşivinizden belgeyi seçin. Yoğun görselli taramalar daha fazla azaltılabilir veri içerdiği için en uygun adaylardır."
+        ],
+        [
+          "Uygulamanın sayfaları yeniden oluşturmasını bekleyin",
+          "ProScan PDF, depolama boyutunu azaltırken belgeyi okunabilir ve paylaşılabilir tutmayı amaçlayan ayarlarla sayfaları cihazda işler ve kodlar."
+        ],
+        [
+          "Azalma oranını inceleyin",
+          "İşlem bittiğinde sonuç kartı özgün ve sıkıştırılmış boyutları karşılaştırır, tasarruf yüzdesini gösterir. Yeni PDF Dosyalarım’da kullanılabilir."
+        ]
+      ],
+      "details": [
+        [
+          "E-posta ve paylaşımdan önce kullanışlı",
+          "Daha küçük bir PDF’yi e-postaya eklemek, forma yüklemek veya uzun süreli arşivde tutmak daha kolay olabilir. Çok sayıda taranmış belge yerel alanı veya iCloud depolamasını doldurduğunda da sıkıştırma yardımcı olur."
+        ],
+        [
+          "Yönü ve sayfa sırasını korur",
+          "Sıkıştırıcı, sayfa sırasını bilerek değiştirmeden veya içeriği aynalamadan PDF’yi yeniden oluşturur. Tamamlanan belge kaynağın okuma yönünü ve sayfa düzenini korur."
+        ],
+        [
+          "Daha geniş PDF iş akışının içinde kalır",
+          "Sıkıştırmadan sonra yeni kopyayı görüntüleyebilir, yeniden adlandırabilir, düzenleyebilir, filigran ekleyebilir, imzalayabilir, kilitleyebilir veya paylaşabilirsiniz. Sonuç geçici ve kopuk bir konum yerine aynı arşivde kalır."
+        ]
+      ],
+      "note_title": "Sıkıştırmanın en iyi çalıştığı yer",
+      "note": "Sıkıştırma, taranmış ve görsel tabanlı PDF’ler için optimize edilmiştir. Çoğunlukla verimli vektör metinden oluşan bir belge zaten küçük olabilir ve çok az küçülebilir. Yeniden işleme çok ince görsel ayrıntıları da yumuşatabilir; arşiv kalitesi önemliyse özgün dosyayı saklayın.",
+      "faqs": [
+        [
+          "Sıkıştırma özgün PDF’nin yerine geçer mi?",
+          "Hayır. ProScan PDF, kaynak dosyanın kullanılabilir kalması için ayrı bir sıkıştırılmış kopya kaydeder."
+        ],
+        [
+          "En fazla hangi PDF’ler küçülür?",
+          "Taranmış sayfalar, fotoğraflar ve diğer yoğun görselli PDF’ler genellikle en yüksek azalma oranını sağlar."
+        ],
+        [
+          "Ne kadar alan kazanıldığını görebilir miyim?",
+          "Evet. Başarı kartı özgün boyutu, sıkıştırılmış boyutu ve azalma yüzdesini gösterir."
+        ],
+        [
+          "Sıkıştırma için harici sunucu gerekir mi?",
+          "Hayır. Belge iPhone veya iPad’inizde yerel olarak işlenir."
+        ]
+      ]
+    },
+    "sign-pdf": {
+      "title": "PDF İmzalama ve Parolayla Koruma | ProScan PDF",
+      "description": "PDF’lere imza ve metin kutuları ekleyin, hassas belgeleri parolayla kilitleyin ve tamamlanan dosyayı iPhone veya iPad’den paylaşın.",
+      "eyebrow": "Belgeleri güvenle tamamlayın",
+      "heading": "PDF’yi imzalayın.\nGöndermeden önce kilitleyin.",
+      "lead": "İmza veya metin formu ekleyin, hassas PDF’leri parolayla koruyun ve tamamlanan belgeyi uygulamadan ayrılmadan paylaşın.",
+      "image_alt": "ProScan PDF’de PDF üzerinde gösterilen imza ve metin formu seçenekleri",
+      "callout_title": "İmzalayın ve koruyun",
+      "callout_text": "Evrakları tek yerden tamamlayın.",
+      "chips": [
+        "İmzalar",
+        "Metin kutuları",
+        "Parola koruması",
+        "Doğrudan paylaşım"
+      ],
+      "proofs": [
+        [
+          "sign",
+          "İmzayı ait olduğu yere ekleyin",
+          "Bir PDF açın, form düzenleme akışına girin ve sayfaya imza öğesi ekleyin. İmza ayrı bir görsel olarak gönderilmek yerine doğrudan belge üzerinde konumlandırılabilir."
+        ],
+        [
+          "document",
+          "Basit form alanlarını doldurun",
+          "Ad, tarih, kısa yanıt ve mevcut PDF sayfasının üzerinde görünmesi gereken diğer bilgiler için bir metin formu kutusu ekleyin."
+        ],
+        [
+          "lock",
+          "Hassas dosyaları koruyun",
+          "Gizli evrakları paylaşmadan önce parolayla korunan bir PDF oluşturun. Kilitleme cihazda gerçekleşir ve alıcı için şifrelenmiş bir dosya üretir."
+        ]
+      ],
+      "steps": [
+        [
+          "Tamamlamak istediğiniz PDF’yi açın",
+          "Dosyalarım’dan belgeyi seçin ve form düzenleme kontrollerini açın. Metin veya imza eklemeye karar verirken PDF görünür kalır."
+        ],
+        [
+          "Form öğesini yerleştirin",
+          "Metin Formu Kutusu Ekle veya İmza Ekle’yi seçin ve öğeyi uygun sayfaya konumlandırın. Değiştirilen PDF’yi kaydetmeden önce sonucu inceleyin."
+        ],
+        [
+          "Tamamlanan kopyayı kilitleyin veya paylaşın",
+          "Belge hazır olduğunda parolayla korunan bir sürüm oluşturmak için Kilitle’yi, standart iOS paylaşım sayfasından göndermek için Paylaş’ı kullanın."
+        ]
+      ],
+      "details": [
+        [
+          "Pratik mobil imzalama akışı",
+          "Amaç, günlük evrakları yazdırıp imzaladıktan sonra yeniden taramadan tamamlamaktır. İmzalar ve metin alanları, sayfaları görüntülemek ve düzenlemek için zaten kullandığınız PDF akışına dâhildir."
+        ],
+        [
+          "Parola koruması sizin seçiminizdir",
+          "Her belgenin şifrelenmesi gerekmez. Bu nedenle Kilitle ayrı ve açık bir işlem olarak sunulur. PDF’nin ne zaman parola istemesi gerektiğine beklenmedik güvenlik uygulanmadan siz karar verirsiniz."
+        ],
+        [
+          "Açık tamamlanma onayı",
+          "Değiştirilmiş veya imzalanmış PDF kaydedildiğinde bir onay kartı işlemin tamamlandığını bildirir. Dosya değiştikten sonra arşiv ve önizleme güncellenir."
+        ]
+      ],
+      "note_title": "Parolayı ayrı bir kanaldan paylaşın",
+      "note": "Parolayla korunan bir PDF, yalnızca parola ve onun paylaşılma yöntemi kadar güvenlidir. İçerik hassassa güçlü bir parola kullanın ve parolayı korunan belgeden farklı bir iletişim kanalıyla gönderin.",
+      "faqs": [
+        [
+          "Aynı PDF’ye hem metin hem imza ekleyebilir miyim?",
+          "Evet. Form öğesi akışı PDF’ye metin formu kutuları ve imzalar eklemeyi destekler."
+        ],
+        [
+          "PDF’yi parolayla kilitleyebilir miyim?",
+          "Evet. Kilitle işlemi cihazda parolayla korunan bir PDF oluşturur."
+        ],
+        [
+          "Tamamlanan belgeyi nasıl gönderirim?",
+          "Standart iOS paylaşım sayfasını açıp kullanılabilir bir hedef seçmek için Paylaş’ı kullanın."
+        ],
+        [
+          "İmzalama işlemi PDF’yi bir sunucuya yükler mi?",
+          "Hayır. Belge düzenleme ve imzalama akışı cihazınızda gerçekleştirilir."
+        ]
+      ]
+    },
+    "pdf-to-word": {
+      "title": "PDF’yi Düzenlenebilir Word’e Dönüştürme | ProScan PDF",
+      "description": "PDF dosyalarını iPhone veya iPad’de düzenlenebilir Word belgelerine dönüştürün. Düzen odaklı konumlandırma, yerel işlem ve açık sınırlar.",
+      "eyebrow": "PDF’nin ötesinde düzenlenebilir metin",
+      "heading": "PDF’den Word’e.\nMetni yeniden düzenleyin.",
+      "lead": "Mümkün olduğunda düzeni dikkate alan konumlandırmayla düzenlenebilir bir Word belgesini tamamen iPhone veya iPad’inizde oluşturun.",
+      "image_alt": "ProScan PDF’de gösterilen PDF’den Word’e aracı",
+      "callout_title": "Düzenlenebilir Word çıktısı",
+      "callout_text": "Yapıyı mümkün olduğunca koruyun.",
+      "chips": [
+        "Düzenlenebilir metin",
+        "Düzen odaklı",
+        "DOCX çıktısı",
+        "Cihazda işlem"
+      ],
+      "proofs": [
+        [
+          "word",
+          "Metin düzenlenebilir kalır",
+          "Dönüştürme, belgeye tam sayfa ekran görüntüsü yerleştirmek yerine gerçek Word içeriği oluşturur. Tanınan metin uyumlu bir kelime işlemcide seçilebilir ve düzenlenebilir."
+        ],
+        [
+          "pages",
+          "Konum da önemlidir",
+          "ProScan PDF, her paragrafı tek bir sola hizalı sütuna göndermek yerine özgün düzene yaklaşmak için algılanan metin bloklarını ve sayfadaki konumlarını kullanır."
+        ],
+        [
+          "lock",
+          "Yerel belge dönüştürme",
+          "OCR, metin çıkarma ve belge oluşturma cihazda gerçekleşir. Kaynak PDF bir ProScan PDF dönüştürme sunucusuna gönderilmez."
+        ]
+      ],
+      "steps": [
+        [
+          "Kaynak PDF’yi seçin",
+          "Araçlar’ı açın, PDF’den Word’e’yi seçin ve dönüştürmek istediğiniz belgeyi belirleyin. Net metin ve sade sayfa düzenleri en iyi başlangıç noktasını sunar."
+        ],
+        [
+          "Metni tanıyın ve sayfayı yeniden oluşturun",
+          "Uygulama PDF’yi cihazda analiz eder, metin bölgelerini belirler ve yerleşime rehberlik etmesi için özgün sayfa geometrisini kullanarak düzenlenebilir bir Word belgesi oluşturur."
+        ],
+        [
+          "Açın, paylaşın veya düzenlemeye devam edin",
+          "Oluşturulan Word dosyası Dosyalarım’da görünür. Hızlı önizleme için açın veya çalışmayı sürdürmek üzere Microsoft Word, Pages ya da uyumlu başka bir düzenleyiciyle paylaşın."
+        ]
+      ],
+      "details": [
+        [
+          "Yalnızca görsel içeren Word dosyasından daha kullanışlı",
+          "Sayfa görseli görünümü kusursuz koruyabilir ancak sözcükleri resmin içine hapseder. ProScan PDF düzenlenebilir metne öncelik verir ve dönüştürme sonrasında sonucu kullanışlı tutmak için yerleşim bilgisi ekler."
+        ],
+        [
+          "Yaygın iş belgeleri için tasarlandı",
+          "Mektuplar, formlar, raporlar ve net metin bloklarına sahip belgeler uygun adaylardır. Özellikle özgün düzenlenebilir dosya yoksa ve bir bölümün değiştirilmesi veya yeniden kullanılması gerekiyorsa yararlıdır."
+        ],
+        [
+          "Taramadan DOCX’e tek yerel akış",
+          "Kâğıt belgeyi tarayabilir, PDF olarak kaydedebilir, OCR uygulayabilir ve evrakı harici bir dönüştürme sitesine yüklemeden düzenlenebilir Word sürümünü oluşturabilirsiniz."
+        ]
+      ],
+      "note_title": "Karmaşık düzenler ayarlama gerektirebilir",
+      "note": "Hiçbir cihaz içi dönüştürücü her PDF’yi piksel düzeyinde aynı ve tamamen düzenlenebilir biçimde yeniden oluşturmayı garanti edemez. Yoğun tablolar, alışılmadık yazı tipleri, el yazısı, üst üste binen öğeler ve karmaşık çok sütunlu düzenler elle düzeltme gerektirebilir. ProScan PDF, kusursuz dönüştürme iddiası yerine mümkün olan yerlerde düzeni korur.",
+      "faqs": [
+        [
+          "Word belgesi düzenlenebilir mi?",
+          "Evet. Tanınan metin yalnızca tam sayfa görselleri olarak değil, düzenlenebilir Word içeriği olarak yazılır."
+        ],
+        [
+          "Düzen tamamen aynı görünür mü?",
+          "Uygulama algılanan konumları mümkün olduğunca korur ancak karmaşık sayfalar Word veya Pages’da elle ayarlama gerektirebilir."
+        ],
+        [
+          "DOCX dosyası nereye kaydedilir?",
+          "Oluşturulan Word belgesi Dosyalarım’da görünür ve açılabilir ya da başka bir uygulamayla paylaşılabilir."
+        ],
+        [
+          "Dönüştürme çevrimiçi mi yapılır?",
+          "Hayır. Metin tanıma ve Word oluşturma işlemleri cihazda yerel olarak gerçekleştirilir."
+        ]
+      ]
+    },
+    "id-photo-maker": {
+      "title": "Vesikalık ve Kimlik Fotoğrafı Oluşturma | ProScan PDF",
+      "description": "Standart veya özel ölçülerde kimlik ve biyometrik fotoğraf oluşturun. Otomatik kırpma, kalite kontrolü, 300 DPI ve baskı sayfaları.",
+      "eyebrow": "Tek fotoğraftan tam ölçüler",
+      "heading": "Kimlik fotoğrafı oluşturun.\nGüvenle kırpın.",
+      "lead": "Yeni bir portre çekin veya içe aktarın, bozmadan kırpın, kullanışlı kalite kontrollerini inceleyin ve tek görsel ya da baskıya hazır fotoğraf sayfası olarak dışa aktarın.",
+      "image_alt": "ProScan PDF Araçlar ekranındaki Kimlik Fotoğrafı Oluştur seçeneği",
+      "callout_title": "Standart ve özel ölçüler",
+      "callout_text": "Tek görseller veya baskıya hazır sayfalar.",
+      "chips": [
+        "Otomatik kırp",
+        "Kalite kontrolleri",
+        "300 DPI",
+        "Baskı sayfaları"
+      ],
+      "proofs": [
+        [
+          "person",
+          "Uygun fotoğraf ölçüsünü seçin",
+          "35 × 45 mm, 40 × 50 mm, 50 × 50 mm, 50 × 60 mm, 50 × 70 mm veya ABD 2 × 2 inç seçeneklerinden birini kullanın ya da milimetre veya inç cinsinden özel genişlik ve yükseklik girin."
+        ],
+        [
+          "auto",
+          "Esnetmeden kırpın",
+          "Otomatik kırp, özgün görsel oranlarını korurken kadraj önermek için yüz analizini kullanır. Kaynak fotoğraf veya resmî gereksinim farklı bir kompozisyon istiyorsa kırpmayı elle ayarlayabilirsiniz."
+        ],
+        [
+          "check",
+          "Dışa aktarmadan önce inceleyin",
+          "Cihaz içi kontroller; yüz sayısını ve konumunu, algılanabildiğinde gözlerin görünürlüğünü, ışığı, netliği, arka plan tutarlılığını ve kırpmanın 300 DPI çıktıyı destekleyip desteklemediğini değerlendirir."
+        ]
+      ],
+      "steps": [
+        [
+          "Portre çekin veya seçin",
+          "Yeni fotoğraf için kamerayı kullanın ya da mevcut bir görsel seçin. Kamera fotoğraflarının esnememesi veya yanlış dönmemesi için kaynağa doğru yön uygulanır."
+        ],
+        [
+          "Ölçüyü seçin ve kırpmayı iyileştirin",
+          "Standart bir biçim seçin veya özel ölçü girin, ardından Otomatik kırp ya da elle kaydırma ve yakınlaştırma kontrollerini kullanın. Kalite rehberi, dışa aktarmadan önce incelemeye değer sorunları gösterir."
+        ],
+        [
+          "İhtiyacınız olan biçimde dışa aktarın",
+          "Tek fotoğrafı JPEG veya PNG olarak oluşturun ya da A4, ABD Letter veya 4 × 6 inç kâğıt üzerinde seçilen fiziksel ölçüde tekrarlanan kopyalardan oluşan baskıya hazır bir PDF sayfası hazırlayın."
+        ]
+      ],
+      "details": [
+        [
+          "Tahmine değil fiziksel ölçülere dayanır",
+          "Araç, kimlik fotoğrafını rastgele kare kırpma olarak değerlendirmek yerine baskı için çıktı boyutlarını hesaplar. Standart seçenekler yaygın ihtiyaçları hızlandırır; özel ölçü ise farklı gereksinimleri karşılar."
+        ],
+        [
+          "Kalite rehberi cihazda kalır",
+          "Yüz konumu, poz, ışık, netlik, arka plan değişimi ve çözünürlük yerel olarak analiz edilir. Kontroller, portreyi harici bir servise göndermeden baskı öncesinde sık karşılaşılan sorunları fark etmenize yardımcı olur."
+        ],
+        [
+          "Tek kaynaktan baskıya hazır sayfa",
+          "Kâğıt boyutunu seçtiğinizde ProScan PDF uygun kenar boşluğu ve aralıklarla kaç fotoğraf sığacağını hesaplar. Ortaya çıkan PDF yazdırılabilir veya paylaşılabilir; tek bir dijital fotoğraf gerektiğinde JPEG ve PNG seçenekleri kullanılabilir."
+        ]
+      ],
+      "note_title": "Her zaman resmî gereksinimi kontrol edin",
+      "note": "Fotoğraf kuralları ülkeye, belge türüne ve düzenleyen kuruma göre değişir. ProScan PDF ölçüler, kırpma yardımı ve kalite rehberi sunar ancak kabulü garanti edemez. Başvurudan önce güncel resmî boyut, arka plan, ifade ve baskı kurallarını doğrulayın.",
+      "faqs": [
+        [
+          "Hangi ölçüler mevcut?",
+          "Uygulamada 35 × 45, 40 × 50, 50 × 50, 50 × 60 ve 50 × 70 mm, ABD 2 × 2 inç ve özel ölçü seçeneği bulunur."
+        ],
+        [
+          "Baskıya hazır fotoğraf sayfası oluşturabilir miyim?",
+          "Evet. Seçilen fiziksel ölçüde tekrarlanan fotoğraflarla A4, ABD Letter veya 4 × 6 inç kâğıt için PDF sayfası oluşturabilirsiniz."
+        ],
+        [
+          "Otomatik kırp yüzü esnetir mi?",
+          "Hayır. Kırpma kaynak görselin oranlarını korur ve hedef ölçünün en-boy oranına uygun bir bölge seçer."
+        ],
+        [
+          "Araç resmî kurumların kabulünü garanti eder mi?",
+          "Hayır. Gereksinimler değişebileceğinden sonucu her zaman düzenleyen kurumun güncel kurallarıyla karşılaştırmalısınız."
+        ]
+      ]
+    },
+    "ocr-text-extraction": {
+      "title": "OCR ile Metin Çıkarma ve Aranabilir PDF | ProScan PDF",
+      "description": "Canlı OCR ile metin yakalayın, düzenlenebilir içerik çıkarın, aranabilir PDF oluşturun ve iPhone veya iPad’de yerel olarak Word’e aktarın.",
+      "eyebrow": "Kâğıdı kullanışlı metne dönüştürün",
+      "heading": "OCR ile metin çıkarın.\nTaradıklarınızda arayın.",
+      "lead": "Metni canlı yakalayın, mevcut belgeleri tanıyın, aranabilir PDF kopyaları oluşturun ve sayfayı sunucuya göndermeden düzenlenebilir içeriği Word’e aktarın.",
+      "image_alt": "ProScan PDF’de basılı belgedeki metni tanıyan Canlı OCR",
+      "callout_title": "Canlı ve belge üzerinde OCR",
+      "callout_text": "Metni kopyalayın, arayın veya dışa aktarın.",
+      "chips": [
+        "Canlı OCR",
+        "Düzenlenebilir metin",
+        "Aranabilir PDF",
+        "Word’e aktarma"
+      ],
+      "proofs": [
+        [
+          "eye",
+          "Kamerayla metin yakalayın",
+          "Canlı OCR, kamera bir sayfaya yöneltildiğinde tanınan metni gösterir. Önce tam bir PDF oluşturup açmadan sözcüklere hızlıca ihtiyacınız olduğunda kullanışlıdır."
+        ],
+        [
+          "search",
+          "PDF’yi aranabilir yapın",
+          "Aranabilir PDF yeni ve aranabilir bir kopya oluşturur. Bu kopyayı uygulamanın PDF görüntüleyicisinde açın ve belgedeki tanınmış sözcükleri bulmak için arama kontrolünü kullanın."
+        ],
+        [
+          "word",
+          "Metni yeniden kullanın",
+          "Kopyalamak için belge metnini çıkarın veya sayfa yapısının izin verdiği durumlarda düzeni dikkate alan konumlandırmayla düzenlenebilir bir Word belgesi oluşturun."
+        ]
+      ],
+      "steps": [
+        [
+          "Canlı çekimi veya mevcut dosyayı seçin",
+          "Kâğıt önünüzdeyse Ana Sayfa’daki Canlı OCR’yi kullanın. Belge zaten Dosyalarım’daysa Aranabilir PDF, PDF’den Word’e veya OCR işlemini seçin."
+        ],
+        [
+          "Metni cihazda tanıyın",
+          "Apple Vision teknolojisi sayfayı cihazınızda analiz eder. Net basılı metin, iyi ışık, düz bir sayfa ve yeterli çözünürlük tanıma kalitesini artırır."
+        ],
+        [
+          "Sonucu doğru biçimde kullanın",
+          "Düzenlenebilir metni kopyalayın, metin sonucunu kaydedin, uygulama içinde arama için aranabilir PDF oluşturun veya içerikte çalışmaya devam etmek için Word dosyası hazırlayın."
+        ]
+      ],
+      "details": [
+        [
+          "Aranabilir olması görünümünün değiştiği anlamına gelmez",
+          "Aranabilir PDF, tanınan metin bilgisini eklerken sayfanın tanıdık görünümünü korur. Böylece arşivlenmiş taramalarda içerik bulmak kolaylaşır ve özgün görsel sayfa düz metin belgesiyle değiştirilmez."
+        ],
+        [
+          "Hızlı çekim için Canlı OCR",
+          "Her metin işi PDF gerektirmez. Canlı OCR yalnızca bir paragrafı, adresi, referans numarasını veya kamerada görünen başka bir basılı içeriği yakalamanız gerektiğinde daha hızlı bir yol sunar."
+        ],
+        [
+          "Özel OCR iş akışı",
+          "Tanıma işlemi cihaz içi teknolojilerle gerçekleştirilir. ProScan PDF taranan belgeyi kendi OCR sunucusuna yüklemez; hassas notlar, fişler ve evraklar Apple aygıtınızdaki iş akışında kalır."
+        ]
+      ],
+      "note_title": "Tanıma kalitesi kaynağa bağlıdır",
+      "note": "OCR; net, iyi aydınlatılmış basılı metinlerde en iyi sonucu verir. El yazısı, süslü yazı tipleri, parlama, kat izleri, düşük kontrast ve karmaşık tablolar doğruluğu azaltabilir. Önemli adları, numaraları ve hukuki metinleri kullanmadan önce kontrol edin.",
+      "faqs": [
+        [
+          "Aranabilir PDF’de nasıl arama yaparım?",
+          "Aranabilir kopyayı ProScan PDF görüntüleyicisinde açın ve tanınan sözcükleri bulmak için arama kontrolünü kullanın."
+        ],
+        [
+          "Önce PDF taramadan metin yakalayabilir miyim?",
+          "Evet. Canlı OCR doğrudan kamera görüntüsündeki metni tanır."
+        ],
+        [
+          "OCR düzenlenebilir Word dosyası oluşturabilir mi?",
+          "Evet. PDF’den Word’e, tanınan metni kullanır ve mümkün olduğunda sayfa düzenini korur."
+        ],
+        [
+          "OCR bir sunucuda mı işlenir?",
+          "Hayır. Tanıma işlemi iPhone veya iPad’inizde yerel olarak çalışır."
+        ]
+      ]
+    },
+    "organize-pdf-pages": {
+      "title": "PDF Sayfalarını Ayıkla, Sırala ve Birleştir | ProScan PDF",
+      "description": "iPhone veya iPad’de PDF sayfalarını ayıklayın, sıralayın, ekleyin ya da silin; dosyaları birleştirin ve yeni kopyayı cihazda kaydedin.",
+      "eyebrow": "Her sayfayı doğru yerine koyun",
+      "heading": "PDF sayfalarını düzenleyin.\nYalnızca gerekenleri tutun.",
+      "lead": "Sayfaları ayıklayın, yeniden sıralayın, ekleyin veya silin; birden fazla PDF’yi birleştirin ve değiştirilmiş kopyayı aynı belge arşivine kaydedin.",
+      "image_alt": "Sayfaları Düzenle ekranında altı PDF sayfası önizlemesi",
+      "callout_title": "Sayfa düzeyinde kontrol",
+      "callout_text": "Ayıklayın, yeniden sıralayın, ekleyin ve silin.",
+      "chips": [
+        "Sayfaları Ayıkla",
+        "Yeniden Sırala",
+        "Ekle",
+        "PDF’leri Birleştir"
+      ],
+      "proofs": [
+        [
+          "pages",
+          "Belgeyi sayfa sayfa görün",
+          "Sayfaları Düzenle, ihtiyacınız olan sayfayı yalnızca numarasına bakmadan belirleyebilmeniz için görsel önizlemeler sunar. Seçilen sayfalar açık bir vurguyla gösterilir."
+        ],
+        [
+          "extract",
+          "Odaklı bir PDF oluşturun",
+          "Yalnızca ilgili sayfaları seçin ve yeni bir ayıklanmış belge olarak kaydedin. Özgün PDF kullanılabilir kalırken daha küçük sonuç Dosyalarım’da görünür."
+        ],
+        [
+          "document",
+          "Mevcut dosyanın yapısını değiştirin",
+          "Sayfaları yeniden sıralayın, başka bir kaynaktan sayfa ekleyin veya kalmaması gereken sayfaları kaldırın. Sıralama hazır olduğunda değiştirilmiş PDF’yi kaydedin."
+        ]
+      ],
+      "steps": [
+        [
+          "Sayfaları Düzenle’yi açın",
+          "Dosyalarım’dan bir PDF seçin ve Düzenle’ye dokunun. Sayfa önizlemeleri Ayıkla, Yeniden Sırala, Ekle ve Sil işlemlerinin bulunduğu özel bir çalışma alanında gösterilir."
+        ],
+        [
+          "Sayfaları veya işlemi seçin",
+          "Ayıklama ya da silme için seçim yapın, yeniden sıralarken sayfaları sürükleyin veya ek içerik yerleştirin. Arayüz etkin işlemi görünür tutarak sonucu önceden anlamayı kolaylaştırır."
+        ],
+        [
+          "Doğru sonucu kaydedin",
+          "Ayıklanan sayfaları yeni bir PDF olarak kaydedin veya yeniden sıralama, ekleme ya da silme sonrasında değiştirilmiş belgeyi saklayın. Tamamlanma kartı dosyanın başarıyla oluşturulduğunu onaylar."
+        ]
+      ],
+      "details": [
+        [
+          "Belgenin tamamını kopyalamadan sayfa ayıklayın",
+          "Yalnızca birkaç sayfa önemliyse ayıklama, paylaşılması daha kolay ve kısa bir PDF oluşturur. Sözleşmenin belirli sayfaları, bir bölüm, daha büyük taramadaki bir fiş veya raporun ilgili kısımları için kullanışlıdır."
+        ],
+        [
+          "Dosyalarım’daki belgeleri birleştirin",
+          "Seçim modu birden fazla PDF’yi tek bir sonuçta birleştirmeyi destekler. Dosyaları seçin, Birleştir’i kullanın ve harici yükleme-indirme hizmetine gerek kalmadan yeni belgeyi kaydedin."
+        ],
+        [
+          "Arşivde anında geri bildirim",
+          "Silinen kartlar yumuşakça kaybolur ve kalan dosyalar kontrollü bir animasyonla yerlerine taşınır. Güncellemeler birleştirilerek arşivin yinelenen taramalar yapması veya tek işlemden sonra hareketi tekrar oynatması önlenir."
+        ]
+      ],
+      "note_title": "Önemli belgelerin özgün hâlini saklayın",
+      "note": "Sayfa düzenleme, açık değiştirilmiş veya ayıklanmış sonuçlar oluşturmak için tasarlanmıştır. Yine de hukuki, mali veya arşivlik belgelerde yeni dosyanın her sayfasını doğrulayana kadar değiştirilmemiş özgün belgeyi saklamak iyi bir uygulamadır.",
+      "faqs": [
+        [
+          "Yalnızca seçilen sayfaları ayıklayabilir miyim?",
+          "Evet. İhtiyacınız olan sayfaları seçin ve yeni bir ayıklanmış PDF olarak kaydedin."
+        ],
+        [
+          "Sayfa sırasını değiştirebilir miyim?",
+          "Evet. Yeniden Sırala’yı seçin, sayfa önizlemelerini düzenleyin ve değiştirilmiş PDF’yi kaydedin."
+        ],
+        [
+          "Birden fazla PDF’yi birleştirebilir miyim?",
+          "Evet. Dosyalarım’da Seç’e dokunun, PDF dosyalarını belirleyin ve tek bir belge oluşturmak için Birleştir’i kullanın."
+        ],
+        [
+          "Düzenleme için belge yüklemek gerekir mi?",
+          "Hayır. Ayıklama, yeniden sıralama, ekleme, silme ve birleştirme işlemleri yerel olarak gerçekleştirilir."
+        ]
+      ]
+    }
+  }
+}

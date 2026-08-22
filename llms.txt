@@ -138,6 +138,19 @@ Support: info@proscanpdf.com
 - [Extrair texto e criar PDFs pesquisáveis](https://proscanpdf.com/pt-pt/ocr-text-extraction/)
 - [Organizar páginas PDF](https://proscanpdf.com/pt-pt/organize-pdf-pages/)
 
+## Türkçe ayrıntılı rehberler
+
+- [Belge tarama ve PDF oluşturma](https://proscanpdf.com/tr/scan-to-pdf/)
+- [Fotoğrafları PDF’ye dönüştürme](https://proscanpdf.com/tr/photo-to-pdf/)
+- [PDF’yi JPG görsellere dönüştürme](https://proscanpdf.com/tr/pdf-to-images/)
+- [PDF’ye filigran ekleme](https://proscanpdf.com/tr/add-watermark/)
+- [PDF sıkıştırma](https://proscanpdf.com/tr/pdf-compressor/)
+- [PDF imzalama ve parolayla koruma](https://proscanpdf.com/tr/sign-pdf/)
+- [PDF’yi Word’e dönüştürme](https://proscanpdf.com/tr/pdf-to-word/)
+- [Vesikalık ve kimlik fotoğrafı oluşturma](https://proscanpdf.com/tr/id-photo-maker/)
+- [OCR ile metin çıkarma ve aranabilir PDF oluşturma](https://proscanpdf.com/tr/ocr-text-extraction/)
+- [PDF sayfalarını düzenleme](https://proscanpdf.com/tr/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)

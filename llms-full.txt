@@ -91,7 +91,7 @@ Primary working copies are stored locally in the app's My Files library for fast
 
 ## Machine-readable references
 
-Localized feature guides are also available in German under `/de/`, French under `/fr/`, Spanish under `/es/`, Italian under `/it/`, Dutch under `/nl/`, Polish under `/pl/`, Brazilian Portuguese under `/pt-br/` and European Portuguese under `/pt-pt/`.
+Localized feature guides are also available in German under `/de/`, French under `/fr/`, Spanish under `/es/`, Italian under `/it/`, Dutch under `/nl/`, Polish under `/pl/`, Brazilian Portuguese under `/pt-br/`, European Portuguese under `/pt-pt/` and Turkish under `/tr/`.
 
 - Feature summary: https://proscanpdf.com/docs/features.md
 - PDF tool reference: https://proscanpdf.com/docs/pdf-tools.md
