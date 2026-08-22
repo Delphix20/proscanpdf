@@ -112,6 +112,19 @@ Support: info@proscanpdf.com
 - [Wyodrębnianie tekstu i tworzenie PDF z wyszukiwaniem](https://proscanpdf.com/pl/ocr-text-extraction/)
 - [Organizowanie stron PDF](https://proscanpdf.com/pl/organize-pdf-pages/)
 
+## Guias detalhados em português do Brasil
+
+- [Digitalizar documentos para PDF](https://proscanpdf.com/pt-br/scan-to-pdf/)
+- [Converter fotos para PDF](https://proscanpdf.com/pt-br/photo-to-pdf/)
+- [Converter PDF em imagens JPG](https://proscanpdf.com/pt-br/pdf-to-images/)
+- [Adicionar marca-d’água ao PDF](https://proscanpdf.com/pt-br/add-watermark/)
+- [Compactar PDF](https://proscanpdf.com/pt-br/pdf-compressor/)
+- [Assinar e proteger PDF](https://proscanpdf.com/pt-br/sign-pdf/)
+- [Converter PDF para Word](https://proscanpdf.com/pt-br/pdf-to-word/)
+- [Criar fotos para documentos](https://proscanpdf.com/pt-br/id-photo-maker/)
+- [Extrair texto e criar PDFs pesquisáveis](https://proscanpdf.com/pt-br/ocr-text-extraction/)
+- [Organizar páginas PDF](https://proscanpdf.com/pt-br/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
