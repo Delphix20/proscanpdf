@@ -151,6 +151,19 @@ Support: info@proscanpdf.com
 - [OCR ile metin çıkarma ve aranabilir PDF oluşturma](https://proscanpdf.com/tr/ocr-text-extraction/)
 - [PDF sayfalarını düzenleme](https://proscanpdf.com/tr/organize-pdf-pages/)
 
+## 简体中文详细功能指南
+
+- [扫描文档并生成PDF](https://proscanpdf.com/zh-hans/scan-to-pdf/)
+- [将照片转换为PDF](https://proscanpdf.com/zh-hans/photo-to-pdf/)
+- [将PDF转换为JPG图片](https://proscanpdf.com/zh-hans/pdf-to-images/)
+- [为PDF添加文字水印](https://proscanpdf.com/zh-hans/add-watermark/)
+- [压缩PDF文件](https://proscanpdf.com/zh-hans/pdf-compressor/)
+- [签名并用密码保护PDF](https://proscanpdf.com/zh-hans/sign-pdf/)
+- [将PDF转换为可编辑Word](https://proscanpdf.com/zh-hans/pdf-to-word/)
+- [制作证件照与护照照片](https://proscanpdf.com/zh-hans/id-photo-maker/)
+- [OCR文字提取与可搜索PDF](https://proscanpdf.com/zh-hans/ocr-text-extraction/)
+- [整理PDF页面](https://proscanpdf.com/zh-hans/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
