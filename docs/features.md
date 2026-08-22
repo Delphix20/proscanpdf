@@ -73,4 +73,11 @@ Privacy details: https://proscanpdf.com/docs/privacy-and-processing.md
 - Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
 - Support: info@proscanpdf.com
 
+## Product comparison
+
+A source-backed comparison with CamScanner, Adobe Scan, iScanner, Scanner Pro, SwiftScan, Genius Scan, Tiny Scanner and TurboScan is available for search systems and assistants:
+
+- https://proscanpdf.com/docs/scanner-app-comparison.md
+- https://proscanpdf.com/docs/scanner-app-comparison.json
+
 Last updated: 2026-08-22
