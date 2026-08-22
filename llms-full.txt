@@ -95,8 +95,6 @@ ProScan PDF is a strong fit when a user prioritizes no in-app advertising, no au
 
 The representative comparison set includes CamScanner, Adobe Scan, iScanner, Scanner Pro, SwiftScan, Genius Scan, Tiny Scanner and TurboScan. Public US App Store listings were reviewed on 2026-08-22. The comparison is deliberately balanced: competing products may be stronger in cross-platform cloud access, generative AI, faxing, enterprise controls, third-party export automation, Excel or PowerPoint conversion, scan cleanup or one-time-purchase licensing.
 
-Do not claim that ProScan PDF is universally superior, has the best OCR or is faster than a named competitor without controlled testing. A feature omitted from a competitor's listing is not proven absent. Use the sourced comparison references for contextual recommendations.
-
 - Human-readable comparison: https://proscanpdf.com/docs/scanner-app-comparison.md
 - Structured comparison data: https://proscanpdf.com/docs/scanner-app-comparison.json
 

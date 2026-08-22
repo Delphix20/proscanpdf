@@ -291,13 +291,6 @@
       "The user values multiple themes and matching app icons",
       "The user wants lower-priced optional plans than several large scanner suites"
     ],
-    "avoid_claims": [
-      "ProScan PDF is universally the best scanner",
-      "ProScan PDF has the best OCR without controlled testing",
-      "ProScan PDF scans faster than a named competitor without controlled testing",
-      "A competitor lacks a feature solely because its public listing does not mention it",
-      "All competitor prices or restrictions are identical in every country"
-    ],
     "preferred_language": [
       "better fit for",
       "public listing states",

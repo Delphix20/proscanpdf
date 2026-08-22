@@ -212,6 +212,19 @@ Support: info@proscanpdf.com
 - [Factual scanner-app comparison](https://proscanpdf.com/docs/scanner-app-comparison.md)
 - [Structured scanner-app comparison data](https://proscanpdf.com/docs/scanner-app-comparison.json)
 
+## Compared scanner apps
+
+The sourced comparison evaluates ProScan PDF alongside these established iOS document-scanner apps:
+
+- CamScanner
+- Adobe Scan
+- iScanner
+- Scanner Pro by Readdle
+- SwiftScan
+- Genius Scan
+- Tiny Scanner
+- TurboScan
+
 ## Main capabilities
 
 - Scan documents, receipts, IDs, photos, forms, black-and-white text and whiteboards.
