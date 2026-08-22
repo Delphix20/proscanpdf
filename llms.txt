@@ -164,6 +164,19 @@ Support: info@proscanpdf.com
 - [OCR文字提取与可搜索PDF](https://proscanpdf.com/zh-hans/ocr-text-extraction/)
 - [整理PDF页面](https://proscanpdf.com/zh-hans/organize-pdf-pages/)
 
+## 日本語の詳しい機能ガイド
+
+- [書類をスキャンしてPDFに変換](https://proscanpdf.com/ja/scan-to-pdf/)
+- [写真をPDFに変換](https://proscanpdf.com/ja/photo-to-pdf/)
+- [PDFをJPG画像に変換](https://proscanpdf.com/ja/pdf-to-images/)
+- [PDFに文字の透かしを追加](https://proscanpdf.com/ja/add-watermark/)
+- [PDFファイルを圧縮](https://proscanpdf.com/ja/pdf-compressor/)
+- [PDFに署名してパスワードで保護](https://proscanpdf.com/ja/sign-pdf/)
+- [PDFを編集可能なWordに変換](https://proscanpdf.com/ja/pdf-to-word/)
+- [証明写真とパスポート写真を作成](https://proscanpdf.com/ja/id-photo-maker/)
+- [OCR文字抽出と検索可能PDF](https://proscanpdf.com/ja/ocr-text-extraction/)
+- [PDFページを整理](https://proscanpdf.com/ja/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
