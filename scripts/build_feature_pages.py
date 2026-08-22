@@ -10,6 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 APP_STORE = "https://apps.apple.com/app/id6752308731"
+LOCALIZED_CONTENT_DIR = ROOT / "content" / "feature-guides"
 
 
 FEATURES = {
@@ -410,12 +411,39 @@ ICONS = {
 
 
 LANGUAGE_LINKS = [
-    ("/", "en", "English"), ("/de/", "de", "Deutsch"), ("/fr/", "fr", "Français"),
-    ("/es/", "es", "Español"), ("/it/", "it", "Italiano"), ("/nl/", "nl", "Nederlands"),
-    ("/pt-br/", "pt-BR", "Português (Brasil)"), ("/pt-pt/", "pt-PT", "Português (Portugal)"),
-    ("/pl/", "pl", "Polski"), ("/tr/", "tr", "Türkçe"), ("/zh-hans/", "zh-Hans", "简体中文"),
-    ("/ja/", "ja", "日本語"), ("/ko/", "ko", "한국어"), ("/hi/", "hi", "हिन्दी"),
+    ("en", "/", "en", "English"), ("de", "/de/", "de", "Deutsch"),
+    ("fr", "/fr/", "fr", "Français"), ("es", "/es/", "es", "Español"),
+    ("it", "/it/", "it", "Italiano"), ("nl", "/nl/", "nl", "Nederlands"),
+    ("pt-br", "/pt-br/", "pt-BR", "Português (Brasil)"),
+    ("pt-pt", "/pt-pt/", "pt-PT", "Português (Portugal)"),
+    ("pl", "/pl/", "pl", "Polski"), ("tr", "/tr/", "tr", "Türkçe"),
+    ("zh-hans", "/zh-hans/", "zh-Hans", "简体中文"), ("ja", "/ja/", "ja", "日本語"),
+    ("ko", "/ko/", "ko", "한국어"), ("hi", "/hi/", "hi", "हिन्दी"),
 ]
+
+
+def localized_feature_locales() -> dict[str, dict]:
+    payloads = {}
+    if not LOCALIZED_CONTENT_DIR.exists():
+        return payloads
+    for path in sorted(LOCALIZED_CONTENT_DIR.glob("*.json")):
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        payloads[payload["locale"]] = payload
+    return payloads
+
+
+def localized_alternate_links(slug: str, payloads: dict[str, dict]) -> str:
+    lines = [
+        f'    <link rel="alternate" hreflang="en" href="https://proscanpdf.com/{slug}/">'
+    ]
+    for payload in payloads.values():
+        lines.append(
+            f'    <link rel="alternate" hreflang="{payload["hreflang"]}" href="https://proscanpdf.com/{payload["locale"]}/{slug}/">'
+        )
+    lines.append(
+        f'    <link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/{slug}/">'
+    )
+    return "\n".join(lines)
 
 
 def svg_sprite() -> str:
@@ -502,10 +530,12 @@ def render_page(slug: str, item: dict) -> str:
     heading_parts = [html.escape(part) for part in item["heading"].split("\n")]
     heading = heading_parts[0] if len(heading_parts) == 1 else f'{heading_parts[0]}<br><span>{" ".join(heading_parts[1:])}</span>'
     canonical = f"https://proscanpdf.com/{slug}/"
+    localized_payloads = localized_feature_locales()
     language_options = "\n".join(
-        f'                        <a href="{path}" lang="{lang}" hreflang="{lang}"{(" aria-current=\"page\"" if lang == "en" else "")}>{label}</a>'
-        for path, lang, label in LANGUAGE_LINKS
+        f'                        <a href="{(f"/{locale}/{slug}/" if locale in localized_payloads else path) if locale != "en" else f"/{slug}/"}" lang="{lang}" hreflang="{lang}"{(" aria-current=\"page\"" if locale == "en" else "")}>{label}</a>'
+        for locale, path, lang, label in LANGUAGE_LINKS
     )
+    alternate_links = localized_alternate_links(slug, localized_payloads)
     chips = "".join(f'<span>{icon("check")}{html.escape(label)}</span>' for label in item["chips"])
     proofs = "\n".join(
         f'''                <article class="guide-proof reveal">
@@ -553,6 +583,7 @@ def render_page(slug: str, item: dict) -> str:
     <meta name="theme-color" content="#12171B">
     <meta name="apple-itunes-app" content="app-id=6752308731">
     <link rel="canonical" href="{canonical}">
+{alternate_links}
     <link rel="icon" type="image/svg+xml" href="/assets/favicon-paper-on-ink.svg?v=paper-1">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=paper-1">
     <link rel="shortcut icon" href="/favicon.ico?v=paper-1">

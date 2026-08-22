@@ -690,6 +690,9 @@
   </url>
   <url>
     <loc>https://proscanpdf.com/scan-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -699,7 +702,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/scan-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-scan.webp</image:loc>
+      <image:caption>Dokument in der Scanoberfläche von ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/photo-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -709,7 +728,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/photo-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug Fotos als PDF in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/pdf-to-images/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -719,7 +754,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/pdf-to-images/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug PDF in Bilder auf der Werkzeugseite von ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/add-watermark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -729,7 +780,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/add-watermark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug zum Hinzufügen eines Wasserzeichens in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/pdf-compressor/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -739,7 +806,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/pdf-compressor/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug PDF komprimieren in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/sign-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -749,7 +832,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/sign-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-sign.webp</image:loc>
+      <image:caption>Optionen für Unterschrift und Textfelder über einer PDF in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/pdf-to-word/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -759,7 +858,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/pdf-to-word/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug PDF zu Word in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/id-photo-maker/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -769,7 +884,23 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/id-photo-maker/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-tools.webp</image:loc>
+      <image:caption>Werkzeug Passfoto erstellen in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/ocr-text-extraction/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -779,13 +910,42 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/de/ocr-text-extraction/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-ocr.webp</image:loc>
+      <image:caption>Live-OCR erkennt Text in ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/organize-pdf-pages/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
       <image:loc>https://proscanpdf.com/assets/screen-organize.webp</image:loc>
       <image:caption>Extract, reorder, insert, delete and merge PDF pages</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/de/organize-pdf-pages/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/de/screen-organize.webp</image:loc>
+      <image:caption>Seitenverwaltung mit PDF-Vorschauen in ProScan PDF</image:caption>
     </image:image>
   </url>
 </urlset>

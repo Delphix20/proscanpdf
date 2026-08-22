@@ -34,6 +34,19 @@ Support: info@proscanpdf.com
 - [OCR and searchable PDFs](https://proscanpdf.com/ocr-text-extraction/)
 - [Organize PDF pages](https://proscanpdf.com/organize-pdf-pages/)
 
+## Detaillierte Funktionsseiten auf Deutsch
+
+- [Dokumente als PDF scannen](https://proscanpdf.com/de/scan-to-pdf/)
+- [Fotos als PDF](https://proscanpdf.com/de/photo-to-pdf/)
+- [PDF in Bilder umwandeln](https://proscanpdf.com/de/pdf-to-images/)
+- [Wasserzeichen zu PDF hinzufügen](https://proscanpdf.com/de/add-watermark/)
+- [PDF komprimieren](https://proscanpdf.com/de/pdf-compressor/)
+- [PDF signieren und schützen](https://proscanpdf.com/de/sign-pdf/)
+- [PDF zu Word](https://proscanpdf.com/de/pdf-to-word/)
+- [Passfoto erstellen](https://proscanpdf.com/de/id-photo-maker/)
+- [Text erkennen und PDFs durchsuchen](https://proscanpdf.com/de/ocr-text-extraction/)
+- [PDF-Seiten verwalten](https://proscanpdf.com/de/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)

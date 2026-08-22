@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the localized HTML and image sitemap."""
 
+import json
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -8,6 +9,7 @@ from xml.sax.saxutils import escape
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://proscanpdf.com"
 LAST_MODIFIED = "2026-08-22"
+LOCALIZED_FEATURE_DIR = ROOT / "content" / "feature-guides"
 
 LANGUAGES = [
     ("en", "/", ""),
@@ -77,21 +79,59 @@ def localized_url(language: str, path: str, asset_prefix: str) -> str:
     return "\n".join(lines)
 
 
-def feature_url(path: str, screen: str, caption: str) -> str:
-    return "\n".join([
+def load_feature_locales() -> dict[str, dict]:
+    payloads = {}
+    if not LOCALIZED_FEATURE_DIR.exists():
+        return payloads
+    for path in sorted(LOCALIZED_FEATURE_DIR.glob("*.json")):
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        payloads[payload["locale"]] = payload
+    return payloads
+
+
+def localized_feature_path(locale: str, path: str) -> str:
+    return path if locale == "en" else f"/{locale}{path}"
+
+
+def feature_url(
+    path: str,
+    screen: str,
+    caption: str,
+    locale: str,
+    payloads: dict[str, dict],
+) -> str:
+    localized_path = localized_feature_path(locale, path)
+    lines = [
         "  <url>",
-        f"    <loc>{BASE}{path}</loc>",
+        f"    <loc>{BASE}{localized_path}</loc>",
+        f'    <xhtml:link rel="alternate" hreflang="en" href="{BASE}{path}" />',
+    ]
+    for payload in payloads.values():
+        alternate_path = localized_feature_path(payload["locale"], path)
+        lines.append(
+            f'    <xhtml:link rel="alternate" hreflang="{payload["hreflang"]}" href="{BASE}{alternate_path}" />'
+        )
+    lines.extend([
+        f'    <xhtml:link rel="alternate" hreflang="x-default" href="{BASE}{path}" />',
         f"    <lastmod>{LAST_MODIFIED}</lastmod>",
         "    <changefreq>monthly</changefreq>",
-        "    <priority>0.85</priority>",
-        image_entry(f"/assets/{screen}.webp", caption),
-        "  </url>",
+        f"    <priority>{'0.85' if locale == 'en' else '0.8'}</priority>",
     ])
+    asset_prefix = "" if locale == "en" else f"{payloads[locale].get('asset_locale', locale)}/"
+    lines.append(image_entry(f"/assets/{asset_prefix}{screen}.webp", caption))
+    lines.append("  </url>")
+    return "\n".join(lines)
 
 
 def main() -> None:
+    feature_locales = load_feature_locales()
     items = [localized_url(*language) for language in LANGUAGES]
-    items.extend(feature_url(path, screen, caption) for path, (screen, caption) in FEATURES.items())
+    for path, (screen, caption) in FEATURES.items():
+        items.append(feature_url(path, screen, caption, "en", feature_locales))
+        slug = path.strip("/")
+        for locale, payload in feature_locales.items():
+            localized_caption = payload["features"][slug]["image_alt"]
+            items.append(feature_url(path, screen, localized_caption, locale, feature_locales))
     sitemap = "\n".join([
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
