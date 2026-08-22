@@ -698,6 +698,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -717,6 +718,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -736,6 +738,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -755,6 +758,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -774,6 +778,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -793,6 +798,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -812,6 +818,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -831,12 +838,33 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-scan.webp</image:loc>
+      <image:caption>Documento posicionado na interface de digitalização do ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/scan-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-scan.webp</image:loc>
       <image:caption>Documento posicionado na interface de digitalização do ProScan PDF</image:caption>
     </image:image>
   </url>
@@ -850,6 +878,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -869,6 +898,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -888,6 +918,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -907,6 +938,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -926,6 +958,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -945,6 +978,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -964,6 +998,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -983,6 +1018,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -990,6 +1026,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Ferramenta Fotos para PDF no ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/photo-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Ferramenta Fotografias para PDF no ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1002,6 +1058,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1021,6 +1078,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1040,6 +1098,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1059,6 +1118,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1078,6 +1138,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1097,6 +1158,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1116,6 +1178,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1135,6 +1198,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1142,6 +1206,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Ferramenta PDF para imagens na tela Ferramentas do ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/pdf-to-images/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Ferramenta PDF para imagens no ecrã Ferramentas do ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1154,6 +1238,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1173,6 +1258,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1192,6 +1278,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1211,6 +1298,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1230,6 +1318,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1249,6 +1338,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1268,6 +1358,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1287,6 +1378,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1294,6 +1386,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Ferramenta Marca-d’água na tela Ferramentas do ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/add-watermark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Ferramenta Marca de água no ecrã Ferramentas do ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1306,6 +1418,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1325,6 +1438,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1344,6 +1458,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1363,6 +1478,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1382,6 +1498,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1401,6 +1518,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1420,6 +1538,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1439,6 +1558,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1446,6 +1566,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Opção Compactar PDF na tela Ferramentas do ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/pdf-compressor/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Opção Comprimir PDF no ecrã Ferramentas do ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1458,6 +1598,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1477,6 +1618,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1496,6 +1638,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1515,6 +1658,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1534,6 +1678,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1553,6 +1698,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1572,6 +1718,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1591,12 +1738,33 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-sign.webp</image:loc>
+      <image:caption>Opções de assinatura e caixa de texto sobre um PDF no ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/sign-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-sign.webp</image:loc>
       <image:caption>Opções de assinatura e caixa de texto sobre um PDF no ProScan PDF</image:caption>
     </image:image>
   </url>
@@ -1610,6 +1778,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1629,6 +1798,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1648,6 +1818,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1667,6 +1838,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1686,6 +1858,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1705,6 +1878,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1724,6 +1898,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1743,6 +1918,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1750,6 +1926,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Ferramenta PDF para Word exibida no ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/pdf-to-word/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Ferramenta PDF para Word apresentada no ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1762,6 +1958,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1781,6 +1978,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1800,6 +1998,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1819,6 +2018,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1838,6 +2038,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1857,6 +2058,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1876,6 +2078,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1895,6 +2098,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1902,6 +2106,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-tools.webp</image:loc>
       <image:caption>Opção Foto para documentos na tela Ferramentas do ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/id-photo-maker/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-tools.webp</image:loc>
+      <image:caption>Opção Fotos tipo passe no ecrã Ferramentas do ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -1914,6 +2138,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1933,6 +2158,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1952,6 +2178,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1971,6 +2198,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -1990,6 +2218,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2009,6 +2238,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2028,6 +2258,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2047,6 +2278,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2054,6 +2286,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-ocr.webp</image:loc>
       <image:caption>OCR ao vivo reconhecendo texto de um documento impresso no ProScan PDF</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/ocr-text-extraction/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-ocr.webp</image:loc>
+      <image:caption>OCR em direto a reconhecer texto de um documento impresso no ProScan PDF</image:caption>
     </image:image>
   </url>
   <url>
@@ -2066,6 +2318,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2085,6 +2338,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2104,6 +2358,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2123,6 +2378,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2142,6 +2398,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2161,6 +2418,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2180,6 +2438,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2199,6 +2458,7 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
@@ -2206,6 +2466,26 @@
     <image:image>
       <image:loc>https://proscanpdf.com/assets/pt-br/screen-organize.webp</image:loc>
       <image:caption>Seis prévias de páginas PDF na tela Organizar páginas</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://proscanpdf.com/pt-pt/organize-pdf-pages/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/pt-pt/screen-organize.webp</image:loc>
+      <image:caption>Seis pré-visualizações de páginas PDF no ecrã Organizar páginas</image:caption>
     </image:image>
   </url>
 </urlset>
