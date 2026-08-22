@@ -60,6 +60,19 @@ Support: info@proscanpdf.com
 - [Extraire du texte et créer un PDF indexable](https://proscanpdf.com/fr/ocr-text-extraction/)
 - [Organiser les pages d’un PDF](https://proscanpdf.com/fr/organize-pdf-pages/)
 
+## Guías detalladas en español
+
+- [Escanear documentos a PDF](https://proscanpdf.com/es/scan-to-pdf/)
+- [Convertir fotos a PDF](https://proscanpdf.com/es/photo-to-pdf/)
+- [Convertir PDF a imágenes JPG](https://proscanpdf.com/es/pdf-to-images/)
+- [Añadir una marca de agua a un PDF](https://proscanpdf.com/es/add-watermark/)
+- [Comprimir PDF](https://proscanpdf.com/es/pdf-compressor/)
+- [Firmar y proteger PDF](https://proscanpdf.com/es/sign-pdf/)
+- [Convertir PDF a Word](https://proscanpdf.com/es/pdf-to-word/)
+- [Crear fotos para documentos](https://proscanpdf.com/es/id-photo-maker/)
+- [Extraer texto y crear PDF buscables](https://proscanpdf.com/es/ocr-text-extraction/)
+- [Organizar páginas PDF](https://proscanpdf.com/es/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
