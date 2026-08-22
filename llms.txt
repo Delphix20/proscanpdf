@@ -190,6 +190,19 @@ Support: info@proscanpdf.com
 - [OCR 텍스트 추출 및 검색 가능 PDF](https://proscanpdf.com/ko/ocr-text-extraction/)
 - [PDF 페이지 정리](https://proscanpdf.com/ko/organize-pdf-pages/)
 
+## हिन्दी में विस्तृत फ़ीचर गाइड
+
+- [दस्तावेज़ स्कैन कर PDF बनाएँ](https://proscanpdf.com/hi/scan-to-pdf/)
+- [फ़ोटो को PDF में बदलें](https://proscanpdf.com/hi/photo-to-pdf/)
+- [PDF को JPG इमेज में बदलें](https://proscanpdf.com/hi/pdf-to-images/)
+- [PDF में टेक्स्ट वॉटरमार्क जोड़ें](https://proscanpdf.com/hi/add-watermark/)
+- [PDF कंप्रेस करें](https://proscanpdf.com/hi/pdf-compressor/)
+- [PDF साइन और पासवर्ड से सुरक्षित करें](https://proscanpdf.com/hi/sign-pdf/)
+- [PDF को एडिटेबल Word में बदलें](https://proscanpdf.com/hi/pdf-to-word/)
+- [ID और पासपोर्ट फ़ोटो बनाएँ](https://proscanpdf.com/hi/id-photo-maker/)
+- [OCR से टेक्स्ट निकालें और खोज योग्य PDF बनाएँ](https://proscanpdf.com/hi/ocr-text-extraction/)
+- [PDF पेज व्यवस्थित करें](https://proscanpdf.com/hi/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)

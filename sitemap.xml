@@ -694,6 +694,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -718,6 +719,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -742,6 +744,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -766,6 +769,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -785,11 +789,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/scan-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/scan-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-scan.webp</image:loc>
+      <image:caption>ProScan PDF स्कैनर में कैप्चर होता दस्तावेज़</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/scan-to-pdf/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -814,6 +844,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -838,6 +869,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -862,6 +894,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -886,6 +919,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -910,6 +944,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -934,6 +969,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -958,6 +994,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -982,6 +1019,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/scan-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/scan-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/scan-to-pdf/" />
@@ -1006,6 +1044,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1030,6 +1069,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1054,6 +1094,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1078,6 +1119,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1097,11 +1139,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/photo-to-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/photo-to-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF में फ़ोटो से PDF टूल</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/photo-to-pdf/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1126,6 +1194,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1150,6 +1219,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1174,6 +1244,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1198,6 +1269,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1222,6 +1294,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1246,6 +1319,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1270,6 +1344,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1294,6 +1369,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/photo-to-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/photo-to-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/photo-to-pdf/" />
@@ -1318,6 +1394,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1342,6 +1419,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1366,6 +1444,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1390,6 +1469,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1409,11 +1489,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/pdf-to-images/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-images/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF टूल्स स्क्रीन पर PDF से इमेज विकल्प</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/pdf-to-images/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1438,6 +1544,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1462,6 +1569,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1486,6 +1594,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1510,6 +1619,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1534,6 +1644,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1558,6 +1669,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1582,6 +1694,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1606,6 +1719,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-images/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-images/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-images/" />
@@ -1630,6 +1744,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1654,6 +1769,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1678,6 +1794,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1702,6 +1819,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1721,11 +1839,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/add-watermark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/add-watermark/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF टूल्स स्क्रीन पर वॉटरमार्क जोड़ें विकल्प</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/add-watermark/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1750,6 +1894,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1774,6 +1919,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1798,6 +1944,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1822,6 +1969,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1846,6 +1994,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1870,6 +2019,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1894,6 +2044,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1918,6 +2069,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/add-watermark/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/add-watermark/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/add-watermark/" />
@@ -1942,6 +2094,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -1966,6 +2119,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -1990,6 +2144,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2014,6 +2169,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2033,11 +2189,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/pdf-compressor/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-compressor/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF टूल्स स्क्रीन पर PDF कंप्रेस करें विकल्प</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/pdf-compressor/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2062,6 +2244,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2086,6 +2269,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2110,6 +2294,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2134,6 +2319,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2158,6 +2344,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2182,6 +2369,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2206,6 +2394,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2230,6 +2419,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-compressor/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-compressor/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-compressor/" />
@@ -2254,6 +2444,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2278,6 +2469,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2302,6 +2494,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2326,6 +2519,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2345,11 +2539,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/sign-pdf/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/sign-pdf/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-sign.webp</image:loc>
+      <image:caption>ProScan PDF में PDF सिग्नेचर और फ़ॉर्म टूल्स</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/sign-pdf/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2374,6 +2594,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2398,6 +2619,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2422,6 +2644,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2446,6 +2669,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2470,6 +2694,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2494,6 +2719,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2518,6 +2744,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2542,6 +2769,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/sign-pdf/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/sign-pdf/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/sign-pdf/" />
@@ -2566,6 +2794,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2590,6 +2819,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2614,6 +2844,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2638,6 +2869,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2657,11 +2889,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/pdf-to-word/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/pdf-to-word/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF में PDF से Word टूल</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/pdf-to-word/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2686,6 +2944,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2710,6 +2969,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2734,6 +2994,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2758,6 +3019,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2782,6 +3044,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2806,6 +3069,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2830,6 +3094,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2854,6 +3119,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/pdf-to-word/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/pdf-to-word/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/pdf-to-word/" />
@@ -2878,6 +3144,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -2902,6 +3169,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -2926,6 +3194,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -2950,6 +3219,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -2969,11 +3239,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/id-photo-maker/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/id-photo-maker/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-tools.webp</image:loc>
+      <image:caption>ProScan PDF टूल्स स्क्रीन पर ID फ़ोटो मेकर</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/id-photo-maker/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -2998,6 +3294,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3022,6 +3319,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3046,6 +3344,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3070,6 +3369,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3094,6 +3394,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3118,6 +3419,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3142,6 +3444,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3166,6 +3469,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/id-photo-maker/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/id-photo-maker/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/id-photo-maker/" />
@@ -3190,6 +3494,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3214,6 +3519,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3238,6 +3544,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3262,6 +3569,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3281,11 +3589,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/ocr-text-extraction/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/ocr-text-extraction/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-ocr.webp</image:loc>
+      <image:caption>ProScan PDF Live OCR प्रिंटेड दस्तावेज़ का टेक्स्ट पहचानता हुआ</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/ocr-text-extraction/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3310,6 +3644,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3334,6 +3669,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3358,6 +3694,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3382,6 +3719,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3406,6 +3744,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3430,6 +3769,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3454,6 +3794,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3478,6 +3819,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/ocr-text-extraction/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/ocr-text-extraction/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/ocr-text-extraction/" />
@@ -3502,6 +3844,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3526,6 +3869,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3550,6 +3894,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3574,6 +3919,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3593,11 +3939,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://proscanpdf.com/hi/organize-pdf-pages/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://proscanpdf.com/nl/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://proscanpdf.com/pl/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://proscanpdf.com/pt-br/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://proscanpdf.com/pt-pt/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://proscanpdf.com/tr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://proscanpdf.com/zh-hans/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://proscanpdf.com/organize-pdf-pages/" />
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://proscanpdf.com/assets/hi/screen-organize.webp</image:loc>
+      <image:caption>पृष्ठ व्यवस्थित करें स्क्रीन पर छह PDF पेज प्रीव्यू</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://proscanpdf.com/it/organize-pdf-pages/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://proscanpdf.com/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3622,6 +3994,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3646,6 +4019,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3670,6 +4044,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3694,6 +4069,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3718,6 +4094,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3742,6 +4119,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3766,6 +4144,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
@@ -3790,6 +4169,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://proscanpdf.com/de/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="es" href="https://proscanpdf.com/es/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://proscanpdf.com/fr/organize-pdf-pages/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://proscanpdf.com/hi/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="it" href="https://proscanpdf.com/it/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://proscanpdf.com/ja/organize-pdf-pages/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://proscanpdf.com/ko/organize-pdf-pages/" />
