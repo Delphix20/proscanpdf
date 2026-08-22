@@ -1,0 +1,405 @@
+{
+  "locale": "fr",
+  "hreflang": "fr",
+  "og_locale": "fr_FR",
+  "short_code": "FR",
+  "home_url": "/fr/",
+  "asset_locale": "fr",
+  "app_store_badge": "download-on-app-store-fr.svg",
+  "ui": {
+    "skip_content": "Aller au contenu",
+    "main_navigation": "Navigation principale",
+    "home_aria": "Accueil de ProScan PDF",
+    "open_navigation": "Ouvrir la navigation",
+    "scanner": "Scanner",
+    "pdf_tools": "Outils PDF",
+    "privacy": "Confidentialité",
+    "faq": "FAQ",
+    "language": "Langue",
+    "choose_language": "Choisir la langue",
+    "get_app": "Télécharger",
+    "home": "Accueil",
+    "download_aria": "Télécharger ProScan PDF sur l’App Store",
+    "download_alt": "Télécharger dans l’App Store",
+    "og_image_alt": "Scanner de documents et outils PDF ProScan PDF",
+    "key_benefits": "Principaux avantages",
+    "workflow_eyebrow": "Un parcours clair en trois étapes",
+    "workflow_title_1": "De la source au",
+    "workflow_title_2": "résultat final.",
+    "workflow_text": "ProScan PDF réunit l’action, la confirmation et le fichier enregistré dans un même parcours simple.",
+    "details_eyebrow": "Pensé pour les documents du quotidien",
+    "details_title_1": "Des détails utiles.",
+    "details_title_2": "Des limites transparentes.",
+    "faq_eyebrow": "Questions fréquentes",
+    "faq_title_1": "À savoir",
+    "faq_title_2": "avant de commencer.",
+    "faq_text": "Les informations pratiques sur le fonctionnement de cet outil dans ProScan PDF.",
+    "related_eyebrow": "Poursuivre le travail",
+    "related_title_1": "D’autres outils pour",
+    "related_title_2": "finaliser le document.",
+    "cta_eyebrow": "Votre prochain document est à portée de main",
+    "cta_title_1": "Numérisez proprement.",
+    "cta_title_2": "Travaillez en privé.",
+    "cta_text": "Sans publicité. Sans filigrane.",
+    "footer_description": "Un scanner de documents privé et une boîte à outils PDF complète pour iPhone et iPad.",
+    "footer_product": "Produit",
+    "footer_tools": "Outils PDF",
+    "footer_more": "Plus",
+    "footer_scan": "Numériser en PDF",
+    "footer_photos": "Photos en PDF",
+    "footer_ocr": "Reconnaissance de texte",
+    "footer_organize": "Organiser les PDF",
+    "footer_images": "PDF en images",
+    "footer_watermark": "Filigrane",
+    "footer_compress": "Compresser le PDF",
+    "footer_word": "PDF en Word",
+    "footer_sign": "Signer et protéger",
+    "footer_id": "Photos d’identité",
+    "app_store": "App Store",
+    "privacy_policy": "Politique de confidentialité",
+    "contact_support": "Contacter l’assistance",
+    "made_for": "Pensé pour travailler sans distraction."
+  },
+  "features": {
+    "scan-to-pdf": {
+      "title": "Numériser des documents en PDF | ProScan PDF",
+      "description": "Numérisez documents, reçus, pièces d’identité, photos et tableaux blancs sur iPhone ou iPad. Huit modes, formats de page et traitement hors ligne.",
+      "eyebrow": "Un scanner adapté à chaque document",
+      "heading": "Numérisez en PDF.\nGardez chaque page nette.",
+      "lead": "Transformez vos documents papier en PDF soignés grâce à huit modes dédiés, des réglages de page pratiques et l’interface de capture familière d’Apple.",
+      "image_alt": "Document placé dans l’interface de numérisation de ProScan PDF",
+      "callout_title": "Huit modes de numérisation",
+      "callout_text": "Le bon mode pour chaque support.",
+      "chips": ["Documents", "Reçus", "Pièces d’identité", "Hors ligne"],
+      "proofs": [
+        ["auto", "Le bon mode pour chaque page", "Choisissez Document, Auto, Reçu, ID, Photo, Formulaire, Texte N&B ou Tableau blanc avant la capture. Le type de résultat attendu reste clair dès le départ."],
+        ["pages", "Préparez le PDF avant de scanner", "Sélectionnez A4, Letter, Legal ou un autre format compatible, choisissez l’orientation portrait ou paysage et activez, si besoin, la numérotation ou la date et l’heure."],
+        ["lock", "Un traitement local", "La numérisation et la création du PDF s’effectuent sur votre iPhone ou iPad. Le document n’est pas envoyé vers un serveur ProScan PDF."]
+      ],
+      "steps": [
+        ["Choisir un mode de numérisation", "Depuis l’accueil, sélectionnez le mode qui correspond au support. Auto convient aux captures générales, tandis que Reçu, ID, Formulaire, Texte N&B et Tableau blanc ciblent des besoins précis."],
+        ["Capturer une ou plusieurs pages", "Utilisez le scanner de documents Apple pour cadrer la page, régler le flash et les filtres, puis choisir une prise de vue automatique ou manuelle. Vérifiez chaque capture avant d’ajouter la suivante."],
+        ["Terminer et enregistrer le PDF", "Après la dernière page, touchez Terminé. ProScan PDF enregistre le document dans Mes fichiers, conserve une copie locale rapide d’accès et peut créer une sauvegarde iCloud privée si iCloud est disponible."]
+      ],
+      "details": [
+        ["Des réglages adaptés au support", "Un reçu ne se traite pas comme un tableau blanc ou une pièce d’identité. Les modes dédiés rendent le choix explicite, tandis que format, orientation, numérotation et date restent réunis dans la zone de configuration."],
+        ["Des documents multipages sans détour", "Numérisez une seule page ou poursuivez la capture pour créer un document plus long. Toutes les pages restent dans le même PDF, prêt à être affiché, renommé, organisé, signé, protégé, compressé ou partagé."],
+        ["Un passage fiable vers Mes fichiers", "Une confirmation apparaît après l’enregistrement et le PDF rejoint Mes fichiers. La copie locale évite d’attendre un téléchargement iCloud à chaque ouverture; la sauvegarde facultative facilite le changement d’appareil Apple."]
+      ],
+      "note_title": "À propos des commandes de l’appareil photo",
+      "note": "La capture utilise le scanner de documents natif d’Apple. L’obturateur, le flash, les filtres, la vérification et le mode Auto/Manuel peuvent varier légèrement selon la version d’iOS. Les modes, réglages PDF, sauvegarde et bibliothèque restent gérés par ProScan PDF.",
+      "faqs": [
+        ["Puis-je numériser plusieurs pages dans le même PDF ?", "Oui. Capturez toutes les pages avant de toucher Terminé; elles seront enregistrées dans un seul PDF multipage."],
+        ["Quels modes de numérisation sont disponibles ?", "Document, Auto, Reçu, ID, Photo, Formulaire, Texte N&B et Tableau blanc sont accessibles depuis l’accueil."],
+        ["La numérisation fonctionne-t-elle sans Internet ?", "La capture et la création du PDF fonctionnent sur l’appareil. Le partage et la sauvegarde iCloud nécessitent une connexion lorsque vous les utilisez."],
+        ["Où apparaît le document terminé ?", "Après un enregistrement réussi, le PDF apparaît dans Mes fichiers avec une copie locale disponible rapidement."]
+      ]
+    },
+    "photo-to-pdf": {
+      "title": "Convertir des photos en PDF sur iPhone | ProScan PDF",
+      "description": "Transformez une photo ou plusieurs images en un PDF soigné sur iPhone ou iPad. Conversion locale, sans publicité et sans filigrane automatique.",
+      "eyebrow": "Vos photos deviennent un document",
+      "heading": "Photos en PDF.\nUn seul fichier clair.",
+      "lead": "Regroupez une ou plusieurs images dans un PDF plus facile à classer, envoyer et retrouver qu’une série de photos séparées.",
+      "image_alt": "Outil Photos en PDF dans ProScan PDF",
+      "callout_title": "Une ou plusieurs photos",
+      "callout_text": "Un PDF créé directement sur l’appareil.",
+      "chips": ["Plusieurs photos", "Sortie PDF", "Sans filigrane", "Sur l’appareil"],
+      "proofs": [
+        ["images", "Une façon plus simple d’envoyer des images", "Regroupez les photos liées dans un seul PDF au lieu de joindre chaque image séparément. Idéal pour les notes, justificatifs, reçus, dessins et autres contenus visuels."],
+        ["document", "Un résultat facile à organiser", "Chaque image sélectionnée devient une page du même PDF. Le fichier peut ensuite être renommé, classé et partagé depuis la bibliothèque Mes fichiers."],
+        ["lock", "Une conversion privée", "Le traitement des images et la création du PDF s’effectuent sur l’appareil. ProScan PDF n’envoie pas vos photos vers son propre serveur."]
+      ],
+      "steps": [
+        ["Ouvrir Photos en PDF", "Dans Outils, choisissez Photos en PDF. Le sélecteur système permet de choisir uniquement les images nécessaires sans donner un accès inutile au reste de votre photothèque."],
+        ["Sélectionner les photos", "Choisissez une image pour un PDF d’une page ou plusieurs photos liées pour un document plus long. Leurs proportions sont conservées sans étirement."],
+        ["Créer le PDF et poursuivre dans Mes fichiers", "Enregistrez le résultat, puis renommez-le, affichez-le, organisez ses pages, compressez-le, ajoutez un filigrane, protégez-le ou partagez-le depuis Mes fichiers."]
+      ],
+      "details": [
+        ["Utile au-delà de la numérisation classique", "Photos en PDF convient aux contenus déjà présents dans Photos: captures d’écran, formulaires téléchargés, notes manuscrites photographiées, images de référence ou pages capturées auparavant."],
+        ["Un flux de travail unique", "Le nouveau PDF rejoint la même bibliothèque que vos documents numérisés. Inutile de passer d’un convertisseur d’images à un éditeur PDF puis à une autre app pour partager le résultat."],
+        ["Ni publicité ni filigrane automatique", "La conversion n’est pas interrompue par des annonces et aucun filigrane ProScan PDF n’est ajouté. L’outil Filigrane reste disponible uniquement lorsque vous souhaitez en appliquer un vous-même."]
+      ],
+      "note_title": "Qualité des images et taille du fichier",
+      "note": "Des photos haute résolution peuvent produire un PDF volumineux. Si le résultat est trop lourd pour un e-mail ou le stockage, utilisez ensuite Compresser le PDF. La réduction est particulièrement efficace sur les documents composés d’images.",
+      "faqs": [
+        ["Puis-je convertir plusieurs photos dans un même PDF ?", "Oui. Sélectionnez plusieurs photos; chacune devient une page du PDF multipage."],
+        ["Les photos importées sont-elles déformées ?", "Non. Leurs proportions d’origine sont conservées."],
+        ["ProScan PDF ajoute-t-il un filigrane ?", "Non. Un filigrane n’est ajouté que si vous utilisez volontairement l’outil dédié."],
+        ["Puis-je compresser le PDF ensuite ?", "Oui. L’outil Compresser le PDF réduit surtout la taille des PDF riches en images."]
+      ]
+    },
+    "pdf-to-images": {
+      "title": "Convertir un PDF en images JPG sur iPhone | ProScan PDF",
+      "description": "Exportez chaque page d’un PDF en JPG haute qualité sur iPhone ou iPad. Enregistrez dans Photos, partagez ou sauvegardez dans Fichiers, localement.",
+      "eyebrow": "Chaque page PDF devient une image",
+      "heading": "PDF en images.\nEnregistrez chaque page.",
+      "lead": "Transformez chaque page d’un PDF en un JPG distinct de haute qualité, puis enregistrez les images dans Photos ou partagez-les avec une autre app.",
+      "image_alt": "Outil PDF en images sur l’écran Outils de ProScan PDF",
+      "callout_title": "Un JPG par page",
+      "callout_text": "Vers Photos, Fichiers ou une autre app.",
+      "chips": ["Sortie JPG", "Une image par page", "Enregistrer ou partager", "Sur l’appareil"],
+      "proofs": [
+        ["photo", "Une image nette pour chaque page", "ProScan PDF restitue toutes les pages dans leur ordre d’origine et crée un JPG haute qualité pour chacune. Un document multipage devient une série d’images numérotées."],
+        ["images", "Choisissez la destination", "Enregistrez directement dans Photos ou ouvrez la feuille de partage iOS pour envoyer les images, les sauvegarder dans Fichiers ou poursuivre dans une app compatible."],
+        ["lock", "Une conversion locale", "Le PDF est rendu sur votre iPhone ou iPad. Il n’est pas transféré vers un serveur de conversion ProScan PDF."]
+      ],
+      "steps": [
+        ["Choisir le PDF source", "Ouvrez Outils, touchez PDF en images et sélectionnez un document dans Mes fichiers. L’app vous demande de confirmer la source avant l’export."],
+        ["Créer les images", "ProScan PDF restitue localement chaque page lisible et attribue des noms numérotés pour conserver clairement l’ordre du document."],
+        ["Enregistrer ou partager", "Choisissez Enregistrer dans Photos ou Partager ou enregistrer dans Fichiers. Une carte de confirmation apparaît après une sauvegarde réussie dans Photos."]
+      ],
+      "details": [
+        ["Quand une image est préférable à un PDF", "L’export est utile pour téléverser une page dans un formulaire, l’insérer dans une présentation, l’envoyer dans une messagerie ou conserver une copie visuelle dans Photos."],
+        ["L’ordre des pages reste lisible", "Chaque nom de fichier contient le numéro de page. Un PDF de cinq pages produit cinq JPG dans la même séquence, et non une seule image très longue."],
+        ["Les fichiers temporaires sont supprimés", "Les images sont préparées temporairement pour l’enregistrement ou le partage. Une fois l’opération terminée, ProScan PDF efface cet export afin de ne pas laisser de doublons cachés."]
+      ],
+      "note_title": "Les longs documents demandent plus de ressources",
+      "note": "Chaque page doit être rendue comme une image complète. Un PDF long ou très graphique peut donc demander plus de temps et de mémoire temporaire. Les PDF protégés doivent être déverrouillés avant l’export. Le document source reste inchangé.",
+      "faqs": [
+        ["Quel format d’image est créé ?", "L’outil crée un fichier JPG haute qualité distinct pour chaque page du PDF."],
+        ["Puis-je exporter un PDF multipage ?", "Oui. Chaque page lisible est exportée dans l’ordre avec un nom de fichier numéroté."],
+        ["Puis-je enregistrer ailleurs que dans Photos ?", "Oui. Choisissez Partager ou enregistrer dans Fichiers pour sélectionner une destination dans la feuille de partage iOS."],
+        ["Le PDF quitte-t-il mon appareil ?", "Non. Le rendu des pages et la création des JPG s’effectuent localement."]
+      ]
+    },
+    "add-watermark": {
+      "title": "Ajouter un filigrane à un PDF sur iPhone | ProScan PDF",
+      "description": "Ajoutez un filigrane textuel en diagonale sur chaque page PDF. Choisissez parmi sept couleurs et enregistrez une copie distincte, entièrement sur l’appareil.",
+      "eyebrow": "Marquez clairement chaque page",
+      "heading": "Ajoutez un filigrane.\nConservez l’original.",
+      "lead": "Placez votre propre texte semi-transparent sur chaque page, choisissez une couleur adaptée et enregistrez le résultat dans une nouvelle copie du PDF.",
+      "image_alt": "Outil Filigrane sur l’écran Outils de ProScan PDF",
+      "callout_title": "Texte et couleur au choix",
+      "callout_text": "Sept couleurs, original préservé.",
+      "chips": ["Texte personnalisé", "Sept couleurs", "Toutes les pages", "Nouvelle copie PDF"],
+      "proofs": [
+        ["watermark", "Votre mention au centre du document", "Saisissez CONFIDENTIEL, BROUILLON, EXEMPLE ou un nom de projet. Le texte est placé en diagonale au centre de chaque page avec une transparence qui préserve la lecture."],
+        ["auto", "Une couleur adaptée au document", "Choisissez Cyan, Blanc, Gris clair, Gris foncé, Rouge foncé, Jaune foncé ou Noir. Cyan est sélectionné par défaut et votre choix reste visible avant la création."],
+        ["document", "Une copie distincte", "Le PDF source n’est pas remplacé silencieusement. ProScan PDF crée un nouveau fichier avec filigrane dans Mes fichiers et laisse l’original intact."]
+      ],
+      "steps": [
+        ["Sélectionner le PDF", "Ouvrez Outils, choisissez Filigrane, puis sélectionnez le PDF à marquer dans Mes fichiers."],
+        ["Saisir le texte et choisir une couleur", "Remplacez le texte CONFIDENTIEL par votre propre mention si nécessaire, puis sélectionnez l’une des sept couleurs disponibles."],
+        ["Créer la copie avec filigrane", "Touchez Créer un PDF avec filigrane. Le document est traité localement, enregistré comme nouveau PDF dans Mes fichiers, puis confirmé à l’écran."]
+      ],
+      "details": [
+        ["Une position cohérente sur chaque page", "Le filigrane s’adapte aux dimensions de la page et traverse son centre en diagonale. Le rendu reste cohérent en portrait, en paysage et dans les documents aux formats mixtes."],
+        ["Pratique pour les brouillons et partages contrôlés", "Identifiez un brouillon, un exemple, un document interne ou un projet avant de transmettre le PDF à une autre personne."],
+        ["Intégré aux autres outils PDF", "La nouvelle copie apparaît dans Mes fichiers et peut ensuite être renommée, organisée, compressée, signée, protégée ou partagée."]
+      ],
+      "note_title": "Conservez la source si le texte modifiable est important",
+      "note": "Le PDF est reconstruit page par page pour placer le filigrane de façon régulière. Gardez l’original pour l’archivage ou si le texte sélectionnable, les annotations ou les éléments vectoriels doivent rester intacts.",
+      "faqs": [
+        ["Le filigrane est-il ajouté à toutes les pages ?", "Oui. Le texte et la couleur choisis sont appliqués à chaque page de la nouvelle copie."],
+        ["Quelles couleurs sont disponibles ?", "Cyan, Blanc, Gris clair, Gris foncé, Rouge foncé, Jaune foncé et Noir, avec Cyan sélectionné par défaut."],
+        ["L’outil remplace-t-il mon PDF d’origine ?", "Non. ProScan PDF enregistre une copie séparée avec filigrane dans Mes fichiers."],
+        ["Le PDF est-il envoyé sur un serveur ?", "Non. Le filigrane est rendu localement sur votre iPhone ou iPad."]
+      ]
+    },
+    "pdf-compressor": {
+      "title": "Compresser un PDF sur iPhone et iPad | ProScan PDF",
+      "description": "Compressez localement les PDF numérisés ou composés d’images. Comparez la taille d’origine, la nouvelle taille et le pourcentage économisé.",
+      "eyebrow": "Des fichiers plus légers, un résultat clair",
+      "heading": "Compressez le PDF.\nVoyez la différence.",
+      "lead": "Réduisez la taille des PDF numérisés ou riches en images sur votre appareil, puis comparez clairement le fichier d’origine et le résultat.",
+      "image_alt": "Outil Compresser le PDF dans ProScan PDF",
+      "callout_title": "Avant et après",
+      "callout_text": "Taille d’origine, résultat et réduction.",
+      "chips": ["PDF numérisés", "PDF avec images", "Traitement local", "Résultat détaillé"],
+      "proofs": [
+        ["compress", "Conçu pour les documents numérisés", "Le compresseur reconstruit les pages scannées et les PDF composés d’images avec un encodage plus efficace. Il convient particulièrement aux captures photo et aux PDF créés depuis Photos."],
+        ["document", "Une copie compressée distincte", "Le document d’origine n’est pas écrasé. ProScan PDF crée un nouveau PDF plus léger pour vous permettre de comparer le résultat et de conserver la source."],
+        ["check", "Une réduction facile à comprendre", "La carte de résultat affiche la taille d’origine, la taille compressée et le pourcentage gagné au lieu d’une simple confirmation d’enregistrement."]
+      ],
+      "steps": [
+        ["Choisir un PDF", "Ouvrez Outils, touchez Compresser le PDF et sélectionnez le document. Les scans riches en images offrent généralement la plus forte réduction."],
+        ["Laisser l’app reconstruire les pages", "ProScan PDF rend et encode les pages localement avec des réglages destinés à réduire la taille tout en maintenant un document lisible et pratique à partager."],
+        ["Vérifier la réduction", "Une fois le traitement terminé, la carte compare les deux tailles et indique le pourcentage économisé. Le nouveau fichier apparaît dans Mes fichiers."]
+      ],
+      "details": [
+        ["Utile avant un e-mail ou un envoi", "Un PDF plus léger est plus simple à joindre, à téléverser dans un formulaire ou à conserver dans une archive. La compression aide aussi lorsque de nombreux scans occupent le stockage local ou iCloud."],
+        ["Orientation et ordre préservés", "Le PDF est reconstruit sans inverser volontairement le contenu ni modifier l’ordre des pages. Le sens de lecture et la séquence restent ceux de la source."],
+        ["Toujours dans le même flux de travail", "Après compression, la copie peut être affichée, renommée, organisée, filigranée, signée, protégée ou partagée depuis la même bibliothèque."]
+      ],
+      "note_title": "Quand la compression est la plus efficace",
+      "note": "La fonction est optimisée pour les PDF numérisés et riches en images. Un document surtout composé de texte vectoriel peut déjà être compact et peu diminuer. Les détails très fins peuvent aussi devenir légèrement plus doux; conservez l’original pour l’archivage.",
+      "faqs": [
+        ["La compression remplace-t-elle mon PDF d’origine ?", "Non. ProScan PDF enregistre une copie compressée distincte."],
+        ["Quels PDF se compressent le mieux ?", "Les pages numérisées, les photos et les documents riches en images produisent généralement les plus fortes réductions."],
+        ["Puis-je voir l’espace économisé ?", "Oui. La carte affiche la taille d’origine, la taille compressée et le pourcentage de réduction."],
+        ["La compression nécessite-t-elle un serveur externe ?", "Non. Le document est traité localement sur votre iPhone ou iPad."]
+      ]
+    },
+    "sign-pdf": {
+      "title": "Signer et protéger un PDF par mot de passe | ProScan PDF",
+      "description": "Ajoutez signatures et champs de texte à un PDF, protégez les documents sensibles par mot de passe et partagez le résultat depuis iPhone ou iPad.",
+      "eyebrow": "Finalisez vos documents en toute sécurité",
+      "heading": "Signez le PDF.\nProtégez-le avant l’envoi.",
+      "lead": "Ajoutez une signature ou un champ de texte, protégez les PDF sensibles par mot de passe et partagez le document final sans quitter l’app.",
+      "image_alt": "Options de signature et de champ de texte au-dessus d’un PDF dans ProScan PDF",
+      "callout_title": "Signer et protéger",
+      "callout_text": "Finalisez vos documents au même endroit.",
+      "chips": ["Signatures", "Champs de texte", "Mot de passe", "Partage direct"],
+      "proofs": [
+        ["sign", "Une signature au bon endroit", "Ouvrez les outils de formulaire et ajoutez une signature directement sur la page concernée. Elle fait partie du document au lieu d’être envoyée comme image séparée."],
+        ["document", "Des champs simples à compléter", "Ajoutez un champ de texte pour un nom, une date, une réponse courte ou toute information qui doit apparaître sur la page existante."],
+        ["lock", "Des fichiers sensibles protégés", "Créez une copie protégée par mot de passe avant d’envoyer un document confidentiel. Le verrouillage s’effectue localement."]
+      ],
+      "steps": [
+        ["Ouvrir le PDF à finaliser", "Choisissez le document dans Mes fichiers et ouvrez les commandes de formulaire. La page reste visible pendant que vous ajoutez du texte ou une signature."],
+        ["Placer l’élément", "Choisissez Ajouter un champ de texte ou Ajouter une signature, positionnez l’élément sur la bonne page, puis vérifiez le résultat avant l’enregistrement."],
+        ["Protéger ou partager la copie finale", "Lorsque le document est prêt, utilisez Protéger pour créer une version protégée par mot de passe ou Partager pour ouvrir la feuille de partage iOS."]
+      ],
+      "details": [
+        ["Une signature mobile pratique", "Complétez les documents courants sans les imprimer, les signer puis les numériser à nouveau. Signatures et champs de texte restent intégrés au même parcours PDF."],
+        ["La protection reste un choix explicite", "Tous les fichiers n’ont pas besoin d’être chiffrés. Vous décidez donc quand un PDF doit exiger un mot de passe, sans protection ajoutée à votre insu."],
+        ["Une confirmation claire", "Une carte confirme l’enregistrement d’un PDF modifié ou signé. La bibliothèque et l’aperçu sont actualisés pour afficher la nouvelle version."]
+      ],
+      "note_title": "Transmettez le mot de passe séparément",
+      "note": "Un PDF protégé n’est sûr que si son mot de passe l’est aussi. Pour un document sensible, choisissez un mot de passe solide et envoyez-le par un autre canal que le fichier.",
+      "faqs": [
+        ["Puis-je ajouter du texte et une signature ?", "Oui. Les outils de formulaire prennent en charge les champs de texte et les signatures dans le PDF."],
+        ["Puis-je protéger un PDF par mot de passe ?", "Oui. L’action Protéger crée localement une copie protégée par mot de passe."],
+        ["Comment envoyer le document terminé ?", "Utilisez Partager pour ouvrir la feuille de partage iOS et choisir une destination."],
+        ["La signature nécessite-t-elle un envoi sur serveur ?", "Non. La modification et la signature sont réalisées sur votre appareil."]
+      ]
+    },
+    "pdf-to-word": {
+      "title": "Convertir un PDF en Word modifiable | ProScan PDF",
+      "description": "Convertissez un PDF en document Word modifiable sur iPhone ou iPad. Positionnement du texte respecté autant que possible et traitement entièrement local.",
+      "eyebrow": "Réutilisez le contenu de vos PDF",
+      "heading": "PDF en Word.\nRetrouvez un texte modifiable.",
+      "lead": "Créez un document Word modifiable à partir d’un PDF en conservant au mieux la position du texte et la structure simple des pages.",
+      "image_alt": "Outil PDF en Word dans ProScan PDF",
+      "callout_title": "Du texte modifiable",
+      "callout_text": "Avec une mise en page aussi fidèle que possible.",
+      "chips": ["Sortie Word", "Texte modifiable", "Mise en page", "Traitement local"],
+      "proofs": [
+        ["word", "Du vrai texte, pas seulement des images", "ProScan PDF reconnaît le contenu et l’insère dans un document Word afin que vous puissiez le sélectionner, le corriger et le réutiliser."],
+        ["pages", "Des positions conservées au mieux", "Les blocs reconnus sont disposés selon leur emplacement sur la page PDF. Le résultat reflète mieux un document simple qu’une longue liste de texte alignée à gauche."],
+        ["lock", "Une conversion sur l’appareil", "La reconnaissance du texte et la création du fichier Word se font localement. Le PDF n’est pas envoyé vers un service de conversion externe."]
+      ],
+      "steps": [
+        ["Sélectionner le PDF", "Ouvrez Outils, choisissez PDF en Word et sélectionnez un fichier dans Mes fichiers."],
+        ["Confirmer la conversion", "Vérifiez le document choisi, puis lancez l’opération. ProScan PDF reconnaît le texte page par page et reprend sa position autant que possible."],
+        ["Ouvrir et modifier le fichier Word", "Le document Word créé apparaît dans Mes fichiers. Vous pouvez l’ouvrir, le partager ou le modifier dans une app compatible."]
+      ],
+      "details": [
+        ["Idéal pour les pages claires et textuelles", "Lettres, rapports, contrats simples, formulaires et documents au texte bien lisible donnent les résultats les plus faciles à modifier."],
+        ["La priorité va au contenu modifiable", "L’objectif est de produire un document Word utile avec du vrai texte. Colonnes complexes, tableaux, écriture manuscrite, polices inhabituelles ou graphiques imbriqués peuvent demander des retouches."],
+        ["Le PDF source reste intact", "La conversion ne modifie pas l’original. Le document Word est enregistré comme nouveau fichier afin que vous puissiez toujours revenir à la source."]
+      ],
+      "note_title": "Une conversion locale, pas une suite de PAO complète",
+      "note": "Les mises en page simples et la position du texte sont conservées autant que possible, mais les structures très complexes ne peuvent pas toujours être reproduites exactement. Vérifiez tableaux, colonnes, formulaires et pages très graphiques après conversion.",
+      "faqs": [
+        ["Le texte du document Word est-il modifiable ?", "Oui. Le texte reconnu est exporté comme contenu modifiable, et non comme simple image de la page."],
+        ["La mise en page est-elle conservée ?", "Les positions et espacements simples sont repris autant que possible. Les mises en page complexes peuvent nécessiter des ajustements."],
+        ["La conversion fonctionne-t-elle avec un PDF numérisé ?", "Oui, si le texte est assez net pour être reconnu localement."],
+        ["Le PDF est-il envoyé vers un serveur ?", "Non. La reconnaissance et la création du fichier Word ont lieu sur l’appareil."]
+      ]
+    },
+    "id-photo-maker": {
+      "title": "Créer une photo d’identité sur iPhone | ProScan PDF",
+      "description": "Recadrez et contrôlez une photo d’identité sur iPhone ou iPad, puis exportez une image individuelle ou une planche imprimable dans le bon format.",
+      "eyebrow": "Vos photos d’identité sur l’appareil",
+      "heading": "Photo d’identité.\nRecadrez, contrôlez, imprimez.",
+      "lead": "Prenez ou importez une photo, ajustez le visage et le cadrage, puis créez une image ou une planche imprimable aux dimensions souhaitées.",
+      "image_alt": "Outil Photos d’identité dans ProScan PDF",
+      "callout_title": "Format et cadrage",
+      "callout_text": "Préréglages, contrôle et planche d’impression.",
+      "chips": ["Prendre une photo", "Recadrage auto", "Formats courants", "Planche imprimable"],
+      "proofs": [
+        ["person", "Un visage correctement cadré", "La détection automatique aide à placer la tête et le visage dans les bonnes proportions. Vous pouvez ensuite affiner le cadrage manuellement."],
+        ["photo", "Prendre ou importer une photo", "Utilisez l’appareil photo pour une nouvelle image ou choisissez un portrait dans Photos. Les proportions d’origine sont conservées sans étirement."],
+        ["pages", "Image unique ou planche imprimable", "Exportez une seule photo ou disposez plusieurs exemplaires sur une planche à imprimer chez vous ou auprès d’un service photo."]
+      ],
+      "steps": [
+        ["Prendre ou choisir une photo", "Ouvrez Photos d’identité et choisissez l’appareil photo ou Photos. Préférez une image nette, bien éclairée et prise devant un fond uniforme."],
+        ["Choisir le format et ajuster le cadrage", "Sélectionnez le format souhaité, laissez l’app détecter le visage, puis corrigez manuellement le cadrage si nécessaire."],
+        ["Enregistrer le résultat", "Créez une photo individuelle ou une planche imprimable, puis enregistrez ou partagez le résultat vers la destination de votre choix."]
+      ],
+      "details": [
+        ["Plusieurs formats courants", "Des préréglages couvrent des dimensions habituelles pour passeports, visas et pièces d’identité. Des mesures personnalisées restent possibles lorsque l’organisme demande un format différent."],
+        ["Des indications de qualité avant l’export", "L’app peut signaler un cadrage inadapté ou une résolution insuffisante afin de corriger les problèmes évidents avant l’impression."],
+        ["Une analyse privée", "La détection du visage, le recadrage et l’export se font sur l’appareil. Le portrait n’est pas envoyé vers un serveur ProScan PDF."]
+      ],
+      "note_title": "Vérifiez toujours les exigences officielles",
+      "note": "Le format, la position de la tête, l’arrière-plan, l’expression et les autres critères varient selon le pays et le document. L’app aide au cadrage et aux dimensions, mais ne remplace pas la vérification des règles officielles en vigueur.",
+      "faqs": [
+        ["Puis-je utiliser une photo existante ?", "Oui. Choisissez une image dans Photos ou prenez-en une nouvelle."],
+        ["La photo est-elle étirée ?", "Non. Les proportions de la photo prise ou importée sont conservées."],
+        ["Puis-je placer plusieurs photos sur une page ?", "Oui. Vous pouvez créer une planche imprimable avec plusieurs exemplaires."],
+        ["L’app garantit-elle l’acceptation par une administration ?", "Non. Vérifiez toujours les exigences officielles du document avant l’impression ou l’envoi."]
+      ]
+    },
+    "ocr-text-extraction": {
+      "title": "OCR, extraction de texte et PDF indexable | ProScan PDF",
+      "description": "Capturez du texte avec l’OCR en direct, extrayez le contenu de documents et créez des PDF indexables sur iPhone ou iPad, entièrement sur l’appareil.",
+      "eyebrow": "Le papier devient un texte exploitable",
+      "heading": "Extrayez le texte.\nRecherchez dans vos PDF.",
+      "lead": "Capturez du texte avec la caméra, extrayez-le d’un document ou créez une copie PDF indexable, le tout directement sur votre appareil.",
+      "image_alt": "OCR en direct reconnaissant du texte dans ProScan PDF",
+      "callout_title": "OCR en direct et PDF indexé",
+      "callout_text": "Capturez, copiez et retrouvez du texte.",
+      "chips": ["OCR en direct", "Texte extrait", "PDF indexable", "Sur l’appareil"],
+      "proofs": [
+        ["eye", "Capturez le texte avec la caméra", "L’OCR en direct affiche le texte reconnu pendant la capture. Il est pratique pour les courts passages, notes, panneaux et contenus à réutiliser immédiatement."],
+        ["search", "Recherchez dans un PDF numérisé", "PDF indexé crée une nouvelle copie consultable. Ouvrez-la ensuite dans Mes fichiers et recherchez un mot, un nom ou un nombre directement dans le document."],
+        ["document", "Réutilisez le contenu", "Le texte reconnu peut être copié, partagé ou enregistré. Pour obtenir un document Word modifiable, utilisez également PDF en Word."]
+      ],
+      "steps": [
+        ["Choisir l’outil OCR adapté", "Utilisez OCR en direct pour la caméra, l’OCR d’un fichier existant pour obtenir le texte seul, ou PDF indexé pour créer une copie dans laquelle effectuer des recherches."],
+        ["Reconnaître le texte localement", "ProScan PDF analyse l’image ou les pages PDF avec les fonctions de reconnaissance de l’appareil. Aucun envoi vers un serveur ProScan PDF n’est nécessaire."],
+        ["Utiliser le résultat", "Copiez ou partagez le texte, enregistrez-le, ou ouvrez la nouvelle copie PDF dans Mes fichiers pour utiliser la recherche intégrée."]
+      ],
+      "details": [
+        ["Optimisé pour le texte imprimé", "Les pages nettes, droites et bien éclairées donnent les meilleurs résultats. Une petite police, l’écriture manuscrite, le flou, les ombres ou une mise en page inhabituelle peuvent réduire la précision."],
+        ["Une copie indexable distincte", "PDF indexé crée un nouveau fichier et préserve le PDF d’origine. Vous ajoutez ainsi la recherche sans remplacer la source."],
+        ["Des documents dans plusieurs langues", "La précision dépend de la langue, de la police et des fonctions prises en charge par iOS. Vérifiez toujours les noms, montants, dates et clauses importantes dans l’original."]
+      ],
+      "note_title": "Vérifiez toujours le texte reconnu",
+      "note": "L’OCR peut confondre certains caractères, surtout si l’image est floue ou la mise en page complexe. Comparez les données juridiques, médicales, financières ou importantes avec le document source avant de les réutiliser.",
+      "faqs": [
+        ["Quelle différence entre OCR en direct et PDF indexé ?", "L’OCR en direct capture le texte avec la caméra. PDF indexé crée une copie consultable à partir d’un PDF existant."],
+        ["Puis-je modifier le texte reconnu ?", "Oui. Copiez le texte dans une app compatible ou utilisez PDF en Word pour créer un document Word."],
+        ["L’OCR fonctionne-t-il hors ligne ?", "La reconnaissance s’effectue sur l’appareil. Le partage et la sauvegarde iCloud peuvent nécessiter une connexion."],
+        ["Mon PDF d’origine est-il modifié ?", "Non. PDF indexé crée une copie distincte."]
+      ]
+    },
+    "organize-pdf-pages": {
+      "title": "Extraire et réorganiser les pages d’un PDF | ProScan PDF",
+      "description": "Extrayez, réorganisez, insérez ou supprimez des pages PDF et fusionnez plusieurs fichiers sur iPhone ou iPad, avec aperçu visuel et traitement local.",
+      "eyebrow": "Organisez librement les pages PDF",
+      "heading": "Organisez les pages.\nNe gardez que l’essentiel.",
+      "lead": "Affichez chaque page en aperçu, extrayez une sélection, modifiez l’ordre, insérez du contenu, supprimez les pages inutiles ou fusionnez plusieurs PDF.",
+      "image_alt": "Organisateur de pages avec aperçus PDF dans ProScan PDF",
+      "callout_title": "Chaque page sous les yeux",
+      "callout_text": "Extraire, réorganiser, insérer et supprimer.",
+      "chips": ["Extraire des pages", "Réorganiser", "Insérer", "Fusionner des PDF"],
+      "proofs": [
+        ["pages", "Voir le document page par page", "Organiser les pages affiche des aperçus visuels pour identifier la bonne page sans se fier uniquement à son numéro. Les pages sélectionnées sont clairement mises en évidence."],
+        ["extract", "Créer un PDF ciblé", "Sélectionnez uniquement les pages utiles et enregistrez-les dans un nouveau document. Le PDF d’origine reste disponible et le résultat plus court rejoint Mes fichiers."],
+        ["document", "Restructurer un fichier existant", "Réorganisez les pages, insérez du contenu provenant d’une autre source ou retirez ce qui n’est plus nécessaire. Enregistrez le PDF modifié lorsque l’ordre est correct."]
+      ],
+      "steps": [
+        ["Ouvrir Organiser les pages", "Dans Mes fichiers, sélectionnez un PDF puis Organiser. Les aperçus apparaissent avec les actions Extraire, Réorganiser, Insérer et Supprimer."],
+        ["Choisir les pages ou l’action", "Sélectionnez les pages à extraire ou supprimer, faites-les glisser pour les réorganiser, ou insérez du contenu supplémentaire. L’action en cours reste visible."],
+        ["Enregistrer le bon résultat", "Enregistrez les pages extraites dans un nouveau PDF ou sauvegardez le document modifié après réorganisation, insertion ou suppression. Une carte confirme la réussite."]
+      ],
+      "details": [
+        ["Partager uniquement les pages utiles", "Lorsque seule une partie du document est nécessaire, l’extraction crée un PDF plus concis: pages d’un contrat, chapitre, reçu inclus dans un long scan ou section d’un rapport."],
+        ["Fusionner des fichiers depuis Mes fichiers", "Le mode de sélection permet de réunir plusieurs PDF dans un nouveau document, sans passer par un service externe de téléversement et de téléchargement."],
+        ["Une bibliothèque qui réagit immédiatement", "Les cartes supprimées s’estompent et les fichiers restants se replacent avec une animation contrôlée. Les actualisations sont regroupées pour éviter un second mouvement inutile."]
+      ],
+      "note_title": "Conservez l’original des documents importants",
+      "note": "L’édition de pages crée des résultats modifiés ou extraits clairs. Pour les documents juridiques, financiers ou destinés à l’archivage, gardez néanmoins l’original intact jusqu’à avoir vérifié chaque page du nouveau fichier.",
+      "faqs": [
+        ["Puis-je extraire uniquement certaines pages ?", "Oui. Sélectionnez les pages souhaitées et enregistrez-les dans un nouveau PDF."],
+        ["Puis-je modifier l’ordre des pages ?", "Oui. Choisissez Réorganiser, déplacez les aperçus et enregistrez le PDF modifié."],
+        ["Puis-je fusionner plusieurs PDF ?", "Oui. Dans Mes fichiers, sélectionnez plusieurs PDF puis touchez Fusionner."],
+        ["L’organisation nécessite-t-elle un téléversement ?", "Non. Extraction, réorganisation, insertion, suppression et fusion sont effectuées localement."]
+      ]
+    }
+  }
+}

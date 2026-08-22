@@ -10,6 +10,8 @@ Support: info@proscanpdf.com
 
 German feature guides are available under https://proscanpdf.com/de/ and use the same feature paths as the English guides, for example https://proscanpdf.com/de/scan-to-pdf/ and https://proscanpdf.com/de/pdf-compressor/.
 
+French feature guides are available under https://proscanpdf.com/fr/ and use the same feature paths, for example https://proscanpdf.com/fr/scan-to-pdf/ and https://proscanpdf.com/fr/pdf-compressor/.
+
 ## Core promise
 
 Users can scan paper, create PDFs, recognize text, convert files, organize pages, sign documents, apply password protection, compress image-heavy PDFs and prepare ID photos without uploading the document to a ProScan PDF server.

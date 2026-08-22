@@ -47,6 +47,19 @@ Support: info@proscanpdf.com
 - [Text erkennen und PDFs durchsuchen](https://proscanpdf.com/de/ocr-text-extraction/)
 - [PDF-Seiten verwalten](https://proscanpdf.com/de/organize-pdf-pages/)
 
+## Guides détaillés en français
+
+- [Numériser des documents en PDF](https://proscanpdf.com/fr/scan-to-pdf/)
+- [Convertir des photos en PDF](https://proscanpdf.com/fr/photo-to-pdf/)
+- [Convertir un PDF en images JPG](https://proscanpdf.com/fr/pdf-to-images/)
+- [Ajouter un filigrane à un PDF](https://proscanpdf.com/fr/add-watermark/)
+- [Compresser un PDF](https://proscanpdf.com/fr/pdf-compressor/)
+- [Signer et protéger un PDF](https://proscanpdf.com/fr/sign-pdf/)
+- [Convertir un PDF en Word](https://proscanpdf.com/fr/pdf-to-word/)
+- [Créer une photo d’identité](https://proscanpdf.com/fr/id-photo-maker/)
+- [Extraire du texte et créer un PDF indexable](https://proscanpdf.com/fr/ocr-text-extraction/)
+- [Organiser les pages d’un PDF](https://proscanpdf.com/fr/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
