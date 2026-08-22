@@ -1,0 +1,405 @@
+{
+  "locale": "nl",
+  "hreflang": "nl",
+  "og_locale": "nl_NL",
+  "short_code": "NL",
+  "home_url": "/nl/",
+  "asset_locale": "nl",
+  "app_store_badge": "download-on-app-store-nl.svg",
+  "ui": {
+    "skip_content": "Ga naar de inhoud",
+    "main_navigation": "Hoofdnavigatie",
+    "home_aria": "Startpagina van ProScan PDF",
+    "open_navigation": "Navigatie openen",
+    "scanner": "Scanner",
+    "pdf_tools": "PDF-tools",
+    "privacy": "Privacy",
+    "faq": "FAQ",
+    "language": "Taal",
+    "choose_language": "Kies een taal",
+    "get_app": "Download",
+    "home": "Start",
+    "download_aria": "Download ProScan PDF in de App Store",
+    "download_alt": "Download in de App Store",
+    "og_image_alt": "Documentenscanner en PDF-tools van ProScan PDF",
+    "key_benefits": "Belangrijkste voordelen",
+    "workflow_eyebrow": "Een helder proces in drie stappen",
+    "workflow_title_1": "Van bronbestand naar",
+    "workflow_title_2": "eindresultaat.",
+    "workflow_text": "ProScan PDF houdt de actie, bevestiging en het opgeslagen bestand bij elkaar in één eenvoudig proces.",
+    "details_eyebrow": "Gemaakt voor echte documenten",
+    "details_title_1": "Nuttige details.",
+    "details_title_2": "Eerlijke grenzen.",
+    "faq_eyebrow": "Veelgestelde vragen",
+    "faq_title_1": "Wat je moet weten",
+    "faq_title_2": "voor je begint.",
+    "faq_text": "Praktische informatie over hoe deze tool in ProScan PDF werkt.",
+    "related_eyebrow": "Ga verder met je document",
+    "related_title_1": "Meer manieren om",
+    "related_title_2": "je document af te ronden.",
+    "cta_eyebrow": "Je volgende document is één tik verwijderd",
+    "cta_title_1": "Scan strak.",
+    "cta_title_2": "Werk privé.",
+    "cta_text": "Geen advertenties. Geen watermerken.",
+    "footer_description": "Een privé-documentenscanner en complete PDF-toolkit voor iPhone en iPad.",
+    "footer_product": "Product",
+    "footer_tools": "PDF-tools",
+    "footer_more": "Meer",
+    "footer_scan": "Scannen naar PDF",
+    "footer_photos": "Foto's naar PDF",
+    "footer_ocr": "Tekstherkenning",
+    "footer_organize": "PDF's ordenen",
+    "footer_images": "PDF naar beelden",
+    "footer_watermark": "Watermerk",
+    "footer_compress": "PDF comprimeren",
+    "footer_word": "PDF naar Word",
+    "footer_sign": "Onderteken en beveilig",
+    "footer_id": "Pasfoto's",
+    "app_store": "App Store",
+    "privacy_policy": "Privacybeleid",
+    "contact_support": "Neem contact op met support",
+    "made_for": "Gemaakt voor werk zonder afleiding."
+  },
+  "features": {
+    "scan-to-pdf": {
+      "title": "Documenten scannen naar PDF op iPhone | ProScan PDF",
+      "description": "Scan documenten, kassabonnen, identiteitsbewijzen, foto’s en whiteboards op iPhone of iPad. Acht modi, paginaformaten en offline verwerking.",
+      "eyebrow": "Een scanner voor elk document",
+      "heading": "Scan naar PDF.\nHoud elke pagina scherp.",
+      "lead": "Maak verzorgde PDF’s van papieren documenten met acht gerichte scanmodi, handige pagina-instellingen en Apple’s vertrouwde opname-interface.",
+      "image_alt": "Document in de scaninterface van ProScan PDF",
+      "callout_title": "Acht scanmodi",
+      "callout_text": "De juiste modus voor elke pagina.",
+      "chips": ["Documenten", "Kassabonnen", "Identiteitsbewijzen", "Offline"],
+      "proofs": [
+        ["auto", "De juiste modus voor elke pagina", "Kies vóór de opname Document, Auto, Kassabon, ID, Foto, Formulier, Z/W-tekst of Whiteboard. Zo weet je meteen welk type resultaat je voorbereidt."],
+        ["pages", "Stel de PDF in voordat je scant", "Selecteer A4, Letter, Legal of een ander ondersteund formaat, kies staand of liggend en bepaal of je paginanummers of datum en tijd wilt toevoegen."],
+        ["lock", "Lokale verwerking", "Scannen en het maken van de PDF gebeuren op je iPhone of iPad. Het document wordt niet naar een server van ProScan PDF geüpload."]
+      ],
+      "steps": [
+        ["Kies een scanmodus", "Selecteer op het beginscherm de modus die het beste bij de pagina past. Auto is geschikt voor algemene opnamen; Kassabon, ID, Formulier, Z/W-tekst en Whiteboard zijn bedoeld voor specifieke inhoud."],
+        ["Leg één of meer pagina’s vast", "Gebruik Apple’s documentenscanner om de pagina goed in beeld te brengen, flits en filters te regelen en te wisselen tussen automatisch en handmatig opnemen. Controleer elke opname voordat je de volgende toevoegt."],
+        ["Voltooi en bewaar de PDF", "Tik na de laatste pagina op Gereed. ProScan PDF bewaart het document in Mijn bestanden, houdt een lokale kopie beschikbaar en kan een privéback-up in iCloud maken wanneer die dienst beschikbaar is."]
+      ],
+      "details": [
+        ["Instellingen die bij het document passen", "Een kassabon vraagt om een andere behandeling dan een whiteboard of identiteitsbewijs. De gerichte modi maken je keuze duidelijk, terwijl formaat, stand, nummering en datum in één compact instellingenblok blijven."],
+        ["Meerdere pagina’s zonder overbodige stappen", "Leg één pagina vast of blijf pagina’s aan hetzelfde document toevoegen. Alles komt in één PDF die je kunt bekijken, hernoemen, ordenen, ondertekenen, beveiligen, comprimeren of delen."],
+        ["Betrouwbaar opgeslagen in Mijn bestanden", "De app bevestigt het bewaren en de PDF verschijnt in Mijn bestanden. Dankzij de lokale kopie hoef je bij recente documenten niet op een iCloud-download te wachten; de optionele back-up helpt wanneer je van Apple-apparaat wisselt."]
+      ],
+      "note_title": "Over de cameraknoppen",
+      "note": "Voor de opname gebruikt ProScan PDF Apple’s ingebouwde documentenscanner. Sluiter, flits, filters, controle en de modus Auto/Handmatig kunnen per iOS-versie iets verschillen. Scanmodi, PDF-instellingen, opslag en bibliotheek blijven door ProScan PDF beheerd.",
+      "faqs": [
+        ["Kan ik meerdere pagina’s in dezelfde PDF scannen?", "Ja. Leg alle pagina’s vast voordat je op Gereed tikt. ProScan PDF bewaart ze dan in één PDF met meerdere pagina’s."],
+        ["Welke scanmodi zijn beschikbaar?", "Op het beginscherm vind je Document, Auto, Kassabon, ID, Foto, Formulier, Z/W-tekst en Whiteboard."],
+        ["Werkt scannen zonder internet?", "De opname en het maken van de PDF gebeuren op het apparaat. Delen en de iCloud-back-up hebben een verbinding nodig wanneer je ze gebruikt."],
+        ["Waar vind ik mijn voltooide scan?", "Na een geslaagde opslag verschijnt de PDF in Mijn bestanden met een snel beschikbare lokale kopie."]
+      ]
+    },
+    "photo-to-pdf": {
+      "title": "Foto's naar PDF converteren op iPhone | ProScan PDF",
+      "description": "Maak van één of meer foto’s een geordende PDF op iPhone of iPad. Lokale verwerking, zonder advertenties en zonder automatische watermerken.",
+      "eyebrow": "Je foto’s worden één document",
+      "heading": "Foto's naar PDF.\nEén overzichtelijk bestand.",
+      "lead": "Bundel één of meer afbeeldingen in een PDF die eenvoudiger te bewaren, versturen en terugvinden is dan een reeks losse foto’s.",
+      "image_alt": "Tool Foto's naar PDF in ProScan PDF",
+      "callout_title": "Eén of meer foto’s",
+      "callout_text": "Maak de PDF rechtstreeks op je apparaat.",
+      "chips": ["Meerdere foto’s", "PDF-uitvoer", "Geen watermerk", "Op het apparaat"],
+      "proofs": [
+        ["images", "Een makkelijkere manier om afbeeldingen te versturen", "Bundel bij elkaar horende foto’s in één PDF in plaats van elke afbeelding apart mee te sturen. Handig voor notities, bewijsstukken, kassabonnen, tekeningen en ander beeldmateriaal."],
+        ["document", "Een resultaat dat makkelijk te ordenen is", "Elke geselecteerde afbeelding wordt een pagina in dezelfde PDF. Daarna kun je het bestand vanuit Mijn bestanden hernoemen, archiveren en delen."],
+        ["lock", "Privéconversie", "De afbeeldingen worden verwerkt en de PDF wordt gemaakt op het apparaat. ProScan PDF uploadt je foto’s niet naar eigen servers."]
+      ],
+      "steps": [
+        ["Open Foto's naar PDF", "Ga naar Tools en kies Foto's naar PDF. Met de systeemkiezer selecteer je alleen de beelden die je nodig hebt, zonder onnodig toegang tot de rest van je fotobibliotheek te geven."],
+        ["Selecteer de foto’s", "Kies één afbeelding voor een PDF van één pagina of meerdere foto’s voor een langer document. De oorspronkelijke verhoudingen blijven behouden, zonder uitrekken."],
+        ["Maak de PDF en ga verder in Mijn bestanden", "Bewaar het resultaat en hernoem, bekijk, orden of comprimeer het daarna vanuit Mijn bestanden. Je kunt er ook een watermerk aan toevoegen, het beveiligen of delen."]
+      ],
+      "details": [
+        ["Ook handig buiten traditioneel scannen", "Foto's naar PDF werkt met inhoud die al in Foto’s staat: schermafbeeldingen, gedownloade formulieren, gefotografeerde handgeschreven notities, referentiebeelden of eerder vastgelegde pagina’s."],
+        ["Alles binnen dezelfde werkwijze", "De nieuwe PDF komt in dezelfde bibliotheek als je scans. Je hoeft niet tussen een fotoconverter, een PDF-editor en nog een andere app voor delen te wisselen."],
+        ["Zonder advertenties of automatische watermerken", "De conversie wordt niet door reclame onderbroken en het resultaat bevat geen ProScan PDF-watermerk. De tool Watermerk wordt alleen gebruikt wanneer jij ervoor kiest er een toe te voegen."]
+      ],
+      "note_title": "Beeldkwaliteit en bestandsgrootte",
+      "note": "Foto’s met een hoge resolutie kunnen een grote PDF opleveren. Is het bestand te zwaar voor e-mail of opslag, gebruik dan daarna PDF comprimeren. Die vermindering werkt vooral goed bij documenten die uit afbeeldingen bestaan.",
+      "faqs": [
+        ["Kan ik meerdere foto’s omzetten naar één PDF?", "Ja. Selecteer meerdere foto’s en elke foto wordt een pagina in de PDF."],
+        ["Worden geïmporteerde foto’s uitgerekt?", "Nee. De conversie behoudt de oorspronkelijke verhoudingen."],
+        ["Voegt ProScan PDF een watermerk toe?", "Nee. Er wordt alleen een watermerk toegevoegd als je zelf de tool Watermerk gebruikt."],
+        ["Kan ik de PDF daarna comprimeren?", "Ja. PDF comprimeren verkleint vooral documenten met veel afbeeldingen."]
+      ]
+    },
+    "pdf-to-images": {
+      "title": "PDF naar JPG-beelden converteren | ProScan PDF",
+      "description": "Zet elke PDF-pagina om in een JPG van hoge kwaliteit op iPhone of iPad. Bewaar in Foto’s, deel of sla op in Bestanden met lokale verwerking.",
+      "eyebrow": "Elke PDF-pagina wordt een beeld",
+      "heading": "PDF naar beelden.\nBewaar elke pagina.",
+      "lead": "Zet elke PDF-pagina om in een afzonderlijke JPG van hoge kwaliteit en kies of je de beelden in Foto’s bewaart of met een andere app deelt.",
+      "image_alt": "Tool PDF naar beelden in het scherm Tools van ProScan PDF",
+      "callout_title": "Eén JPG per pagina",
+      "callout_text": "Bewaar in Foto’s, Bestanden of een andere app.",
+      "chips": ["JPG-uitvoer", "Eén beeld per pagina", "Bewaar of deel", "Op het apparaat"],
+      "proofs": [
+        ["photo", "Een scherp beeld van elke pagina", "ProScan PDF verwerkt alle pagina’s in de oorspronkelijke volgorde en maakt voor elke pagina een JPG van hoge kwaliteit. Documenten met meerdere pagina’s worden een genummerde reeks."],
+        ["images", "Jij kiest de bestemming", "Bewaar de beelden rechtstreeks in Foto’s of open het deelmenu van iOS om ze te versturen, in Bestanden op te slaan of in een andere geschikte app verder te gebruiken."],
+        ["lock", "Lokale conversie", "De PDF wordt op je iPhone of iPad verwerkt en niet naar een conversieserver van ProScan PDF verstuurd."]
+      ],
+      "steps": [
+        ["Kies de bron-PDF", "Open Tools, tik op PDF naar beelden en selecteer een document uit Mijn bestanden. De app bevestigt het gekozen bestand voordat de conversie begint."],
+        ["Maak de beelden", "ProScan PDF verwerkt elke leesbare pagina lokaal en gebruikt genummerde namen om de oorspronkelijke volgorde duidelijk te houden."],
+        ["Bewaar of deel het resultaat", "Kies Bewaar in Foto’s of Deel of bewaar in Bestanden. Een bevestigingskaart laat weten dat de beelden correct in Foto’s zijn opgeslagen."]
+      ],
+      "details": [
+        ["Wanneer je een beeld nodig hebt in plaats van een PDF", "De export is handig om een pagina naar een formulier te uploaden, in een presentatie te plaatsen, via berichten te versturen of als visuele kopie in Foto’s te bewaren."],
+        ["De volgorde blijft duidelijk", "Elke bestandsnaam bevat het paginanummer. Een PDF van vijf pagina’s levert vijf JPG’s in dezelfde volgorde op, niet één lange afbeelding."],
+        ["Tijdelijke bestanden worden opgeruimd", "De beelden worden tijdelijk voorbereid om ze te bewaren of te delen. Daarna verwijdert ProScan PDF de tijdelijke export, zodat er geen verborgen duplicaten achterblijven."]
+      ],
+      "note_title": "Grote documenten vragen meer middelen",
+      "note": "Elke pagina moet als volledig beeld worden verwerkt. Een lange of grafisch zware PDF kan meer tijd en tijdelijk geheugen vragen. Beveiligde PDF’s moeten voor export worden ontgrendeld. Het bronbestand verandert niet.",
+      "faqs": [
+        ["Welk beeldformaat maakt de tool?", "Voor elke PDF-pagina wordt een afzonderlijk JPG-bestand van hoge kwaliteit gemaakt."],
+        ["Kan ik een PDF met meerdere pagina’s exporteren?", "Ja. Elke leesbare pagina wordt in de juiste volgorde met een genummerde naam geëxporteerd."],
+        ["Kan ik de beelden buiten Foto’s bewaren?", "Ja. Kies Deel of bewaar in Bestanden en selecteer een bestemming in het deelmenu van iOS."],
+        ["Verlaat de PDF mijn apparaat?", "Nee. De verwerking en het maken van de JPG’s gebeuren lokaal."]
+      ]
+    },
+    "add-watermark": {
+      "title": "Een watermerk aan PDF toevoegen | ProScan PDF",
+      "description": "Voeg een diagonaal tekstwatermerk toe aan elke PDF-pagina. Kies uit zeven kleuren en bewaar rechtstreeks op je apparaat een nieuwe kopie.",
+      "eyebrow": "Maak elke pagina duidelijk herkenbaar",
+      "heading": "Voeg een watermerk toe.\nBehoud het origineel.",
+      "lead": "Plaats je eigen halfdoorzichtige tekst op alle pagina’s, kies een passende kleur en bewaar het resultaat als afzonderlijke PDF-kopie.",
+      "image_alt": "Tool Watermerk in ProScan PDF",
+      "callout_title": "Jouw tekst en kleur",
+      "callout_text": "Zeven kleuren en een intact origineel.",
+      "chips": ["Eigen tekst", "Zeven kleuren", "Alle pagina’s", "Nieuwe PDF-kopie"],
+      "proofs": [
+        ["watermark", "Jouw boodschap op het document", "Schrijf VERTROUWELIJK, CONCEPT, VOORBEELD of een projectnaam. ProScan PDF plaatst de tekst diagonaal over het midden van elke pagina met een goed leesbare transparantie."],
+        ["auto", "Kies een passende kleur", "Selecteer Cyaan, Wit, Lichtgrijs, Donkergrijs, Donkerrood, Donkergeel of Zwart. Cyaan is standaard geselecteerd en je keuze blijft zichtbaar voordat je het bestand maakt."],
+        ["document", "Een afzonderlijke kopie", "De oorspronkelijke PDF wordt niet overschreven. ProScan PDF maakt in Mijn bestanden een nieuw document met watermerk en laat het bronbestand intact."]
+      ],
+      "steps": [
+        ["Selecteer de PDF", "Open Tools, kies Watermerk en selecteer in Mijn bestanden de PDF die je wilt markeren."],
+        ["Vul tekst en kleur in", "Vervang VERTROUWELIJK zo nodig door je eigen boodschap en selecteer een van de zeven beschikbare kleuren."],
+        ["Maak de kopie met watermerk", "Tik op PDF met watermerk maken. Het document wordt lokaal verwerkt, als nieuwe PDF in Mijn bestanden bewaard en door de app bevestigd."]
+      ],
+      "details": [
+        ["Gelijkmatige plaatsing op elke pagina", "Grootte en positie passen zich aan elke pagina aan. Het resultaat blijft consistent in staande en liggende documenten en in bestanden met gemengde paginaformaten."],
+        ["Handig voor concepten en gecontroleerd delen", "Markeer concepten, voorbeelden, intern materiaal of projectdocumenten voordat je de PDF met iemand anders deelt."],
+        ["Werkt samen met de andere tools", "De nieuwe kopie verschijnt in Mijn bestanden en kan daarna worden hernoemd, geordend, gecomprimeerd, ondertekend, beveiligd of gedeeld."]
+      ],
+      "note_title": "Bewaar het origineel als je bewerkbare tekst nodig hebt",
+      "note": "De PDF wordt pagina voor pagina opnieuw opgebouwd om het watermerk gelijkmatig te plaatsen. Bewaar het origineel als je selecteerbare tekst, annotaties of vectorinhoud wilt behouden. Met de nieuwe kopie kun je beide bestanden bewaren.",
+      "faqs": [
+        ["Wordt het watermerk aan alle pagina’s toegevoegd?", "Ja. De gekozen tekst en kleur worden op elke pagina van de nieuwe PDF-kopie toegepast."],
+        ["Welke kleuren zijn beschikbaar?", "Cyaan, Wit, Lichtgrijs, Donkergrijs, Donkerrood, Donkergeel en Zwart. Cyaan is standaard geselecteerd."],
+        ["Wordt mijn oorspronkelijke PDF vervangen?", "Nee. ProScan PDF bewaart een afzonderlijke kopie met watermerk in Mijn bestanden."],
+        ["Wordt de PDF naar een server geüpload?", "Nee. Het watermerk wordt lokaal op je iPhone of iPad toegepast."]
+      ]
+    },
+    "pdf-compressor": {
+      "title": "PDF comprimeren op iPhone en iPad | ProScan PDF",
+      "description": "Comprimeer gescande en beeldrijke PDF’s lokaal. Vergelijk na afloop de oorspronkelijke grootte, het resultaat en het reductiepercentage.",
+      "eyebrow": "Kleinere bestanden, duidelijke resultaten",
+      "heading": "Comprimeer de PDF.\nBekijk de besparing.",
+      "lead": "Verklein gescande of beeldrijke PDF’s op je apparaat en vergelijk het oorspronkelijke bestand duidelijk met het nieuwe resultaat.",
+      "image_alt": "Tool PDF comprimeren in ProScan PDF",
+      "callout_title": "Voor en na",
+      "callout_text": "Originele grootte, resultaat en besparing.",
+      "chips": ["Gescande PDF’s", "PDF’s met beelden", "Lokale verwerking", "Duidelijk resultaat"],
+      "proofs": [
+        ["compress", "Gemaakt voor gescande documenten", "De compressor bouwt gescande pagina’s en PDF’s op basis van beelden opnieuw op met een efficiëntere codering. Ideaal voor cameraopnamen en PDF’s die uit Foto’s zijn gemaakt."],
+        ["document", "Een aparte gecomprimeerde kopie", "Het origineel wordt niet overschreven. ProScan PDF maakt een nieuwe, kleinere PDF, zodat je het resultaat kunt vergelijken en het bronbestand kunt behouden."],
+        ["check", "Een besparing die je meteen begrijpt", "De resultaatkaart toont de oorspronkelijke grootte, de gecomprimeerde grootte en het bespaarde percentage in plaats van alleen te melden dat het bestand is bewaard."]
+      ],
+      "steps": [
+        ["Kies een PDF", "Open Tools, tik op PDF comprimeren en selecteer het document. Scans met veel beelden leveren meestal de grootste besparing op."],
+        ["Laat de app de pagina’s opnieuw opbouwen", "ProScan PDF verwerkt en codeert de pagina’s lokaal met instellingen die de bestandsgrootte verkleinen terwijl het document leesbaar en bruikbaar blijft."],
+        ["Bekijk de besparing", "Na afloop vergelijkt de kaart beide bestandsgroottes en toont het reductiepercentage. Het nieuwe bestand staat in Mijn bestanden."]
+      ],
+      "details": [
+        ["Handig vóór versturen of uploaden", "Een kleinere PDF is makkelijker als bijlage te versturen, naar een formulier te uploaden of te bewaren. Compressie helpt ook wanneer veel scans lokale opslag of iCloud-ruimte innemen."],
+        ["Behoudt stand en volgorde", "De compressor bouwt de PDF opnieuw op zonder de inhoud te spiegelen of de paginavolgorde te veranderen. Leesbaarheid en volgorde blijven behouden."],
+        ["Binnen dezelfde PDF-werkwijze", "Daarna kun je de gecomprimeerde kopie vanuit dezelfde bibliotheek bekijken, hernoemen, ordenen, van een watermerk voorzien, ondertekenen, beveiligen of delen."]
+      ],
+      "note_title": "Wanneer compressie het beste werkt",
+      "note": "De functie is geoptimaliseerd voor gescande PDF’s en PDF’s met veel beelden. Een document dat vooral uit vectortekst bestaat, kan al goed geoptimaliseerd zijn en weinig kleiner worden. Zeer fijne details kunnen zachter worden; bewaar het origineel voor archivering.",
+      "faqs": [
+        ["Overschrijft compressie de oorspronkelijke PDF?", "Nee. ProScan PDF bewaart een afzonderlijke gecomprimeerde kopie."],
+        ["Welke PDF’s worden het meest verkleind?", "Gescande pagina’s, foto’s en documenten met veel afbeeldingen leveren meestal de grootste besparing op."],
+        ["Kan ik zien hoeveel ruimte ik heb bespaard?", "Ja. De kaart toont de oorspronkelijke grootte, de gecomprimeerde grootte en het reductiepercentage."],
+        ["Heb ik een externe server nodig?", "Nee. Het document wordt lokaal op je iPhone of iPad verwerkt."]
+      ]
+    },
+    "sign-pdf": {
+      "title": "PDF ondertekenen en beveiligen | ProScan PDF",
+      "description": "Voeg handtekeningen en tekstvelden toe, beveilig gevoelige PDF’s met een wachtwoord en deel het resultaat rechtstreeks vanaf iPhone of iPad.",
+      "eyebrow": "Rond documenten veilig af",
+      "heading": "Onderteken de PDF.\nBeveilig vóór verzending.",
+      "lead": "Voeg een handtekening of tekstveld toe, beveilig gevoelige PDF’s met een wachtwoord en deel het voltooide document zonder de app te verlaten.",
+      "image_alt": "Opties voor handtekening en tekstveld boven een PDF in ProScan PDF",
+      "callout_title": "Onderteken en beveilig",
+      "callout_text": "Rond het document op één plek af.",
+      "chips": ["Handtekeningen", "Tekstvelden", "Wachtwoord", "Direct delen"],
+      "proofs": [
+        ["sign", "Een handtekening op de juiste plek", "Open de formuliertools en voeg rechtstreeks op de juiste pagina een handtekening toe. De handtekening wordt onderdeel van het document in plaats van een los meegestuurde afbeelding."],
+        ["document", "Vul eenvoudige velden in", "Voeg een tekstveld toe voor namen, datums, korte antwoorden of andere informatie die op de bestaande pagina moet verschijnen."],
+        ["lock", "Beveilig gevoelige bestanden", "Maak een met wachtwoord beveiligde kopie voordat je vertrouwelijke documenten verstuurt. De beveiliging wordt lokaal op het apparaat toegepast."]
+      ],
+      "steps": [
+        ["Open de PDF die je wilt invullen", "Selecteer het document in Mijn bestanden en open de formulierknoppen. De pagina blijft zichtbaar terwijl je tekst of een handtekening toevoegt."],
+        ["Plaats het element", "Kies Tekstveld toevoegen of Handtekening toevoegen, plaats het element op de juiste pagina en controleer het resultaat voordat je bewaart."],
+        ["Beveilig of deel de kopie", "Gebruik zodra het document klaar is Beveilig om een versie met wachtwoord te maken of Deel om het deelmenu van iOS te openen."]
+      ],
+      "details": [
+        ["Een praktische ondertekenwerkwijze", "Vul alledaagse documenten in zonder ze te printen, te ondertekenen en opnieuw te scannen. Handtekeningen en tekstvelden blijven binnen dezelfde PDF-werkwijze."],
+        ["Een wachtwoord is een bewuste keuze", "Niet elk bestand heeft versleuteling nodig. Jij beslist wanneer een PDF om een wachtwoord moet vragen, zonder dat er onverwacht beveiliging wordt toegepast."],
+        ["Duidelijke bevestiging na het bewaren", "Een kaart bevestigt dat de gewijzigde of ondertekende PDF is bewaard. De bibliotheek en voorvertoning worden bijgewerkt om de nieuwe versie te tonen."]
+      ],
+      "note_title": "Stuur het wachtwoord apart",
+      "note": "Een beveiligde PDF is zo veilig als het gekozen wachtwoord. Gebruik voor gevoelige inhoud een sterk wachtwoord en verstuur het via een ander kanaal dan het document.",
+      "faqs": [
+        ["Kan ik tekst en een handtekening toevoegen?", "Ja. Met de formuliertools voeg je tekstvelden en handtekeningen aan de PDF toe."],
+        ["Kan ik een PDF met een wachtwoord beveiligen?", "Ja. De actie Beveilig maakt lokaal een beveiligde kopie."],
+        ["Hoe verstuur ik het voltooide document?", "Gebruik Deel om het deelmenu van iOS te openen en een bestemming te kiezen."],
+        ["Wordt de PDF voor ondertekenen naar een server gestuurd?", "Nee. Bewerken en ondertekenen gebeuren op je apparaat."]
+      ]
+    },
+    "pdf-to-word": {
+      "title": "PDF naar bewerkbare Word converteren | ProScan PDF",
+      "description": "Zet PDF’s op iPhone of iPad om in bewerkbare Word-documenten. Behoud tekstposities waar mogelijk en verwerk alles lokaal op je apparaat.",
+      "eyebrow": "Gebruik PDF-inhoud opnieuw",
+      "heading": "PDF naar Word.\nKrijg bewerkbare tekst terug.",
+      "lead": "Maak een bewerkbaar Word-document van een PDF en behoud waar mogelijk de tekstpositie en eenvoudige paginastructuur.",
+      "image_alt": "Tool PDF naar Word in ProScan PDF",
+      "callout_title": "Bewerkbare tekst",
+      "callout_text": "Met een zo getrouw mogelijke lay-out.",
+      "chips": ["Word-uitvoer", "Bewerkbare tekst", "Lay-out behouden", "Lokale verwerking"],
+      "proofs": [
+        ["word", "Echte tekst, niet alleen afbeeldingen", "ProScan PDF herkent de inhoud en schrijft die naar een Word-document, zodat je tekst kunt selecteren, corrigeren en verder bewerken."],
+        ["pages", "Posities behouden waar dat kan", "Herkende tekstblokken worden geplaatst op basis van hun positie op de PDF-pagina. Een eenvoudig document blijft zo beter herkenbaar dan in één links uitgelijnde tekstlijst."],
+        ["lock", "Conversie op het apparaat", "Tekstherkenning en het maken van het Word-bestand gebeuren lokaal. De PDF wordt niet naar een externe dienst gestuurd."]
+      ],
+      "steps": [
+        ["Selecteer de PDF", "Open Tools, kies PDF naar Word en selecteer een bestand uit Mijn bestanden."],
+        ["Bevestig de conversie", "Controleer het gekozen document en start de verwerking. ProScan PDF herkent tekst pagina voor pagina en bootst waar mogelijk de oorspronkelijke positie na."],
+        ["Open en bewerk het Word-document", "Het gemaakte Word-bestand verschijnt in Mijn bestanden. Je kunt het openen, delen of in een geschikte app bewerken."]
+      ],
+      "details": [
+        ["Het beste met heldere pagina’s vol tekst", "Brieven, rapporten, eenvoudige contracten, formulieren en documenten met duidelijk afgebakende tekst leveren de makkelijkst bewerkbare resultaten op."],
+        ["Bewerkbaarheid gaat vóór een perfecte kopie", "Het doel is een bruikbaar Word-bestand met echte tekst. Complexe kolommen, tabellen, handschrift, bijzondere lettertypen of overlappende beelden kunnen nabewerking vragen."],
+        ["De oorspronkelijke PDF blijft intact", "De conversie wijzigt het bronbestand niet. Het Word-document wordt als nieuw bestand bewaard, zodat je altijd naar de oorspronkelijke PDF kunt terugkeren."]
+      ],
+      "note_title": "Lokale conversie met duidelijke grenzen",
+      "note": "Eenvoudige lay-outs en tekstposities worden waar mogelijk behouden, maar zeer complexe structuren kunnen niet altijd exact worden nagebouwd. Controleer tabellen, kolommen, formulieren en grafisch zware pagina’s na de conversie.",
+      "faqs": [
+        ["Is de tekst in het Word-document bewerkbaar?", "Ja. Herkende tekst wordt als bewerkbare inhoud geëxporteerd, niet als een eenvoudige afbeelding van de pagina."],
+        ["Blijft de lay-out behouden?", "Eenvoudige posities en witruimte blijven waar mogelijk behouden. Complexe lay-outs kunnen aanpassingen nodig hebben."],
+        ["Werkt dit met een gescande PDF?", "Ja, als de tekst scherp genoeg is om lokaal te worden herkend."],
+        ["Wordt de PDF naar een server gestuurd?", "Nee. De herkenning en het maken van het Word-document gebeuren op het apparaat."]
+      ]
+    },
+    "id-photo-maker": {
+      "title": "Pasfoto's maken op iPhone en iPad | ProScan PDF",
+      "description": "Snijd pasfoto’s voor paspoort of identiteitsbewijs bij op iPhone of iPad. Exporteer één foto of een printvel in het juiste formaat.",
+      "eyebrow": "Pasfoto’s gemaakt op je apparaat",
+      "heading": "Maak een pasfoto.\nSnijd bij, controleer en print.",
+      "lead": "Maak of importeer een foto, pas gezicht en uitsnede aan en maak een losse afbeelding of printvel met de vereiste afmetingen.",
+      "image_alt": "Tool Pasfoto's in ProScan PDF",
+      "callout_title": "Formaat en uitsnede",
+      "callout_text": "Afmetingen, controle en een printvel.",
+      "chips": ["Maak foto", "Automatisch bijsnijden", "Gebruikelijke formaten", "Printvel"],
+      "proofs": [
+        ["person", "Het gezicht goed in beeld", "Automatische gezichtsdetectie helpt om hoofd en gezicht binnen de gekozen verhoudingen te plaatsen. Daarna kun je de uitsnede handmatig bijstellen."],
+        ["photo", "Maak een foto of kies een bestaande", "Gebruik de camera voor een nieuwe opname of importeer een portret uit Foto’s. De oorspronkelijke verhoudingen blijven behouden en de foto wordt niet uitgerekt."],
+        ["pages", "Losse foto of printvel", "Exporteer één pasfoto of plaats meerdere exemplaren op een vel om thuis of via een fotoservice af te drukken."]
+      ],
+      "steps": [
+        ["Maak of selecteer een foto", "Open Pasfoto's en kies Camera of Foto’s. Gebruik een scherp, goed belicht beeld met een egale achtergrond."],
+        ["Kies het formaat en stel de uitsnede bij", "Selecteer de vereiste afmetingen, laat de app het gezicht detecteren en corrigeer de uitsnede handmatig wanneer dat nodig is."],
+        ["Bewaar het resultaat", "Maak een losse foto of een printvel en bewaar of deel het bestand op de bestemming van je keuze."]
+      ],
+      "details": [
+        ["Verschillende gangbare formaten", "Voorinstellingen dekken veelgebruikte afmetingen voor paspoorten, visa en identiteitsbewijzen. Met aangepaste maten voldoe je aan eisen van instanties die een ander formaat vragen."],
+        ["Kwaliteitswaarschuwingen vóór export", "De app kan waarschuwen voor een ongeschikte uitsnede of lage resolutie, zodat je duidelijke problemen kunt oplossen voordat je afdrukt."],
+        ["Privéverwerking", "Gezichtsdetectie, bijsnijden en exporteren gebeuren op het apparaat. Het portret wordt niet naar een server van ProScan PDF gestuurd."]
+      ],
+      "note_title": "Controleer altijd de officiële eisen",
+      "note": "Formaat, hoofdpositie, achtergrond, gezichtsuitdrukking en andere voorwaarden verschillen per land en document. De app helpt met afmetingen en uitsnede, maar vervangt nooit de controle van de actuele officiële voorschriften.",
+      "faqs": [
+        ["Kan ik een bestaande foto gebruiken?", "Ja. Kies een afbeelding uit Foto’s of maak een nieuwe opname met de camera."],
+        ["Wordt de foto uitgerekt?", "Nee. De verhoudingen van de gemaakte of geïmporteerde foto blijven behouden."],
+        ["Kan ik meerdere pasfoto’s op één pagina zetten?", "Ja. Je kunt een printvel met meerdere exemplaren maken."],
+        ["Garandeert de app dat een instantie de foto accepteert?", "Nee. Controleer altijd de officiële eisen voor het document voordat je de foto afdrukt of instuurt."]
+      ]
+    },
+    "ocr-text-extraction": {
+      "title": "OCR, tekst extraheren en PDF doorzoeken | ProScan PDF",
+      "description": "Leg tekst vast met Live OCR, haal inhoud uit documenten en maak doorzoekbare PDF’s op iPhone of iPad, volledig met lokale verwerking.",
+      "eyebrow": "Maak bruikbare tekst van papier",
+      "heading": "Haal tekst eruit.\nZoek in de PDF.",
+      "lead": "Leg tekst vast met de camera, haal tekst uit een document of maak een doorzoekbare PDF-kopie, allemaal rechtstreeks op je apparaat.",
+      "image_alt": "Live OCR herkent tekst in ProScan PDF",
+      "callout_title": "Live OCR en doorzoekbare PDF",
+      "callout_text": "Leg vast, kopieer en vind tekst.",
+      "chips": ["Live OCR", "Geëxtraheerde tekst", "Doorzoekbare PDF", "Op het apparaat"],
+      "proofs": [
+        ["eye", "Leg tekst vast met de camera", "Live OCR toont herkende tekst tijdens de opname. Handig voor korte fragmenten, notities, borden en inhoud die je meteen opnieuw wilt gebruiken."],
+        ["search", "Zoek in gescande PDF’s", "Doorzoekbare PDF maakt een nieuwe kopie waarin je kunt zoeken. Open die in Mijn bestanden en vind woorden, namen of getallen rechtstreeks in het document."],
+        ["document", "Gebruik de inhoud opnieuw", "Herkende tekst kan worden gekopieerd, gedeeld of opgeslagen. Heb je een bewerkbaar Word-bestand nodig, gebruik dan ook PDF naar Word."]
+      ],
+      "steps": [
+        ["Kies de juiste OCR-tool", "Gebruik Live OCR voor opname met de camera, OCR op een bestand om tekst op te halen of Doorzoekbare PDF om een kopie te maken waarin je kunt zoeken."],
+        ["Herken de tekst lokaal", "ProScan PDF analyseert de afbeelding of PDF-pagina’s met functies van het apparaat. Het document hoeft niet naar een eigen server te worden geüpload."],
+        ["Gebruik het resultaat", "Kopieer, deel of bewaar de tekst, of open de nieuwe kopie in Mijn bestanden en gebruik de ingebouwde zoekfunctie van de viewer."]
+      ],
+      "details": [
+        ["Geoptimaliseerd voor gedrukte tekst", "Scherpe, rechte en goed belichte pagina’s geven de beste resultaten. Zeer kleine tekst, handschrift, onscherpte, schaduwen of ongebruikelijke lay-outs kunnen de nauwkeurigheid verminderen."],
+        ["Een afzonderlijke doorzoekbare kopie", "Doorzoekbare PDF maakt een nieuw bestand en behoudt de oorspronkelijke PDF. Zo voeg je zoeken toe zonder het bronbestand te overschrijven."],
+        ["Documenten in verschillende talen", "De nauwkeurigheid hangt af van taal, lettertype en iOS-ondersteuning. Controleer namen, bedragen, datums en belangrijke bepalingen altijd met het origineel."]
+      ],
+      "note_title": "Controleer herkende tekst altijd",
+      "note": "OCR kan tekens verwisselen, vooral bij onscherpe beelden of complexe lay-outs. Vergelijk juridische, medische, financiële of andere belangrijke informatie met het oorspronkelijke document voordat je die hergebruikt.",
+      "faqs": [
+        ["Wat is het verschil tussen Live OCR en Doorzoekbare PDF?", "Live OCR legt tekst vast met de camera. Doorzoekbare PDF maakt van een bestaande PDF een nieuwe kopie met zoekfunctie."],
+        ["Kan ik de herkende tekst bewerken?", "Ja. Kopieer de tekst naar een geschikte app of gebruik PDF naar Word om een Word-document te maken."],
+        ["Werkt OCR zonder internet?", "De herkenning gebeurt op het apparaat. Delen en een iCloud-back-up kunnen een verbinding nodig hebben."],
+        ["Wordt de oorspronkelijke PDF gewijzigd?", "Nee. Doorzoekbare PDF maakt een afzonderlijke kopie."]
+      ]
+    },
+    "organize-pdf-pages": {
+      "title": "PDF-pagina's extraheren en ordenen | ProScan PDF",
+      "description": "Extraheer, herschik, voeg in of verwijder PDF-pagina’s en voeg bestanden samen op iPhone of iPad, met voorvertoningen en lokale verwerking.",
+      "eyebrow": "Orden PDF-pagina’s zoals jij wilt",
+      "heading": "Orden de pagina’s.\nBewaar alleen wat nodig is.",
+      "lead": "Bekijk elke pagina als miniatuur, extraheer een selectie, wijzig de volgorde, voeg inhoud in, verwijder overbodige pagina’s of voeg meerdere PDF’s samen.",
+      "image_alt": "Pagina-organizer met voorvertoningen van PDF-pagina’s in ProScan PDF",
+      "callout_title": "Elke pagina in beeld",
+      "callout_text": "Extraheer, herschik, voeg in en verwijder.",
+      "chips": ["Pagina's extraheren", "Herschik", "Voeg in", "PDF’s samenvoegen"],
+      "proofs": [
+        ["pages", "Bekijk het document pagina voor pagina", "Pagina's ordenen toont voorvertoningen, zodat je inhoud herkent zonder alleen op het nummer af te gaan. Geselecteerde pagina’s krijgen een duidelijke markering."],
+        ["extract", "Maak een gerichtere PDF", "Selecteer alleen de relevante pagina’s en bewaar ze als nieuw document. De oorspronkelijke PDF blijft beschikbaar en het kortere resultaat verschijnt in Mijn bestanden."],
+        ["document", "Herstructureer een bestaand bestand", "Herschik pagina’s, voeg inhoud uit een andere bron in of verwijder wat niet moet blijven. Bewaar de gewijzigde PDF wanneer de volgorde klopt."]
+      ],
+      "steps": [
+        ["Open Pagina's ordenen", "Selecteer een PDF in Mijn bestanden en tik op Orden. De voorvertoningen verschijnen samen met Pagina's extraheren, Herschik, Voeg in en Verwijder."],
+        ["Kies pagina’s of een actie", "Markeer pagina’s die je wilt extraheren of verwijderen, sleep ze naar een andere plek of voeg extra inhoud in. De actieve bewerking blijft duidelijk zichtbaar."],
+        ["Bewaar het juiste resultaat", "Bewaar geëxtraheerde pagina’s als nieuwe PDF of het gewijzigde document na herschikken, invoegen of verwijderen. Een kaart bevestigt dat het bestand correct is gemaakt."]
+      ],
+      "details": [
+        ["Deel alleen de belangrijke pagina’s", "Heb je slechts een deel nodig, dan maakt extraheren een beknoptere PDF: enkele contractpagina’s, een hoofdstuk, een kassabon uit een lange scan of een deel van een rapport."],
+        ["Voeg bestanden samen vanuit Mijn bestanden", "In de selectiemodus kun je meerdere PDF’s in een nieuw document samenbrengen zonder afhankelijk te zijn van een externe upload- en downloaddienst."],
+        ["Directe feedback in de bibliotheek", "Verwijderde kaarten vervagen en de andere bestanden schuiven met een beheerste animatie naar hun nieuwe plek. Updates worden gebundeld om een tweede onnodige beweging te voorkomen."]
+      ],
+      "note_title": "Bewaar het origineel van belangrijke documenten",
+      "note": "Paginabewerking maakt duidelijk herkenbare gewijzigde of geëxtraheerde resultaten. Bewaar bij juridische, financiële of archiefdocumenten het origineel totdat je alle pagina’s van het nieuwe bestand hebt gecontroleerd.",
+      "faqs": [
+        ["Kan ik alleen bepaalde pagina’s extraheren?", "Ja. Selecteer de benodigde pagina’s en bewaar ze als een nieuwe PDF."],
+        ["Kan ik de paginavolgorde wijzigen?", "Ja. Kies Herschik, verplaats de voorvertoningen en bewaar de gewijzigde PDF."],
+        ["Kan ik meerdere PDF’s samenvoegen?", "Ja. Selecteer in Mijn bestanden meerdere PDF-documenten en tik op Voeg samen."],
+        ["Moet ik documenten online uploaden?", "Nee. Extraheren, herschikken, invoegen, verwijderen en samenvoegen gebeuren lokaal."]
+      ]
+    }
+  }
+}

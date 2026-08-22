@@ -86,6 +86,19 @@ Support: info@proscanpdf.com
 - [Estrarre testo e creare PDF ricercabili](https://proscanpdf.com/it/ocr-text-extraction/)
 - [Organizzare le pagine PDF](https://proscanpdf.com/it/organize-pdf-pages/)
 
+## Uitgebreide handleidingen in het Nederlands
+
+- [Documenten scannen naar PDF](https://proscanpdf.com/nl/scan-to-pdf/)
+- [Foto's omzetten naar PDF](https://proscanpdf.com/nl/photo-to-pdf/)
+- [PDF omzetten naar JPG-beelden](https://proscanpdf.com/nl/pdf-to-images/)
+- [Een watermerk aan PDF toevoegen](https://proscanpdf.com/nl/add-watermark/)
+- [PDF comprimeren](https://proscanpdf.com/nl/pdf-compressor/)
+- [PDF ondertekenen en beveiligen](https://proscanpdf.com/nl/sign-pdf/)
+- [PDF omzetten naar Word](https://proscanpdf.com/nl/pdf-to-word/)
+- [Pasfoto's maken](https://proscanpdf.com/nl/id-photo-maker/)
+- [Tekst extraheren en PDF doorzoekbaar maken](https://proscanpdf.com/nl/ocr-text-extraction/)
+- [PDF-pagina's ordenen](https://proscanpdf.com/nl/organize-pdf-pages/)
+
 ## Machine-readable references
 
 - [Full product reference](https://proscanpdf.com/llms-full.txt)
