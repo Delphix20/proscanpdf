@@ -25,6 +25,8 @@ Support: info@proscanpdf.com
 
 - [Scan to PDF](https://proscanpdf.com/scan-to-pdf/)
 - [Photos to PDF](https://proscanpdf.com/photo-to-pdf/)
+- [PDF to Images](https://proscanpdf.com/pdf-to-images/)
+- [Add a text watermark to PDF](https://proscanpdf.com/add-watermark/)
 - [Compress PDF](https://proscanpdf.com/pdf-compressor/)
 - [Sign and password-protect PDF](https://proscanpdf.com/sign-pdf/)
 - [PDF to Word](https://proscanpdf.com/pdf-to-word/)
@@ -76,4 +78,4 @@ Support: info@proscanpdf.com
 - Compression is optimized for scanned and image-based PDFs.
 - iCloud availability depends on the user's Apple account, settings and network connection.
 
-Last updated: 2026-08-21
+Last updated: 2026-08-22

@@ -24,6 +24,18 @@ One photo or multiple selected images can be converted into a PDF. Source propor
 
 Guide: https://proscanpdf.com/photo-to-pdf/
 
+## PDF to Images
+
+PDF to Images renders every readable PDF page as a separate high-quality JPG with a sequential page number. Users can save the results to Photos or open the standard iOS share sheet to share them or save them to Files. Rendering happens locally, and temporary export files are removed after the workflow finishes.
+
+Guide: https://proscanpdf.com/pdf-to-images/
+
+## Add Watermark
+
+Add Watermark places custom semi-transparent text diagonally across every page. Available colors are Cyan, White, Light Gray, Dark Gray, Dark Red, Dark Yellow and Black. The operation happens locally and saves a separate watermarked PDF so the source remains available.
+
+Guide: https://proscanpdf.com/add-watermark/
+
 ## Compression
 
 Compression is optimized for scanned and image-based PDFs. The original is retained and a separate compressed copy is created. The result card reports original size, compressed size and percentage reduction. Vector-heavy PDFs may already be efficient and may not shrink substantially.
@@ -81,4 +93,4 @@ Primary working copies are stored locally in the app's My Files library for fast
 - Sitemap: https://proscanpdf.com/sitemap.xml
 - Crawler policy: https://proscanpdf.com/robots.txt
 
-Last updated: 2026-08-21
+Last updated: 2026-08-22

@@ -30,6 +30,8 @@ The primary working copy is kept locally for fast opening and preview generation
 
 - https://proscanpdf.com/scan-to-pdf/
 - https://proscanpdf.com/photo-to-pdf/
+- https://proscanpdf.com/pdf-to-images/
+- https://proscanpdf.com/add-watermark/
 - https://proscanpdf.com/pdf-compressor/
 - https://proscanpdf.com/sign-pdf/
 - https://proscanpdf.com/pdf-to-word/
@@ -37,4 +39,4 @@ The primary working copy is kept locally for fast opening and preview generation
 - https://proscanpdf.com/ocr-text-extraction/
 - https://proscanpdf.com/organize-pdf-pages/
 
-Last updated: 2026-08-21
+Last updated: 2026-08-22

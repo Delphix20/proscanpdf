@@ -7,7 +7,7 @@ from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://proscanpdf.com"
-LAST_MODIFIED = "2026-08-21"
+LAST_MODIFIED = "2026-08-22"
 
 LANGUAGES = [
     ("en", "/", ""),
@@ -39,6 +39,8 @@ SCREEN_CAPTIONS = {
 FEATURES = {
     "/scan-to-pdf/": ("screen-scan", "Scan documents to PDF on iPhone and iPad"),
     "/photo-to-pdf/": ("screen-tools", "Convert one or more photos to PDF"),
+    "/pdf-to-images/": ("screen-tools", "Convert every PDF page to a JPG image"),
+    "/add-watermark/": ("screen-tools", "Add a colored text watermark to PDF pages"),
     "/pdf-compressor/": ("screen-tools", "Compress scanned and image-based PDF files"),
     "/sign-pdf/": ("screen-sign", "Add signatures and text form boxes to PDF files"),
     "/pdf-to-word/": ("screen-tools", "Convert PDF files to editable Word documents"),

@@ -47,7 +47,7 @@
                   "about": {
                         "@id": "https://proscanpdf.com/#app"
                   },
-                  "dateModified": "2026-08-21"
+                  "dateModified": "2026-08-22"
             },
             {
                   "@type": "BreadcrumbList",
@@ -182,6 +182,7 @@
         <symbol id="icon-lock" viewBox="0 0 24 24"><rect x="4" y="10" width="16" height="11" rx="3"/><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v3"/></symbol>
         <symbol id="icon-images" viewBox="0 0 24 24"><rect x="6" y="6" width="15" height="14" rx="2"/><path d="M3 16V5a2 2 0 0 1 2-2h12M8 17l4-4 3 3 2-2 2 2"/></symbol>
         <symbol id="icon-photo" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m5.5 17 4.5-4 3 2.5 2.5-2 3 3.5"/></symbol>
+        <symbol id="icon-watermark" viewBox="0 0 24 24"><path d="M12 2s6 7 6 12a6 6 0 0 1-12 0c0-5 6-12 6-12Z"/><path d="M9 15c.7 1.7 2.4 2.4 4 1.8"/></symbol>
         <symbol id="icon-compress" viewBox="0 0 24 24"><path d="M9 3v6H3M15 21v-6h6M4 8l5-5M20 16l-5 5"/></symbol>
         <symbol id="icon-sign" viewBox="0 0 24 24"><path d="M4 18c3-5 5-7 6-6s-1 4 0 5 3-3 4-2-1 3 1 3c1.5 0 2.5-1 5-1"/><path d="m14 5 2-2 4 4-8 8-4 1 1-4z"/></symbol>
         <symbol id="icon-word" viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v5h5M9 12l1.2 5L12 13l1.8 4L15 12"/></symbol>
@@ -310,7 +311,12 @@
 
         <section class="guide-section"><div class="section-shell">
             <div class="guide-section-heading reveal"><p class="eyebrow">Continue the workflow</p><h2>More ways to<br><span>finish the document.</span></h2></div>
-            <div class="related-guide-grid">                <a class="related-guide reveal" href="/photo-to-pdf/">
+            <div class="related-guide-grid">                <a class="related-guide reveal" href="/add-watermark/">
+                    <div class="guide-icon"><svg aria-hidden="true"><use href="#icon-watermark"></use></svg></div>
+                    <h3>Add a watermark. Keep the original.</h3>
+                    <p>Apply your own semi-transparent text across every page, choose a color that suits the document and save the result as a separate PDF copy.</p>
+                </a>
+                <a class="related-guide reveal" href="/photo-to-pdf/">
                     <div class="guide-icon"><svg aria-hidden="true"><use href="#icon-images"></use></svg></div>
                     <h3>Photos to PDF. One clean file.</h3>
                     <p>Choose one or more images and turn them into a PDF that is easier to file, send and revisit than a loose group of photos.</p>
@@ -324,11 +330,6 @@
                     <div class="guide-icon"><svg aria-hidden="true"><use href="#icon-pages"></use></svg></div>
                     <h3>Organize PDF pages. Keep the useful parts.</h3>
                     <p>Extract, reorder, insert or delete pages, merge multiple PDFs and save a clear modified copy from the same document library.</p>
-                </a>
-                <a class="related-guide reveal" href="/sign-pdf/">
-                    <div class="guide-icon"><svg aria-hidden="true"><use href="#icon-sign"></use></svg></div>
-                    <h3>Sign PDF. Lock it before sending.</h3>
-                    <p>Add a signature or text form item, protect sensitive PDFs with a password and share the finished document without leaving the app.</p>
                 </a></div>
         </div></section>
 
@@ -343,7 +344,7 @@
         <div class="footer-brand"><a class="brand" href="/"><span class="brand-icon"><img src="../assets/proscan-mark.svg" alt="" width="40" height="40"></span><span>ProScan PDF</span></a><p>A private document scanner and complete PDF toolkit for iPhone and iPad.</p></div>
         <div class="footer-links">
             <div><strong>Product</strong><a href="/scan-to-pdf/">Scan to PDF</a><a href="/photo-to-pdf/">Photos to PDF</a><a href="/ocr-text-extraction/">OCR</a><a href="/organize-pdf-pages/">Organize PDFs</a></div>
-            <div><strong>PDF Tools</strong><a href="/pdf-compressor/">Compress PDF</a><a href="/pdf-to-word/">PDF to Word</a><a href="/sign-pdf/">Sign and lock</a><a href="/id-photo-maker/">ID Photo Maker</a></div>
+            <div><strong>PDF Tools</strong><a href="/pdf-to-images/">PDF to Images</a><a href="/add-watermark/">Add Watermark</a><a href="/pdf-compressor/">Compress PDF</a><a href="/pdf-to-word/">PDF to Word</a><a href="/sign-pdf/">Sign and lock</a><a href="/id-photo-maker/">ID Photo Maker</a></div>
             <div><strong>More</strong><a href="https://apps.apple.com/app/id6752308731" data-app-store="footer" rel="noopener">App Store</a><a href="https://paulcrp.com/proscanpdf_privacypolicy.html" rel="noopener">Privacy Policy</a><a href="mailto:info@proscanpdf.com">Contact support</a></div>
         </div>
     </div><div class="section-shell footer-bottom"><span>© <span data-year></span> ProScan PDF</span><span>Made for focused work.</span></div></footer>

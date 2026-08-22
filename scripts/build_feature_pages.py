@@ -85,7 +85,81 @@ FEATURES = {
             ("Will ProScan PDF add a watermark?", "No automatic watermark is added. The separate watermark tool is available only when you want to apply one yourself."),
             ("Can I compress the PDF afterward?", "Yes. Open Compress PDF from Tools to reduce the size of image-based PDFs when a smaller file is needed."),
         ],
-        "related": ["scan-to-pdf", "pdf-compressor", "organize-pdf-pages", "ocr-text-extraction"],
+        "related": ["scan-to-pdf", "pdf-to-images", "pdf-compressor", "organize-pdf-pages"],
+    },
+    "pdf-to-images": {
+        "title": "Convert PDF to JPG Images on iPhone | ProScan PDF",
+        "description": "Convert every PDF page to a high-quality JPG on iPhone or iPad. Save images to Photos, share them or save them to Files with on-device processing.",
+        "eyebrow": "Every PDF page becomes an image",
+        "heading": "PDF to Images.\nSave every page.",
+        "lead": "Turn each page of a PDF into a separate high-quality JPG, then choose whether to save the images to Photos or share them with another app.",
+        "image": "screen-tools",
+        "image_alt": "PDF to Images tool on the ProScan PDF tools screen",
+        "icon": "photo",
+        "callout_title": "One JPG per page",
+        "callout_text": "Save to Photos, Files or another app.",
+        "chips": ["JPG output", "One image per page", "Save or share", "On-device"],
+        "proofs": [
+            ("photo", "A clear image for every page", "ProScan PDF renders the complete PDF in page order and creates one high-quality JPG for each page. Multi-page documents become an organized set of numbered image files."),
+            ("images", "Choose where the result goes", "When the images are ready, save them directly to Photos or open the iOS share sheet to send them, save them to Files or continue in another compatible app."),
+            ("lock", "Private conversion", "The PDF is rendered locally on your iPhone or iPad. ProScan PDF does not upload the document to its own conversion server."),
+        ],
+        "steps": [
+            ("Choose the source PDF", "Open Tools, tap PDF to Images and select a document from My Files. The app confirms the selected source before beginning the export."),
+            ("Create the page images", "ProScan PDF renders each readable page locally and creates sequentially numbered JPG files so their original order remains clear."),
+            ("Save or share the result", "Choose Save to Photos for direct photo-library access, or choose Share or Save to Files to use the standard iOS share sheet. A completion card confirms a successful save to Photos."),
+        ],
+        "details": [
+            ("Useful when a PDF is not the required format", "Image export is practical for uploading individual pages to a form, placing a PDF page in a presentation, sending one page through a messaging app or keeping visual copies in Photos."),
+            ("Page order remains understandable", "Every image filename includes its page number. A five-page PDF produces five JPG files in the same sequence as the source rather than one long or combined image."),
+            ("Temporary files are cleaned up", "The page images are prepared in temporary app storage for the save or share action. After the workflow finishes, ProScan PDF removes the temporary export instead of leaving hidden duplicate files behind."),
+        ],
+        "note_title": "Large documents need more time and memory",
+        "note": "Each PDF page must be rendered as a full image, so a long or graphics-heavy document can take longer and use more temporary memory. Password-locked PDFs must be unlocked before they can be exported. The source PDF remains unchanged.",
+        "faqs": [
+            ("Which image format does PDF to Images create?", "The tool creates a separate high-quality JPG file for every PDF page."),
+            ("Can I export a multi-page PDF?", "Yes. Every readable page is exported in order with a numbered filename."),
+            ("Can I save the images somewhere other than Photos?", "Yes. Choose Share or Save to Files to open the standard iOS share sheet and select an available destination."),
+            ("Does the PDF leave my device for conversion?", "No. Page rendering and JPG creation happen locally on your iPhone or iPad."),
+        ],
+        "related": ["photo-to-pdf", "ocr-text-extraction", "pdf-compressor", "organize-pdf-pages"],
+    },
+    "add-watermark": {
+        "title": "Add a Text Watermark to PDF on iPhone | ProScan PDF",
+        "description": "Add a diagonal text watermark to every PDF page on iPhone or iPad. Choose from seven colors and save a separate watermarked copy entirely on-device.",
+        "eyebrow": "Mark every page intentionally",
+        "heading": "Add a watermark.\nKeep the original.",
+        "lead": "Apply your own semi-transparent text across every page, choose a color that suits the document and save the result as a separate PDF copy.",
+        "image": "screen-tools",
+        "image_alt": "Add Watermark tool on the ProScan PDF tools screen",
+        "icon": "watermark",
+        "callout_title": "Text and color control",
+        "callout_text": "Seven colors, one protected original.",
+        "chips": ["Custom text", "Seven colors", "Every page", "New PDF copy"],
+        "proofs": [
+            ("watermark", "Your message across the document", "Enter text such as CONFIDENTIAL, DRAFT, SAMPLE or a project name. ProScan PDF places the message diagonally across the center of every page with a readable semi-transparent finish."),
+            ("auto", "Choose a suitable color", "Select Cyan, White, Light Gray, Dark Gray, Dark Red, Dark Yellow or Black. Cyan is selected by default, and the color choice remains explicit before the PDF is created."),
+            ("document", "A separate watermarked copy", "The source PDF is not silently overwritten. ProScan PDF creates a new watermarked file in My Files so the untouched original remains available."),
+        ],
+        "steps": [
+            ("Select the PDF", "Open Tools, choose Add Watermark and select the PDF you want to mark from My Files."),
+            ("Enter text and choose a color", "Replace the default CONFIDENTIAL text with your own wording if needed, then select one of the seven available colors."),
+            ("Create the watermarked copy", "Tap Create Watermarked PDF. The document is processed locally, saved to My Files as a new PDF and followed by a completion confirmation."),
+        ],
+        "details": [
+            ("Consistent placement on every page", "The watermark is sized relative to each PDF page and placed diagonally through the center, creating a consistent visual treatment across portrait, landscape and mixed-size documents."),
+            ("Useful for drafts and controlled sharing", "A visible watermark can identify a draft, label a sample, mark internal material or add a project or organization name before the PDF is sent to someone else."),
+            ("Works with the rest of the PDF toolkit", "The new copy appears in My Files and can then be renamed, organized, compressed, signed, locked or shared without leaving ProScan PDF."),
+        ],
+        "note_title": "Keep the source when editable text matters",
+        "note": "The watermark workflow rebuilds the PDF page by page to place the text consistently. Keep the original for archival use or when selectable text, annotations or vector content must remain untouched. The separate-copy workflow makes that easy.",
+        "faqs": [
+            ("Is the watermark added to every page?", "Yes. The selected text and color are applied across every page in the new PDF copy."),
+            ("Which watermark colors are available?", "Cyan, White, Light Gray, Dark Gray, Dark Red, Dark Yellow and Black are available, with Cyan selected by default."),
+            ("Will the tool replace my original PDF?", "No. ProScan PDF saves a separate watermarked copy in My Files."),
+            ("Is the PDF uploaded for watermarking?", "No. The watermark is rendered locally on your iPhone or iPad."),
+        ],
+        "related": ["pdf-compressor", "sign-pdf", "organize-pdf-pages", "photo-to-pdf"],
     },
     "pdf-compressor": {
         "title": "Compress PDF Files on iPhone and iPad | ProScan PDF",
@@ -122,7 +196,7 @@ FEATURES = {
             ("Can I see how much space was saved?", "Yes. The success card displays the original size, compressed size and percentage reduction."),
             ("Does compression require an external server?", "No. The document is processed locally on your iPhone or iPad."),
         ],
-        "related": ["photo-to-pdf", "scan-to-pdf", "organize-pdf-pages", "sign-pdf"],
+        "related": ["add-watermark", "photo-to-pdf", "scan-to-pdf", "organize-pdf-pages"],
     },
     "sign-pdf": {
         "title": "Sign and Password-Protect PDFs on iPhone | ProScan PDF",
@@ -307,7 +381,7 @@ FEATURES = {
             ("Can I combine several PDFs?", "Yes. Use Select in My Files, choose the PDF files and tap Merge to create one combined document."),
             ("Does organizing require an upload?", "No. Extraction, reordering, insertion, deletion and merging are performed locally."),
         ],
-        "related": ["sign-pdf", "pdf-compressor", "scan-to-pdf", "ocr-text-extraction"],
+        "related": ["sign-pdf", "add-watermark", "pdf-compressor", "scan-to-pdf"],
     },
 }
 
@@ -323,6 +397,7 @@ ICONS = {
     "lock": '<rect x="4" y="10" width="16" height="11" rx="3"/><path d="M8 10V7a4 4 0 0 1 8 0v3M12 14v3"/>',
     "images": '<rect x="6" y="6" width="15" height="14" rx="2"/><path d="M3 16V5a2 2 0 0 1 2-2h12M8 17l4-4 3 3 2-2 2 2"/>',
     "photo": '<rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m5.5 17 4.5-4 3 2.5 2.5-2 3 3.5"/>',
+    "watermark": '<path d="M12 2s6 7 6 12a6 6 0 0 1-12 0c0-5 6-12 6-12Z"/><path d="M9 15c.7 1.7 2.4 2.4 4 1.8"/>',
     "compress": '<path d="M9 3v6H3M15 21v-6h6M4 8l5-5M20 16l-5 5"/>',
     "sign": '<path d="M4 18c3-5 5-7 6-6s-1 4 0 5 3-3 4-2-1 3 1 3c1.5 0 2.5-1 5-1"/><path d="m14 5 2-2 4 4-8 8-4 1 1-4z"/>',
     "word": '<path d="M7 3h7l4 4v14H7z"/><path d="M14 3v5h5M9 12l1.2 5L12 13l1.8 4L15 12"/>',
@@ -368,7 +443,7 @@ def json_ld(slug: str, item: dict) -> str:
                 "inLanguage": "en",
                 "isPartOf": {"@id": "https://proscanpdf.com/#website"},
                 "about": {"@id": "https://proscanpdf.com/#app"},
-                "dateModified": "2026-08-21",
+                "dateModified": "2026-08-22",
             },
             {
                 "@type": "BreadcrumbList",
@@ -586,7 +661,7 @@ def render_page(slug: str, item: dict) -> str:
         <div class="footer-brand"><a class="brand" href="/"><span class="brand-icon"><img src="../assets/proscan-mark.svg" alt="" width="40" height="40"></span><span>ProScan PDF</span></a><p>A private document scanner and complete PDF toolkit for iPhone and iPad.</p></div>
         <div class="footer-links">
             <div><strong>Product</strong><a href="/scan-to-pdf/">Scan to PDF</a><a href="/photo-to-pdf/">Photos to PDF</a><a href="/ocr-text-extraction/">OCR</a><a href="/organize-pdf-pages/">Organize PDFs</a></div>
-            <div><strong>PDF Tools</strong><a href="/pdf-compressor/">Compress PDF</a><a href="/pdf-to-word/">PDF to Word</a><a href="/sign-pdf/">Sign and lock</a><a href="/id-photo-maker/">ID Photo Maker</a></div>
+            <div><strong>PDF Tools</strong><a href="/pdf-to-images/">PDF to Images</a><a href="/add-watermark/">Add Watermark</a><a href="/pdf-compressor/">Compress PDF</a><a href="/pdf-to-word/">PDF to Word</a><a href="/sign-pdf/">Sign and lock</a><a href="/id-photo-maker/">ID Photo Maker</a></div>
             <div><strong>More</strong><a href="{APP_STORE}" data-app-store="footer" rel="noopener">App Store</a><a href="https://paulcrp.com/proscanpdf_privacypolicy.html" rel="noopener">Privacy Policy</a><a href="mailto:info@proscanpdf.com">Contact support</a></div>
         </div>
     </div><div class="section-shell footer-bottom"><span>© <span data-year></span> ProScan PDF</span><span>Made for focused work.</span></div></footer>

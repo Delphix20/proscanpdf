@@ -27,6 +27,7 @@ Detailed guides:
 - https://proscanpdf.com/ocr-text-extraction/
 - https://proscanpdf.com/pdf-to-word/
 - https://proscanpdf.com/photo-to-pdf/
+- https://proscanpdf.com/pdf-to-images/
 
 ## PDF tools
 
@@ -41,6 +42,7 @@ Detailed guides:
 Detailed guides:
 
 - https://proscanpdf.com/organize-pdf-pages/
+- https://proscanpdf.com/add-watermark/
 - https://proscanpdf.com/pdf-compressor/
 - https://proscanpdf.com/sign-pdf/
 
@@ -71,4 +73,4 @@ Privacy details: https://proscanpdf.com/docs/privacy-and-processing.md
 - Privacy policy: https://paulcrp.com/proscanpdf_privacypolicy.html
 - Support: info@proscanpdf.com
 
-Last updated: 2026-08-21
+Last updated: 2026-08-22
