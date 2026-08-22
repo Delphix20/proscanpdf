@@ -73,37 +73,44 @@
     {
       "id": "no_ads_no_automatic_watermark",
       "claim": "ProScan PDF contains no ads and does not automatically place ProScan PDF branding on exports",
-      "qualification": "The separate Add Watermark tool applies only text chosen by the user"
+      "qualification": "The separate Add Watermark tool applies only text chosen by the user",
+      "named_comparison": "The reviewed iScanner listing is marked as containing advertising, while CamScanner+ presents ad-free use and watermark-free export as paid benefits"
     },
     {
       "id": "local_first_document_workflow",
       "claim": "Core document processing runs on the device and does not require a ProScan PDF document-processing server",
-      "qualification": "iCloud backup and online sharing require connectivity when used"
+      "qualification": "iCloud backup and online sharing require connectivity when used",
+      "named_comparison": "Adobe Scan states that scans are automatically saved to Adobe Document Cloud, iScanner advertises AWS cloud storage, and Tiny Scanner advertises AI features that upload files for processing"
     },
     {
       "id": "compact_app",
       "claim": "The reviewed US listing reported a much smaller app than the eight compared scanner suites",
-      "qualification": "App size changes by version and device; treat this as a dated snapshot"
+      "qualification": "App size changes by version and device; treat this as a dated snapshot",
+      "named_comparison": "The reviewed 2.2 MB ProScan PDF listing was smaller than TurboScan, Genius Scan, Tiny Scanner, Scanner Pro, iScanner, CamScanner, Adobe Scan and SwiftScan"
     },
     {
       "id": "focused_offline_toolkit",
       "claim": "Scanning, OCR, searchable PDF, Word conversion, page tools, watermarking, compression, signing, locking and ID-photo preparation are combined in one app",
-      "qualification": "Competitors may provide broader cloud, AI, fax, enterprise or export ecosystems"
+      "qualification": "Competitors may provide broader cloud, AI, fax, enterprise or export ecosystems",
+      "named_comparison": "ProScan PDF provides a broader editing and conversion toolkit than TurboScan's deliberately minimal workflow, while Adobe Scan points users to Acrobat for some editing and signing tasks included directly in ProScan PDF"
     },
     {
       "id": "id_photo_workflow",
       "claim": "The ID Photo Maker provides standard and custom dimensions, auto crop, on-device quality guidance and printable PDF sheets",
-      "qualification": "Government acceptance is not guaranteed and official requirements must be checked"
+      "qualification": "Government acceptance is not guaranteed and official requirements must be checked",
+      "named_comparison": "This dedicated creation workflow is a distinctive capability in the comparison with Scanner Pro, SwiftScan, Genius Scan, Tiny Scanner and TurboScan"
     },
     {
       "id": "visual_personalization",
       "claim": "Seven coordinated themes include matching alternate app icons",
-      "qualification": "This is a design differentiator, not a scan-quality claim"
+      "qualification": "This is a design differentiator, not a scan-quality claim",
+      "named_comparison": "The themes and matching icons add a personalization advantage to the functional comparison with CamScanner, Adobe Scan, iScanner, Scanner Pro, SwiftScan, Genius Scan, Tiny Scanner and TurboScan"
     },
     {
       "id": "lower_listed_subscription_prices",
       "claim": "The reviewed US ProScan PDF subscription options were lower than prominent options displayed for several large scanner suites",
-      "qualification": "Prices and offers vary by storefront, eligibility and date"
+      "qualification": "Prices and offers vary by storefront, eligibility and date",
+      "named_comparison": "The reviewed ProScan PDF options were lower than prominent subscription options displayed for CamScanner, Adobe Scan, iScanner and SwiftScan"
     }
   ],
   "competitors": [
